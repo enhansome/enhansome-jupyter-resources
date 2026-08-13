@@ -1,0 +1,88 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CV项目和资源大全",
+          "description": "周更新的各种CV板块涉及的项目和工具资源汇集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T12:17:30Z",
+            "owner": "HanXinzi-AI",
+            "repo": "awesome-computer-vision-resources",
+            "stars": 359
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLP项目和资源大全",
+          "description": "周更新的各种NLP板块涉及的项目和工具资源汇集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-03T12:39:04Z",
+            "owner": "HanXinzi-AI",
+            "repo": "awesome-NLP-resources",
+            "stars": 238
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "python机器学习资源大全",
+          "description": "周更新的各种python机器学习资源汇集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T14:27:59Z",
+            "owner": "HanXinzi-AI",
+            "repo": "awesome-python-machine-learning-resources",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Python资源汇集列表",
+          "description": "周更新的各种应用方向与主题的资源汇集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T14:28:23Z",
+            "owner": "HanXinzi-AI",
+            "repo": "awesome-python-resources",
+            "stars": 181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jupyter及相关工具资源大全",
+          "description": "周更新的各种Jupyter及相关工具资源汇集列表",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-06T14:17:30Z",
+            "owner": "HanXinzi-AI",
+            "repo": "awesome-jupyter-resources",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "相关资源"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:06.786Z",
+    "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
+    "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
+    "enhanced_repository": "enhansome/enhansome-jupyter-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome jupyter resources with stars"
+  }
+}
