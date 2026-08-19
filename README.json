@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362487420,
             "language": null,
             "last_commit": "2024-06-03T12:17:30Z",
             "owner": "HanXinzi-AI",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 362049928,
             "language": null,
             "last_commit": "2024-06-03T12:39:04Z",
             "owner": "HanXinzi-AI",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361497736,
             "language": null,
             "last_commit": "2024-06-06T14:27:59Z",
             "owner": "HanXinzi-AI",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361172111,
             "language": null,
             "last_commit": "2024-06-06T14:28:23Z",
             "owner": "HanXinzi-AI",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 361363140,
             "language": null,
             "last_commit": "2024-06-06T14:17:30Z",
             "owner": "HanXinzi-AI",
@@ -78,8 +83,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:55:14.170Z",
+    "last_updated": "2026-08-19T12:35:02.016Z",
     "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
+    "original_repository_id": 361363140,
     "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
     "enhanced_repository": "enhansome/enhansome-jupyter-resources",
     "enhanced_repository_description": null,
