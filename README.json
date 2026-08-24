@@ -33,7 +33,7 @@
             "archived": false,
             "id": 20785986,
             "language": "Python",
-            "last_commit": "2026-08-20T20:52:44Z",
+            "last_commit": "2026-08-24T17:24:08Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
             "stars": 8329
@@ -57,7 +57,7 @@
             "last_commit": "2026-08-24T09:48:40Z",
             "owner": "nteract",
             "repo": "nteract",
-            "stars": 161
+            "stars": 162
           }
         }
       ],
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23731
+            "stars": 23728
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13685
+            "stars": 13684
           }
         }
       ],
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-24T14:15:31Z",
+            "last_commit": "2026-08-24T18:05:19Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20433
+            "stars": 20434
           }
         }
       ],
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7840
+            "stars": 7842
           }
         }
       ],
@@ -957,7 +957,7 @@
             "archived": false,
             "id": 185452341,
             "language": "Python",
-            "last_commit": "2026-08-24T14:39:18Z",
+            "last_commit": "2026-08-24T16:59:55Z",
             "owner": "spacetelescope",
             "repo": "jdaviz",
             "stars": 177
@@ -2007,7 +2007,7 @@
             "archived": false,
             "id": 33655535,
             "language": "Python",
-            "last_commit": "2026-08-20T22:03:36Z",
+            "last_commit": "2026-08-24T19:14:05Z",
             "owner": "ipython",
             "repo": "ipykernel",
             "stars": 734
@@ -2070,7 +2070,7 @@
             "archived": false,
             "id": 23292534,
             "language": "Python",
-            "last_commit": "2026-08-24T13:22:51Z",
+            "last_commit": "2026-08-24T16:17:18Z",
             "owner": "Calysto",
             "repo": "metakernel",
             "stars": 370
@@ -2889,7 +2889,7 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-21T23:05:23Z",
+            "last_commit": "2026-08-24T19:05:46Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -3267,7 +3267,7 @@
             "archived": false,
             "id": 222507066,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-23T23:57:31Z",
+            "last_commit": "2026-08-24T18:25:14Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
             "stars": 5308
@@ -3309,7 +3309,7 @@
             "archived": false,
             "id": 33653575,
             "language": "Python",
-            "last_commit": "2026-06-12T10:12:29Z",
+            "last_commit": "2026-08-24T19:13:40Z",
             "owner": "jupyter",
             "repo": "jupyter_client",
             "stars": 472
@@ -3435,7 +3435,7 @@
             "archived": false,
             "id": 33640907,
             "language": "Python",
-            "last_commit": "2026-08-24T11:23:33Z",
+            "last_commit": "2026-08-24T16:04:04Z",
             "owner": "jupyter",
             "repo": "nbformat",
             "stars": 310
@@ -3477,7 +3477,7 @@
             "archived": false,
             "id": 278889378,
             "language": "Python",
-            "last_commit": "2026-08-22T15:43:35Z",
+            "last_commit": "2026-08-24T18:31:20Z",
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1203
@@ -5732,7 +5732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:43:26.383Z",
+    "last_updated": "2026-08-24T20:00:24.821Z",
     "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
     "original_repository_id": 361363140,
     "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
