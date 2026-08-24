@@ -5,6 +5,5655 @@
       "items": [
         {
           "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 610 · 🔀 3.8K · 📥 8.8K · 📦 10 · 📋 4.5K - 44% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33653601,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T07:26:18Z",
+            "owner": "jupyter",
+            "repo": "notebook",
+            "stars": 13319
+          }
+        }
+      ],
+      "title": "Jupyter (🥇27 · ⭐ 10K · 📉) - Jupyter Interactive Notebook. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 280 · 🔀 1.7K · 📦 1.9K · 📋 2.1K - 5% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 20785986,
+            "language": "Python",
+            "last_commit": "2026-08-20T20:52:44Z",
+            "owner": "jupyterhub",
+            "repo": "jupyterhub",
+            "stars": 8329
+          }
+        }
+      ],
+      "title": "JupyterHub (🥇25 · ⭐ 7.1K) - Jupyter笔记本电脑的多用户服务器。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 180 · 🔀 530 · 📥 1.4M · 📋 1.7K - 9% open · ⏱️ 23.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1155631492,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T09:48:40Z",
+            "owner": "nteract",
+            "repo": "nteract",
+            "stars": 161
+          }
+        }
+      ],
+      "title": "nteract (🥇25 · ⭐ 5.9K) - 交互式计算套件 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 220 · 🔀 2.6K · 📋 770 - 5% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39144867,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:05:23Z",
+            "owner": "jupyter",
+            "repo": "docker-stacks",
+            "stars": 8459
+          }
+        }
+      ],
+      "title": "Docker Stacks (🥈22 · ⭐ 7.2K) - 包含Jupyter应用程序的即可运行的Docker映像。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 36 · 🔀 30 · 📦 2.7K · 📋 1.4K - 4% open · ⏱️ 21.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51625787,
+            "language": "Python",
+            "last_commit": "2025-11-06T14:29:41Z",
+            "owner": "vatlab",
+            "repo": "sos",
+            "stars": 287
+          }
+        }
+      ],
+      "title": "sos (🥈22 · ⭐ 230) - 用于日常数据分析的SoS工作流系统。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 52 · 🔀 250 · 📋 890 - 25% open · ⏱️ 16.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 22693761,
+            "language": "TypeScript",
+            "last_commit": "2022-09-02T20:50:03Z",
+            "owner": "googledatalab",
+            "repo": "datalab",
+            "stars": 978
+          }
+        }
+      ],
+      "title": "DataLab (🥈21 · ⭐ 980 · 💤) - 面向大数据的交互式工具和开发人员经验。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 89 · 🔀 320 · 📋 1.3K - 13% open · ⏱️ 25.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 35395056,
+            "language": "TypeScript",
+            "last_commit": "2026-07-19T05:45:37Z",
+            "owner": "nteract",
+            "repo": "hydrogen",
+            "stars": 4020
+          }
+        }
+      ],
+      "title": "Hydrogen (🥉19 · ⭐ 3.8K) - 交互运行代码，检查数据并作图。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 150 · 🔀 810 · 📋 300 - 4% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33904449,
+            "language": "Python",
+            "last_commit": "2026-08-20T21:01:49Z",
+            "owner": "Kaggle",
+            "repo": "docker-python",
+            "stars": 2729
+          }
+        }
+      ],
+      "title": "docker-python (🥉19 · ⭐ 2.2K) - Kaggle Python Docker映像。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 11 · 🔀 330 · 📋 87 - 9% open · ⏱️ 22.11.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188880197,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-07-26T07:39:39Z",
+            "owner": "ml-tooling",
+            "repo": "ml-workspace",
+            "stars": 3544
+          }
+        }
+      ],
+      "title": "ML Workspace (🥉18 · ⭐ 2.7K · 💤) - 基于Web的多合一IDE，专门用于机器学习和数据任务。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 54 · 📥 1.9K · 📋 26 - 57% open · ⏱️ 23.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193927718,
+            "language": "Python",
+            "last_commit": "2021-12-23T13:12:29Z",
+            "owner": "ml-tooling",
+            "repo": "ml-hub",
+            "stars": 321
+          }
+        }
+      ],
+      "title": "ML Hub (🥉17 · ⭐ 250 · 💤) - 机器学习团队的多用户开发平台。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 17 · 🔀 43 · 📥 790 · 📦 80 · 📋 110 - 3% open · ⏱️ 04.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 319380806,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-02-16T13:40:19Z",
+            "owner": "jupyterlab",
+            "repo": "retrolab",
+            "stars": 282
+          }
+        }
+      ],
+      "title": "jupyterlab-classic (🥉17 · ⭐ 240) - 下一代老式笔记本用户UI界面。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 250 · 🔀 150 · 📋 7.7K - 8% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294546561,
+            "language": "TypeScript",
+            "last_commit": "2026-08-21T11:53:03Z",
+            "owner": "microsoft",
+            "repo": "vscode-jupyter",
+            "stars": 1528
+          }
+        }
+      ],
+      "title": "VSCode Jupyter (🥉16 · ⭐ 710) - VS Code Jupyter extension. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 140 · 📋 56 - 21% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221302744,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-11T15:17:46Z",
+            "owner": "iot-salzburg",
+            "repo": "gpu-jupyter",
+            "stars": 767
+          }
+        }
+      ],
+      "title": "gpu-jupyter (🥉14 · ⭐ 390) - 充分利用Jupyterlab的灵活性。 Apache-2"
+    },
+    {
+      "description": "提供交互式UI小部件和可视化工具的扩展。",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "🔗 best-of-ml-python - Data Visualization",
+          "description": "Python-based data visualization libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 317029148,
+            "language": null,
+            "last_commit": "2026-08-20T14:14:49Z",
+            "owner": "lukasmasuch",
+            "repo": "best-of-ml-python",
+            "stars": 23731
+          }
+        }
+      ],
+      "title": "交互式小部件和可视化"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 200 · 🔀 830 · 📦 4.7K · 📋 1.8K - 31% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 34138622,
+            "language": "TypeScript",
+            "last_commit": "2026-08-19T07:43:12Z",
+            "owner": "jupyter-widgets",
+            "repo": "ipywidgets",
+            "stars": 3326
+          }
+        }
+      ],
+      "title": "ipywidgets (🥇34 · ⭐ 2.6K) - Interactive Widgets for the Jupyter Notebook. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 92 · 🔀 1.3K · 📦 8.8K · 📋 580 - 19% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49346299,
+            "language": "Python",
+            "last_commit": "2026-04-22T23:26:39Z",
+            "owner": "Data-Centric-AI-Community",
+            "repo": "fg-data-profiling",
+            "stars": 13685
+          }
+        }
+      ],
+      "title": "pandas-profiling (🥇33 · ⭐ 9.4K) - 从pandas DataFrame创建HTML分析报告。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 80 · 🔀 320 · 📦 2.6K · 📋 500 - 36% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19541904,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T12:49:17Z",
+            "owner": "jupyter-widgets",
+            "repo": "ipyleaflet",
+            "stars": 1538
+          }
+        }
+      ],
+      "title": "ipyleaflet (🥇30 · ⭐ 1.3K) - Jupyter-Leaflet.js桥接。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 3834332,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:15:31Z",
+            "owner": "bokeh",
+            "repo": "bokeh",
+            "stars": 20433
+          }
+        }
+      ],
+      "title": "bokeh (🥇28 · ⭐ 17K) - 浏览器中的Python交互式数据可视化。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196968829,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T05:18:50Z",
+            "owner": "man-group",
+            "repo": "dtale",
+            "stars": 5215
+          }
+        }
+      ],
+      "title": "D-Tale (🥇27 · ⭐ 3.6K) - Visualizer for Pandas Data Structures. ❗️LGPL-2.1"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 59 · 🔀 440 · 📦 34 · 📋 570 - 36% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 43191201,
+            "language": "TypeScript",
+            "last_commit": "2026-05-07T08:33:08Z",
+            "owner": "bqplot",
+            "repo": "bqplot",
+            "stars": 3693
+          }
+        }
+      ],
+      "title": "bqplot (🥇27 · ⭐ 3.3K) - 用于IPython / Jupyter笔记本的绘图库。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 41 · 🔀 220 · 📦 840 · 📋 300 - 56% open · ⏱️ 26.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77063495,
+            "language": "TypeScript",
+            "last_commit": "2023-11-29T14:26:24Z",
+            "owner": "widgetti",
+            "repo": "ipyvolume",
+            "stars": 1963
+          }
+        }
+      ],
+      "title": "ipyvolume (🥇27 · ⭐ 1.8K) - 基于IPython的Jupyter笔记本中用于Python的3d绘图 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 28 · 🔀 190 · 📦 3.7K · 📋 260 - 44% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 63877123,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-31T12:18:52Z",
+            "owner": "matplotlib",
+            "repo": "ipympl",
+            "stars": 1656
+          }
+        }
+      ],
+      "title": "jupyter-matplotlib (🥇27 · ⭐ 1.3K) - Matplotlib Jupyter集成。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 210 · 📥 77 · 📦 1.8K · 📋 62 - 62% open · ⏱️ 28.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 259106997,
+            "language": "Python",
+            "last_commit": "2024-06-01T18:02:38Z",
+            "owner": "plotly",
+            "repo": "jupyter-dash",
+            "stars": 957
+          }
+        }
+      ],
+      "title": "jupyter-dash (🥇27 · ⭐ 800) - 在Jupyter Notebook和JupyterLab中开发Dash应用程序。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 100 · 🔀 360 · 📦 2.4K · 📋 340 - 30% open · ⏱️ 15.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96454557,
+            "language": "Python",
+            "last_commit": "2026-07-06T21:18:39Z",
+            "owner": "nteract",
+            "repo": "papermill",
+            "stars": 6477
+          }
+        }
+      ],
+      "title": "papermill (🥈26 · ⭐ 4.8K) - 参数化，执行和分析笔记本。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 28 · 🔀 850 · 📦 130 · 📋 150 - 50% open · ⏱️ 06.05.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 96544175,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-05-24T15:56:22Z",
+            "owner": "PAIR-code",
+            "repo": "facets",
+            "stars": 7336
+          }
+        }
+      ],
+      "title": "facets-overview (🥈25 · ⭐ 7K · 💀) - 机器学习数据集的可视化。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 30 · 🔀 170 · 📦 21 · 📋 220 - 23% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15400194,
+            "language": "JavaScript",
+            "last_commit": "2024-10-10T15:48:16Z",
+            "owner": "jupyter-widgets",
+            "repo": "pythreejs",
+            "stars": 988
+          }
+        }
+      ],
+      "title": "pythreejs (🥈24 · ⭐ 830) - Jupyter-Three.js桥接。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 51 · 📦 780 · 📋 110 - 36% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 653527862,
+            "language": "Python",
+            "last_commit": "2026-07-01T08:39:26Z",
+            "owner": "martinRenou",
+            "repo": "ipycanvas",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "ipycanvas (🥈24 · ⭐ 630) - Jupyter中的交互式画布。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 30 · 🔀 390 · 📋 270 - 54% open · ⏱️ 07.04.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24624545,
+            "language": "Python",
+            "last_commit": "2024-01-12T07:28:07Z",
+            "owner": "quantopian",
+            "repo": "qgrid",
+            "stars": 3084
+          }
+        }
+      ],
+      "title": "qgrid (🥈23 · ⭐ 2.9K · 💀) - 用于排序，过滤和编辑DataFrame的交互式工具。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 33 · 📦 570 · 📋 51 - 60% open · ⏱️ 29.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99951895,
+            "language": "JavaScript",
+            "last_commit": "2024-02-20T10:19:50Z",
+            "owner": "maartenbreddels",
+            "repo": "ipywebrtc",
+            "stars": 253
+          }
+        }
+      ],
+      "title": "ipywebrtc (🥈23 · ⭐ 210 · 💀) - 适用于Jupyter笔记本/实验室的WebRTC。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 32 · 🔀 55 · 📥 3 · 📦 78 · 📋 160 - 37% open · ⏱️ 20.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 238460517,
+            "language": "Python",
+            "last_commit": "2026-07-06T18:01:22Z",
+            "owner": "cytoscape",
+            "repo": "ipycytoscape",
+            "stars": 289
+          }
+        }
+      ],
+      "title": "ipycytoscape (🥈23 · ⭐ 200) - Cytoscape Jupyter小部件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 21 · 🔀 130 · 📦 140 · 📋 99 - 32% open · ⏱️ 19.04.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99706219,
+            "language": "Python",
+            "last_commit": "2025-02-06T21:36:12Z",
+            "owner": "mapbox",
+            "repo": "mapboxgl-jupyter",
+            "stars": 679
+          }
+        }
+      ],
+      "title": "Mapbox GL (🥈22 · ⭐ 620 · 💀) - 使用Mapbox GL JS可视化Python Jupyter笔记本中的数据。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 29 · 📦 140 · 📋 49 - 10% open · ⏱️ 17.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181572634,
+            "language": "Python",
+            "last_commit": "2026-08-21T10:24:41Z",
+            "owner": "mwouts",
+            "repo": "itables",
+            "stars": 972
+          }
+        }
+      ],
+      "title": "itables (🥈21 · ⭐ 320) - Jupyter中的交互式表格。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 44 · 📦 4 · 📋 170 - 26% open · ⏱️ 07.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 186670393,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:24:54Z",
+            "owner": "widgetti",
+            "repo": "ipyvuetify",
+            "stars": 356
+          }
+        }
+      ],
+      "title": "ipyvuetify (🥈21 · ⭐ 260) - 基于vuetify UI组件的Jupyter小部件。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 8 · 📦 570 · 📋 10 - 20% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 98913174,
+            "language": "TypeScript",
+            "last_commit": "2023-06-14T12:40:10Z",
+            "owner": "vidartf",
+            "repo": "ipydatawidgets",
+            "stars": 44
+          }
+        }
+      ],
+      "title": "ipydatawidgets (🥈21 · ⭐ 31) - 一组小部件，以帮助促进大型数据集的重用。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 61 · 📥 66 · 📋 200 - 43% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121581663,
+            "language": "Python",
+            "last_commit": "2026-03-10T21:02:03Z",
+            "owner": "InsightSoftwareConsortium",
+            "repo": "itkwidgets",
+            "stars": 623
+          }
+        }
+      ],
+      "title": "itkwidgets (🥉20 · ⭐ 460) - 交互式Jupyter小部件，以可视化图像，点集等。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 24 · 🔀 270 · 📦 550 · 📋 110 - 20% open · ⏱️ 16.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 315977578,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-05T16:29:57Z",
+            "owner": "evidentlyai",
+            "repo": "evidently",
+            "stars": 7840
+          }
+        }
+      ],
+      "title": "evidently (🥉19 · ⭐ 2.6K) - 交互式报告，可在分析过程中分析机器学习模型。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 140 · 📋 110 - 52% open · ⏱️ 05.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147871487,
+            "language": "HTML",
+            "last_commit": "2026-06-21T19:46:04Z",
+            "owner": "PAIR-code",
+            "repo": "what-if-tool",
+            "stars": 1007
+          }
+        }
+      ],
+      "title": "What-If Tool (🥉19 · ⭐ 740 · 💤) - What-If工具的源代码/网页/演示。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 62 · 📦 3 · 📋 120 - 51% open · ⏱️ 14.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96782566,
+            "language": "Python",
+            "last_commit": "2024-01-04T06:37:51Z",
+            "owner": "jupyter-widgets-contrib",
+            "repo": "ipysheet",
+            "stars": 552
+          }
+        }
+      ],
+      "title": "ipysheet (🥉19 · ⭐ 500 · 💤) - Jupyter Handsontable集成。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 62 · 📦 260 · 📋 58 - 29% open · ⏱️ 04.12.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42180629,
+            "language": "Python",
+            "last_commit": "2024-03-15T12:50:01Z",
+            "owner": "nicolaskruchten",
+            "repo": "jupyter_pivottablejs",
+            "stars": 708
+          }
+        }
+      ],
+      "title": "pivottablejs (🥉19 · ⭐ 470 · 💀) - Jupyter / IPython Notebook的Dragndrop数据透视表和图表。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 5 · 📦 11 · 📋 19 - 15% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 244054123,
+            "language": "Python",
+            "last_commit": "2026-08-01T21:45:32Z",
+            "owner": "timkpaine",
+            "repo": "ipydagred3",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "ipydagred3 (🥉19 · ⭐ 38) - ipywidgets库，用于在其中绘制有向无环图。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 16 · 🔀 140 · 📦 1 · 📋 200 - 32% open · ⏱️ 22.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27371456,
+            "language": "Python",
+            "last_commit": "2026-04-13T16:49:31Z",
+            "owner": "pbugnion",
+            "repo": "gmaps",
+            "stars": 766
+          }
+        }
+      ],
+      "title": "gmaps (🥉18 · ⭐ 740 · 💀) - Jupyter中的Google地图。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 11 · 🔀 55 · 📋 95 - 13% open · ⏱️ 01.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 40161124,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-04-01T01:40:43Z",
+            "owner": "vega",
+            "repo": "ipyvega",
+            "stars": 389
+          }
+        }
+      ],
+      "title": "vega (🥉18 · ⭐ 330) - 适用于Vega和Vega-Lite的IPython / Jupyter笔记本模块。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 25 · 📋 31 - 48% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148903600,
+            "language": "CSS",
+            "last_commit": "2026-03-16T13:04:42Z",
+            "owner": "jupyter-widgets-contrib",
+            "repo": "ipytree",
+            "stars": 133
+          }
+        }
+      ],
+      "title": "ipytree (🥉18 · ⭐ 93) - 使用Jupyter-widgets协议和jsTree的Tree Widget。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 11 · 📦 20 · 📋 7 - 28% open · ⏱️ 10.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201748365,
+            "language": "Python",
+            "last_commit": "2026-08-14T14:53:46Z",
+            "owner": "widgetti",
+            "repo": "ipyvue",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "ipyvue (🥉18 · ⭐ 40 · 💤) - Vue库的Jupyter小部件基础。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 15 · 📦 12 · ⏱️ 14.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 63894113,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T22:26:12Z",
+            "owner": "g2nb",
+            "repo": "igv-jupyter",
+            "stars": 154
+          }
+        }
+      ],
+      "title": "igv.js widget (🥉17 · ⭐ 150) - 集成了igv.js的Jupyter Notebook扩展。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 29 · 🔀 35 · 📋 690 - 38% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185452341,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:39:18Z",
+            "owner": "spacetelescope",
+            "repo": "jdaviz",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "jdaviz (🥉17 · ⭐ 73) - Jupyter平台中的JWST天文数据分析工具。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 8 · 📋 7 - 42% open · ⏱️ 14.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 229280214,
+            "language": "Python",
+            "last_commit": "2024-03-30T17:00:31Z",
+            "owner": "altair-viz",
+            "repo": "altair_viewer",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Altair Viewer (🥉17 · ⭐ 52 · 💤) - 用于Altair和Vega-Lite可视化的查看器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 13 · 📦 9 · 📋 25 - 40% open · ⏱️ 20.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 272550331,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T14:22:43Z",
+            "owner": "finos",
+            "repo": "ipyregulartable",
+            "stars": 113
+          }
+        }
+      ],
+      "title": "ipyregulartable (🥉16 · ⭐ 66) - Jupyter中的高性能，可编辑，可样式化的数据表。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 3 · 📦 53 · 📋 6 - 33% open · ⏱️ 05.01.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101334262,
+            "language": "TypeScript",
+            "last_commit": "2023-01-08T10:52:33Z",
+            "owner": "vidartf",
+            "repo": "ipyscales",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "ipyscales (🥉16 · ⭐ 13 · 💀) - 用于度量的小部件库。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 140 · 📋 83 - 44% open · ⏱️ 21.01.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64249762,
+            "language": "Python",
+            "last_commit": "2019-01-21T15:53:04Z",
+            "owner": "OpenGeoscience",
+            "repo": "geonotebook",
+            "stars": 1086
+          }
+        }
+      ],
+      "title": "geonotebook (🥉15 · ⭐ 1.1K · 💀) - Jupyter笔记本扩展，用于地理空间可视化。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 16 · 🔀 33 · 📦 28 · 📋 34 - 50% open · ⏱️ 24.03.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103193973,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T05:01:00Z",
+            "owner": "nipy",
+            "repo": "niwidgets",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "niwidgets (🥉15 · ⭐ 76 · 💀) - 适用于Jupyter笔记本的Neuroimaging小部件。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 38 · 📦 28 · 📋 34 - 29% open · ⏱️ 04.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73084481,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T22:13:46Z",
+            "owner": "lgpage",
+            "repo": "nbtutor",
+            "stars": 472
+          }
+        }
+      ],
+      "title": "nbtutor (🥉14 · ⭐ 400) - 可视化Jupyter Notebook单元中的Python代码执行（逐行）。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 14 · 📦 5 · 📋 10 - 70% open · ⏱️ 29.10.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158866626,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-30T02:57:55Z",
+            "owner": "maartenbreddels",
+            "repo": "ipymaterialui",
+            "stars": 86
+          }
+        }
+      ],
+      "title": "ipymaterialui (🥉13 · ⭐ 83 · 💀) - 基于React Material UI组件的Jupyter小部件。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 6 · 📋 100 - 43% open · ⏱️ 10.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138643920,
+            "language": "Jupyter Notebook",
+            "last_commit": "2025-11-25T14:57:44Z",
+            "owner": "medialab",
+            "repo": "ipysigma",
+            "stars": 309
+          }
+        }
+      ],
+      "title": "ipysigma (🥉13 · ⭐ 38) - 一个自定义的Jupyter小部件库，用于使用sigma.js显示图形。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 15 · 📋 28 - 46% open · ⏱️ 11.12.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 178280931,
+            "language": "JavaScript",
+            "last_commit": "2019-12-11T12:10:31Z",
+            "owner": "CermakM",
+            "repo": "jupyter-datatables",
+            "stars": 240
+          }
+        }
+      ],
+      "title": "Jupyter DataTables (🥉11 · ⭐ 140 · 💀) - 利用pandas DataFrames的Jupyter Notebook扩展。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 4 · 📋 6 - 33% open · ⏱️ 31.10.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96787506,
+            "language": "Python",
+            "last_commit": "2024-12-02T17:25:16Z",
+            "owner": "leifwalsh",
+            "repo": "perfume",
+            "stars": 33
+          }
+        }
+      ],
+      "title": "perfume (🥉11 · ⭐ 33 · 💀) - Jupyter中的交互式性能基准测试。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 5 · ⏱️ 16.10.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124116426,
+            "language": "Python",
+            "last_commit": "2023-01-04T06:51:10Z",
+            "owner": "jtpio",
+            "repo": "ipyp5",
+            "stars": 42
+          }
+        }
+      ],
+      "title": "ipyp5 (🥉10 · ⭐ 33 · 💀) - p5.j​​s Jupyter小部件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · ⏱️ 05.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147895712,
+            "language": "Python",
+            "last_commit": "2026-06-23T11:53:24Z",
+            "owner": "1kbgz",
+            "repo": "tributary",
+            "stars": 466
+          }
+        }
+      ],
+      "title": "tributary (🥉10 · ⭐ 3) - 在Python中流式反应图和数据流图。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 2 · 📦 1 · 📋 24 - 33% open · ⏱️ 08.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261250943,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-07-06T22:15:29Z",
+            "owner": "GianniBalistreri",
+            "repo": "easyexplore",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "easyexplore (🥉10 · ⭐ 3) - 用于在Python中轻松有效地进行数据探索的工具箱。 ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 32 · 📋 3 - 33% open · ⏱️ 05.07.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188163723,
+            "language": "Python",
+            "last_commit": "2025-07-18T03:43:46Z",
+            "owner": "asvcode",
+            "repo": "Vision_UI",
+            "stars": 248
+          }
+        }
+      ],
+      "title": "Vision UI (🥉9 · ⭐ 250 · 💀) - Fastai的UI视觉界面-现在与Google兼容。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 10 · ⏱️ 20.09.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 142059274,
+            "language": "Python",
+            "last_commit": "2023-01-06T01:35:32Z",
+            "owner": "ipyannotate",
+            "repo": "ipyannotate",
+            "stars": 140
+          }
+        }
+      ],
+      "title": "ipyannotate (🥉9 · ⭐ 120 · 💀) - Jupyter Widget，用于数据标注。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · ⏱️ 06.05.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 185123290,
+            "language": "Jupyter Notebook",
+            "last_commit": "2019-05-06T04:27:06Z",
+            "owner": "DGothrek",
+            "repo": "ipyaggrid",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "ipyaggrid (🥉9 · ⭐ 10 · 💀) - Jupyter小部件-Notebook中的Ag-grid。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 130 · 🔀 770 · 📋 770 - 41% open · ⏱️ 17.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 11391151,
+            "language": "JavaScript",
+            "last_commit": "2024-07-04T10:37:29Z",
+            "owner": "ipython-contrib",
+            "repo": "jupyter_contrib_nbextensions",
+            "stars": 5277
+          }
+        }
+      ],
+      "title": "Contrib NBextensions (🥇21 · ⭐ 4.9K · 📈) - Jupyter的各种笔记本扩展的集合。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 24 · 🔀 73 · 📥 73 · 📋 58 - 53% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56833732,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T10:44:17Z",
+            "owner": "jupyter-server",
+            "repo": "jupyter-resource-usage",
+            "stars": 538
+          }
+        }
+      ],
+      "title": "Resource Usage (🥇21 · ⭐ 330) - Jupyter Notebook Extension，用于监视您自己的资源。 BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 25 · 🔀 61 · 📦 500 · 📋 130 - 39% open · ⏱️ 22.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 92329878,
+            "language": "Python",
+            "last_commit": "2026-08-01T05:02:31Z",
+            "owner": "jupyterhub",
+            "repo": "nbgitpuller",
+            "stars": 238
+          }
+        }
+      ],
+      "title": "nbgitpuller (🥇21 · ⭐ 170) - Jupyter服务器扩展，可将git存储库单向同步。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 43 · 🔀 1K · 📋 390 - 48% open · ⏱️ 03.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27844645,
+            "language": "CSS",
+            "last_commit": "2025-06-22T15:37:46Z",
+            "owner": "dunovank",
+            "repo": "jupyter-themes",
+            "stars": 9819
+          }
+        }
+      ],
+      "title": "Jupyter Themes (🥈20 · ⭐ 9.2K) - Custom Jupyter Notebook Themes. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 97 · 🔀 290 · 📥 34 · 📋 810 - 24% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23984796,
+            "language": "Python",
+            "last_commit": "2026-08-11T20:18:18Z",
+            "owner": "jupyter",
+            "repo": "nbgrader",
+            "stars": 1369
+          }
+        }
+      ],
+      "title": "nbgrader (🥈20 · ⭐ 1.1K) - 用于在Notebook分配(任务/作业)和评分的系统。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 63 · 📦 320 · 📋 53 - 7% open · ⏱️ 26.04.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 85315115,
+            "language": "Python",
+            "last_commit": "2026-07-27T14:25:15Z",
+            "owner": "oschuett",
+            "repo": "appmode",
+            "stars": 465
+          }
+        }
+      ],
+      "title": "Appmode (🥈20 · ⭐ 400 · 💀) - Jupyter扩展，可将笔记本变成Web应用程序。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 64 · 🔀 110 · 📦 4 · 📋 160 - 39% open · ⏱️ 08.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71295164,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:06:04Z",
+            "owner": "jupyterhub",
+            "repo": "jupyter-server-proxy",
+            "stars": 403
+          }
+        }
+      ],
+      "title": "jupyter-server-proxy (🥈20 · ⭐ 250) - Jupyter笔记本服务器扩展到代理Web服务。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 110 · 📋 82 - 60% open · ⏱️ 09.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 61915705,
+            "language": "JavaScript",
+            "last_commit": "2024-06-05T16:43:47Z",
+            "owner": "Jupyter-contrib",
+            "repo": "jupyter_nbextensions_configurator",
+            "stars": 980
+          }
+        }
+      ],
+      "title": "NBextensions Configurator (🥈19 · ⭐ 910 · 📈) - A jupyter notebook serverextension providing config.. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 25 · 🔀 23 · 📥 2 · 📦 1 · 📋 53 - 26% open · ⏱️ 25.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143245638,
+            "language": "TypeScript",
+            "last_commit": "2026-07-31T19:24:44Z",
+            "owner": "mamba-org",
+            "repo": "gator",
+            "stars": 272
+          }
+        }
+      ],
+      "title": "gator (🥈18 · ⭐ 220) - Jupyter内部的Conda环境和包管理扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 13 · 🔀 180 · 📋 23 - 39% open · ⏱️ 14.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201881106,
+            "language": "Python",
+            "last_commit": "2024-07-16T16:30:54Z",
+            "owner": "8080labs",
+            "repo": "pyforest",
+            "stars": 1119
+          }
+        }
+      ],
+      "title": "pyforest (🥉17 · ⭐ 980 · 💀) - pyforest-自动化导入工具。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 50 · 📥 2.4K · 📋 22 - 68% open · ⏱️ 16.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 92927732,
+            "language": "JavaScript",
+            "last_commit": "2022-05-16T18:45:37Z",
+            "owner": "krishnan-r",
+            "repo": "sparkmonitor",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "Spark Monitor (🥉17 · ⭐ 170) - 从Jupyter Notebook监控Apache Spark。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 68 · 📦 41 · 📋 71 - 36% open · ⏱️ 16.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76008090,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:42:16Z",
+            "owner": "jupyterhub",
+            "repo": "jupyter-rsession-proxy",
+            "stars": 128
+          }
+        }
+      ],
+      "title": "Rsession Proxy (🥉17 · ⭐ 94) - 用于运行RStudio rsession代理的Jupyter扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 29 · 📋 63 - 55% open · ⏱️ 11.09.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 47725040,
+            "language": "Python",
+            "last_commit": "2025-02-11T15:55:34Z",
+            "owner": "anaconda",
+            "repo": "nb_conda",
+            "stars": 145
+          }
+        }
+      ],
+      "title": "nb_conda (🥉16 · ⭐ 130 · 💀) - Jupyter内部的Conda环境和包管理扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 10 · 📥 3.3K · 📋 33 - 3% open · ⏱️ 20.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 198872724,
+            "language": "Python",
+            "last_commit": "2026-08-11T11:59:32Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyter-archive",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "jupyter-archive (🥉16 · ⭐ 56) - Jupyter / Jupyterlab扩展，用于制作，下载和提取。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 70 · 📋 69 - 57% open · ⏱️ 16.02.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101037985,
+            "language": "Python",
+            "last_commit": "2022-06-14T12:29:55Z",
+            "owner": "lspvic",
+            "repo": "jupyter_tensorboard",
+            "stars": 461
+          }
+        }
+      ],
+      "title": "jupyter-tensorboard (🥉15 · ⭐ 460 · 💀) - 在Jupyter Notebook中启动Tensorboard。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 38 · 📋 29 - 72% open · ⏱️ 30.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 126899177,
+            "language": "Python",
+            "last_commit": "2022-11-09T21:06:35Z",
+            "owner": "googlecolab",
+            "repo": "jupyter_http_over_ws",
+            "stars": 267
+          }
+        }
+      ],
+      "title": "HTTP-over-WebSocket (🥉15 · ⭐ 230 · 💤) - Jupyter对ws-over-ws的支持。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 12 · 🔀 29 · 📦 16 · 📋 27 - 48% open · ⏱️ 01.12.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 50517583,
+            "language": "JavaScript",
+            "last_commit": "2020-12-01T19:43:11Z",
+            "owner": "mozilla",
+            "repo": "jupyter-spark",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Jupyter Spark (🥉15 · ⭐ 190 · 💀) - 利用pandas DataFrames的Jupyter Notebook扩展。 MPL-2.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 15 · 📦 290 · 📋 14 - 64% open · ⏱️ 22.11.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 105387718,
+            "language": "Python",
+            "last_commit": "2019-11-22T08:47:26Z",
+            "owner": "berkeley-dsep-infra",
+            "repo": "nbzip",
+            "stars": 90
+          }
+        }
+      ],
+      "title": "nbzip (🥉15 · ⭐ 80 · 💀) - 压缩并下载jupyter笔记本的所有内容。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 25 · 📋 27 - 25% open · ⏱️ 11.06.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 42875893,
+            "language": "Jupyter Notebook",
+            "last_commit": "2018-06-11T01:51:35Z",
+            "owner": "jupyter-incubator",
+            "repo": "contentmanagement",
+            "stars": 78
+          }
+        }
+      ],
+      "title": "Content Management (🥉14 · ⭐ 76 · 💀) - Jupyter内容管理扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 12 · 🔀 4 · ⏱️ 21.10.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193650988,
+            "language": "TypeScript",
+            "last_commit": "2023-05-29T09:18:17Z",
+            "owner": "thoth-station",
+            "repo": "jupyter-nbrequirements",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "jupyter-nbrequirements (🥉12 · ⭐ 14 · 💤) - Jupyter中的依赖关系管理和优化。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 27 · 📦 1 · 📋 38 - 42% open · ⏱️ 07.12.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 145162055,
+            "language": "Python",
+            "last_commit": "2019-11-22T13:46:43Z",
+            "owner": "paypal",
+            "repo": "PPExtensions",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "PPExtensions (🥉9 · ⭐ 48 · 💀) - 一组iPython和Jupyter扩展。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 20 · 📋 21 - 42% open · ⏱️ 01.02.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144240325,
+            "language": "JavaScript",
+            "last_commit": "2020-02-01T03:27:05Z",
+            "owner": "drillan",
+            "repo": "jupyter-black",
+            "stars": 436
+          }
+        }
+      ],
+      "title": "Jupyter Black (🥉8 · ⭐ 400 · 💀) - Jupyter Notebook的黑色格式化程序。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 2 · 📦 1 · ⏱️ 17.05.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245849686,
+            "language": "JavaScript",
+            "last_commit": "2023-01-05T23:10:50Z",
+            "owner": "willkessler",
+            "repo": "jupyterterminals",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "jupyterterminals (🥉7 · ⭐ 8 · 💀) - Jupyter插件可支持嵌入式终端外壳。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 53 · 🔀 250 · 📦 3.4K · 📋 140 - 71% open · ⏱️ 12.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8909193,
+            "language": "Python",
+            "last_commit": "2024-07-12T16:16:57Z",
+            "owner": "catherinedevlin",
+            "repo": "ipython-sql",
+            "stars": 1797
+          }
+        }
+      ],
+      "title": "ipython-sql (🥇27 · ⭐ 1.6K) - %%sql magic for IPython, hopefully evolving into full SQL client. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 57 · 🔀 380 · 📦 250 · 📋 400 - 32% open · ⏱️ 02.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42875585,
+            "language": "Python",
+            "last_commit": "2025-09-09T14:08:11Z",
+            "owner": "jupyter-incubator",
+            "repo": "sparkmagic",
+            "stars": 1366
+          }
+        }
+      ],
+      "title": "sparkmagic (🥇26 · ⭐ 1.2K) - Jupyter魔术和内核，可用于远程Spark集群。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 19 · 🔀 81 · 📦 1.6K · 📋 44 - 36% open · ⏱️ 27.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22406576,
+            "language": "Python",
+            "last_commit": "2025-12-21T23:42:28Z",
+            "owner": "rasbt",
+            "repo": "watermark",
+            "stars": 941
+          }
+        }
+      ],
+      "title": "watermark (🥈23 · ⭐ 710) - 一个IPython魔术扩展，用于打印日期和时间戳版本。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 22 · 📦 29 · 📋 5 - 40% open · ⏱️ 10.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100748293,
+            "language": "Python",
+            "last_commit": "2024-07-14T18:30:54Z",
+            "owner": "csurfer",
+            "repo": "pyheatmagic",
+            "stars": 1030
+          }
+        }
+      ],
+      "title": "heat (🥈16 · ⭐ 990 · 💤) - IPython魔术命令：格式化单元格中的python代码。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 12 · 📦 160 · 📋 9 - 44% open · ⏱️ 18.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 131018956,
+            "language": "Python",
+            "last_commit": "2022-05-31T19:59:44Z",
+            "owner": "csurfer",
+            "repo": "blackcellmagic",
+            "stars": 304
+          }
+        }
+      ],
+      "title": "blackcellmagic (🥉15 · ⭐ 300 · 💤) - IPython魔术命令：格式化单元格中的python代码。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 39 · 📋 16 - 6% open · ⏱️ 20.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 66747788,
+            "language": "Python",
+            "last_commit": "2022-02-20T00:55:57Z",
+            "owner": "ResidentMario",
+            "repo": "py_d3",
+            "stars": 450
+          }
+        }
+      ],
+      "title": "py_d3 (🥉12 · ⭐ 440) - D3 block magic for Jupyter notebook. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 10 · 📦 1 · 📋 84 - 71% open · ⏱️ 06.10.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65696457,
+            "language": "Python",
+            "last_commit": "2022-08-23T17:53:50Z",
+            "owner": "tmthyjames",
+            "repo": "SQLCell",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "SQLCell (🥉12 · ⭐ 150 · 💀) - SQLCell：Jupyter Notebook的魔术函数。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 7 · 📋 9 - 44% open · ⏱️ 04.11.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 254226073,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-07-23T05:39:29Z",
+            "owner": "nteract",
+            "repo": "pick",
+            "stars": 32
+          }
+        }
+      ],
+      "title": "pick (🥉12 · ⭐ 31 · 💀) - 在启动时自定义您的内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 11 · 📋 25 - 24% open · ⏱️ 02.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 188053613,
+            "language": "Python",
+            "last_commit": "2026-04-13T17:25:05Z",
+            "owner": "krassowski",
+            "repo": "jupyter-manim",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "jupyter-manim (🥉11 · ⭐ 180 · 💤) - manim单元魔术，用于IPython / Jupyter显示输出视频。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 29 · 🔀 220 · 📥 40 · 📦 8 · 📋 170 - 28% open · ⏱️ 08.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50202460,
+            "language": "Go",
+            "last_commit": "2023-11-03T18:02:49Z",
+            "owner": "gopherdata",
+            "repo": "gophernotes",
+            "stars": 3967
+          }
+        }
+      ],
+      "title": "gophernotes (🥇22 · ⭐ 3.4K) - 适用于Jupyter笔记本电脑和nteract的Go内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 160 · 🔀 300 · 📥 520 · 📋 420 - 51% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33655535,
+            "language": "Python",
+            "last_commit": "2026-08-20T22:03:36Z",
+            "owner": "ipython",
+            "repo": "ipykernel",
+            "stars": 734
+          }
+        }
+      ],
+      "title": "IPython Kernel (🥇22 · ⭐ 500 · 📉) - IPython Kernel for Jupyter. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 41 · 🔀 290 · 📋 570 - 9% open · ⏱️ 24.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 17196838,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-30T07:24:08Z",
+            "owner": "IRkernel",
+            "repo": "IRkernel",
+            "stars": 1698
+          }
+        }
+      ],
+      "title": "IRkernel (🥇21 · ⭐ 1.6K) - Jupyter的R内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 18 · 🔀 60 · 📥 50 · 📋 170 - 16% open · ⏱️ 21.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 22452375,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-24T13:22:08Z",
+            "owner": "Calysto",
+            "repo": "octave_kernel",
+            "stars": 458
+          }
+        }
+      ],
+      "title": "Octave Kernel (🥇20 · ⭐ 410) - 用于IPython的Octave内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 31 · 🔀 78 · 📥 42 · 📋 140 - 19% open · ⏱️ 09.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 23292534,
+            "language": "Python",
+            "last_commit": "2026-08-24T13:22:51Z",
+            "owner": "Calysto",
+            "repo": "metakernel",
+            "stars": 370
+          }
+        }
+      ],
+      "title": "Metakernel (🥇20 · ⭐ 290) - Jupyter/IPython内核工具。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 100 · 🔀 380 · 📋 790 - 12% open · ⏱️ 23.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8585955,
+            "language": "Julia",
+            "last_commit": "2026-06-23T05:55:43Z",
+            "owner": "JuliaLang",
+            "repo": "IJulia.jl",
+            "stars": 2896
+          }
+        }
+      ],
+      "title": "IJulia.jl (🥈19 · ⭐ 2.5K) - Jupyter的Julia内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 240 · 📋 250 - 53% open · ⏱️ 17.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 88882261,
+            "language": "C++",
+            "last_commit": "2025-10-27T21:39:41Z",
+            "owner": "jupyter-xeus",
+            "repo": "xeus-cling",
+            "stars": 3293
+          }
+        }
+      ],
+      "title": "xeus-cling (🥈19 · ⭐ 2.3K · 💤) - 适用于C++编程语言的Jupyter内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 15 · 🔀 150 · 📦 63 · 📋 230 - 23% open · ⏱️ 24.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30194220,
+            "language": "JavaScript",
+            "last_commit": "2024-07-03T23:29:02Z",
+            "owner": "n-riesco",
+            "repo": "ijavascript",
+            "stars": 2258
+          }
+        }
+      ],
+      "title": "IJavascript (🥈19 · ⭐ 1.9K · 💤) - Jupyter笔记本的JavaScript内核。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 36 · 🔀 220 · 📥 1.3K · 📋 300 - 32% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31986032,
+            "language": "Scala",
+            "last_commit": "2026-08-20T01:27:09Z",
+            "owner": "almond-sh",
+            "repo": "almond",
+            "stars": 1625
+          }
+        }
+      ],
+      "title": "almond (🥈19 · ⭐ 1.5K) - Jupyter的Scala内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 100 · 🔀 210 · ⏱️ 15.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49190360,
+            "language": "Scala",
+            "last_commit": "2026-08-14T21:43:30Z",
+            "owner": "apache",
+            "repo": "incubator-toree",
+            "stars": 750
+          }
+        }
+      ],
+      "title": "Apache Toree (🥈19 · ⭐ 700) - 适用于Apache Spark的Jupyter内核。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 110 · 🔀 240 · 📦 4 · 📋 740 - 4% open · ⏱️ 22.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12373318,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-15T04:48:31Z",
+            "owner": "IHaskell",
+            "repo": "IHaskell",
+            "stars": 2646
+          }
+        }
+      ],
+      "title": "IHaskell (🥈18 · ⭐ 2.4K) - 用于IPython的Haskell内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 44 · 🔀 18 · 📥 15 · 📦 160 · 📋 190 - 24% open · ⏱️ 05.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 31613113,
+            "language": "Ruby",
+            "last_commit": "2026-06-30T01:27:30Z",
+            "owner": "SciRuby",
+            "repo": "iruby",
+            "stars": 924
+          }
+        }
+      ],
+      "title": "IRuby (🥈18 · ⭐ 720) - 官方gem仓库：Jupyter/IPython Notebook的Ruby内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 56 · 📋 130 - 26% open · ⏱️ 30.11.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 47772893,
+            "language": "Python",
+            "last_commit": "2026-07-26T01:02:34Z",
+            "owner": "anaconda",
+            "repo": "nb_conda_kernels",
+            "stars": 645
+          }
+        }
+      ],
+      "title": "nb_conda_kernels (🥈18 · ⭐ 470 · 💀) - Package for managing conda environment-based kernels.. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 18 · 🔀 29 · 📥 70K · 📋 71 - 4% open · ⏱️ 10.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97241116,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-12T18:11:12Z",
+            "owner": "akabe",
+            "repo": "ocaml-jupyter",
+            "stars": 317
+          }
+        }
+      ],
+      "title": "OCaml Kernel (🥈18 · ⭐ 230) - Jupyter（IPython）笔记本的OCaml内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 72 · 📋 57 - 5% open · ⏱️ 01.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 55245877,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-05-08T18:16:50Z",
+            "owner": "sassoftware",
+            "repo": "sas_kernel",
+            "stars": 204
+          }
+        }
+      ],
+      "title": "SAS Kernel (🥈18 · ⭐ 190) - 用于SAS的Jupyter内核。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 28 · 📦 88 · 📋 35 - 48% open · ⏱️ 20.09.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74318368,
+            "language": "Python",
+            "last_commit": "2024-01-11T09:22:04Z",
+            "owner": "adtech-labs",
+            "repo": "spylon-kernel",
+            "stars": 191
+          }
+        }
+      ],
+      "title": "Spylon Kernel (🥈18 · ⭐ 160 · 💀) - Jupyter kernel for scala and spark. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 160 · 📥 89K · 📋 130 - 54% open · ⏱️ 08.12.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106150621,
+            "language": "Java",
+            "last_commit": "2024-06-01T04:30:45Z",
+            "owner": "SpencerPark",
+            "repo": "IJava",
+            "stars": 1188
+          }
+        }
+      ],
+      "title": "IJava (🥉17 · ⭐ 820 · 💀) - 用于执行Java代码的Jupyter内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 44 · 🔀 110 · 📥 100 · 📋 180 - 7% open · ⏱️ 12.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 42875498,
+            "language": "Python",
+            "last_commit": "2024-03-12T17:51:21Z",
+            "owner": "jupyter-server",
+            "repo": "kernel_gateway",
+            "stars": 562
+          }
+        }
+      ],
+      "title": "Kernel Gateway (🥉17 · ⭐ 400) - Jupyter内核网关。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 42 · 📥 86 · ⏱️ 03.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 80480559,
+            "language": "Java",
+            "last_commit": "2022-02-03T17:25:47Z",
+            "owner": "scijava",
+            "repo": "scijava-jupyter-kernel",
+            "stars": 178
+          }
+        }
+      ],
+      "title": "SciJava Kernel (🥉17 · ⭐ 180) - 在Jupyter笔记本中编写SciJava脚本。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 26 · 🔀 75 · 📋 97 - 18% open · ⏱️ 29.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 19602479,
+            "language": "Clojure",
+            "last_commit": "2025-03-18T08:36:00Z",
+            "owner": "clojupyter",
+            "repo": "clojupyter",
+            "stars": 867
+          }
+        }
+      ],
+      "title": "clojupyter (🥉16 · ⭐ 740 · 💤) - 用于Clojure的Jupyter内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 100 · 🔀 180 · 📥 20K · 📋 520 - 9% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89001469,
+            "language": "Python",
+            "last_commit": "2026-07-14T18:53:09Z",
+            "owner": "jupyter-server",
+            "repo": "enterprise_gateway",
+            "stars": 668
+          }
+        }
+      ],
+      "title": "Enterprise Gateway (🥉16 · ⭐ 520) - 轻量级，多租户，可扩展和安全的网关。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 18 · 🔀 73 · 📋 130 - 19% open · ⏱️ 09.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 30112103,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-05-09T10:21:04Z",
+            "owner": "Calysto",
+            "repo": "matlab_kernel",
+            "stars": 469
+          }
+        }
+      ],
+      "title": "Matlab Kernel (🥉16 · ⭐ 440) - Jupyter的Matlab内核。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 91 · 📥 6.1K · 📋 96 - 31% open · ⏱️ 19.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166462962,
+            "language": "Mathematica",
+            "last_commit": "2023-12-22T00:50:25Z",
+            "owner": "WolframResearch",
+            "repo": "WolframLanguageForJupyter",
+            "stars": 1214
+          }
+        }
+      ],
+      "title": "Wolfram Kernel (🥉15 · ⭐ 750) - 适用于Jupyter的Wolfram语言内核。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 100 · 📋 94 - 37% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21259107,
+            "language": "Python",
+            "last_commit": "2025-01-05T15:19:13Z",
+            "owner": "takluyver",
+            "repo": "bash_kernel",
+            "stars": 729
+          }
+        }
+      ],
+      "title": "Bash Kernel (🥉15 · ⭐ 600) - IPython的bash内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 54 · 📦 9 · 📋 44 - 34% open · ⏱️ 11.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 138749883,
+            "language": "Python",
+            "last_commit": "2022-02-11T15:18:34Z",
+            "owner": "ansible",
+            "repo": "ansible-jupyter-kernel",
+            "stars": 539
+          }
+        }
+      ],
+      "title": "Ansible Kernel (🥉15 · ⭐ 500) - Jupyter笔记本内核，用于运行Ansible任务。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 38 · 🔀 38 · 📋 470 - 95% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 177417757,
+            "language": "C++",
+            "last_commit": "2026-08-24T01:47:51Z",
+            "owner": "lfortran",
+            "repo": "lfortran",
+            "stars": 1226
+          }
+        }
+      ],
+      "title": "LFortran (🥉14 · ⭐ 370) - https://gitlab.com/lfortran/lfortran的官方镜像。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 19 · 🔀 39 · 📋 30 - 33% open · ⏱️ 20.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 38615179,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-05-26T13:23:28Z",
+            "owner": "pprzetacznik",
+            "repo": "IElixir",
+            "stars": 369
+          }
+        }
+      ],
+      "title": "IElixir (🥉14 · ⭐ 340 · 💀) - Jupyter的Elixir编程语言内核。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 16 · 📋 29 - 24% open · ⏱️ 12.02.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 28867793,
+            "language": "Python",
+            "last_commit": "2022-11-23T11:42:58Z",
+            "owner": "Cadair",
+            "repo": "jupyter_environment_kernels",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "Kernel Detection (🥉14 · ⭐ 140 · 💀) - 一个Jupyter插件，用于自动检测。 BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 110 · 📋 76 - 30% open · ⏱️ 09.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 105907218,
+            "language": "Go",
+            "last_commit": "2020-11-20T07:01:33Z",
+            "owner": "yunabe",
+            "repo": "lgo",
+            "stars": 2454
+          }
+        }
+      ],
+      "title": "lgo (🥉13 · ⭐ 2.3K · 💀) - 使用Jupyter进行交互式Go编程。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 28 · 🔀 67 · 📥 5.4K · 📋 140 - 9% open · ⏱️ 17.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14906267,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-03-17T09:11:27Z",
+            "owner": "fsprojects",
+            "repo": "IfSharp",
+            "stars": 443
+          }
+        }
+      ],
+      "title": "F# Kernel (🥉12 · ⭐ 430) - F# for Jupyter Notebooks. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 57 · 📋 46 - 71% open · ⏱️ 23.09.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 24319525,
+            "language": "C#",
+            "last_commit": "2022-06-22T17:44:39Z",
+            "owner": "zabirauf",
+            "repo": "icsharp",
+            "stars": 277
+          }
+        }
+      ],
+      "title": "ICSharp (🥉12 · ⭐ 270 · 💀) - Jupyter的C＃内核。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 12 · 📦 6 · 📋 8 - 25% open · ⏱️ 04.11.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170240107,
+            "language": "Python",
+            "last_commit": "2021-11-04T09:33:50Z",
+            "owner": "NII-cloud-operation",
+            "repo": "sshkernel",
+            "stars": 75
+          }
+        }
+      ],
+      "title": "SSH Kernel (🥉12 · ⭐ 53 · 💤) - Jupyter的SSH内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 12 · 🔀 21 · 📋 41 - 26% open · ⏱️ 15.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246552375,
+            "language": "C++",
+            "last_commit": "2026-03-16T14:54:09Z",
+            "owner": "jupyter-xeus",
+            "repo": "xeus-sqlite",
+            "stars": 172
+          }
+        }
+      ],
+      "title": "xeus-sqlite (🥉11 · ⭐ 140) - 适用于SQLite的Jupyter内核。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 11 · 📋 27 - 33% open · ⏱️ 08.11.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 96902570,
+            "language": "Python",
+            "last_commit": "2024-08-02T07:07:57Z",
+            "owner": "tdaff",
+            "repo": "remote_ikernel",
+            "stars": 21
+          }
+        }
+      ],
+      "title": "remote_ikernel (🥉10 · ⭐ 12 · 💀) - All your Jupyter kernels, on all your machines, in one place. BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 2 · ⏱️ 28.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 205711413,
+            "language": "Python",
+            "last_commit": "2023-09-08T09:37:29Z",
+            "owner": "bernhard-42",
+            "repo": "ssh_ipykernel",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "ssh_ipykernel (🥉7 · ⭐ 8 · 💀) - A remote jupyter kernel via ssh. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 5 · 📋 12 - 83% open · ⏱️ 10.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 169150709,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T02:47:40Z",
+            "owner": "nteract",
+            "repo": "kernel-relay",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "kernel-relay (🥉6 · ⭐ 11 · 💀) - kernel-relay是与之接口的GraphQL服务。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 250 · 🔀 480 · 📦 160K · 📋 1K - 42% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33653617,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:55:04Z",
+            "owner": "jupyter",
+            "repo": "nbconvert",
+            "stars": 1935
+          }
+        }
+      ],
+      "title": "nbconvert (🥇31 · ⭐ 1.4K) - Jupyter Notebook Conversion. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 230 · 🔀 350 · 📦 440 · 📋 2.1K - 2% open · ⏱️ 02.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4025121,
+            "language": "Python",
+            "last_commit": "2026-06-21T08:16:46Z",
+            "owner": "getnikola",
+            "repo": "nikola",
+            "stars": 2740
+          }
+        }
+      ],
+      "title": "nikola (🥇29 · ⭐ 2.3K) - 静态网站和博客生成器。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 72 · 🔀 350 · 📦 3.2K · 📋 530 - 12% open · ⏱️ 29.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137444487,
+            "language": "Python",
+            "last_commit": "2026-08-18T01:37:42Z",
+            "owner": "jupytext",
+            "repo": "jupytext",
+            "stars": 7230
+          }
+        }
+      ],
+      "title": "Jupytext (🥇27 · ⭐ 5.5K) - Jupyter Notebooks作为Markdown文档，Julia，Python或R脚本的工具。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 61 · 🔀 420 · 📥 290 · 📦 7.2K · 📋 610 - 40% open · ⏱️ 11.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145574616,
+            "language": "Python",
+            "last_commit": "2026-08-03T19:33:25Z",
+            "owner": "voila-dashboards",
+            "repo": "voila",
+            "stars": 5939
+          }
+        }
+      ],
+      "title": "Voila (🥈26 · ⭐ 4.3K) - Voil将Jupyter笔记本变成独立的Web应用程序。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 41 · 🔀 380 · 📦 2K · 📋 430 - 33% open · ⏱️ 28.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12387090,
+            "language": "JavaScript",
+            "last_commit": "2023-10-29T13:51:07Z",
+            "owner": "damianavila",
+            "repo": "RISE",
+            "stars": 3738
+          }
+        }
+      ],
+      "title": "RISE (🥈24 · ⭐ 3.3K) - 实时Reveal.js Jupyter/IPython幻灯片扩展。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 110 · 🔀 500 · 📋 1.1K - 41% open · ⏱️ 21.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137292803,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T16:10:16Z",
+            "owner": "jupyter-book",
+            "repo": "jupyter-book",
+            "stars": 4272
+          }
+        }
+      ],
+      "title": "Jupyter Book (🥈24 · ⭐ 3K) - 从Jupyter构建交互式的，具有出版质量的文档。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 40 · 🔀 130 · 📦 79 · 📋 280 - 22% open · ⏱️ 05.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46264628,
+            "language": "TypeScript",
+            "last_commit": "2026-06-10T10:12:19Z",
+            "owner": "jupyter",
+            "repo": "nbdime",
+            "stars": 2840
+          }
+        }
+      ],
+      "title": "nbdime (🥈23 · ⭐ 2.3K) - 区分和合并Jupyter笔记本的工具。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 34 · 🔀 34 · 📥 3.1K · 📦 17 · 📋 560 - 11% open · ⏱️ 29.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4503128,
+            "language": "Rust",
+            "last_commit": "2026-08-21T23:05:23Z",
+            "owner": "stencila",
+            "repo": "stencila",
+            "stars": 901
+          }
+        }
+      ],
+      "title": "Stencila (🥈23 · ⭐ 650) - 用于可复制研究的在线文档。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 68 · 🔀 650 · 📋 290 - 42% open · ⏱️ 17.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65949398,
+            "language": "Python",
+            "last_commit": "2024-09-04T14:59:57Z",
+            "owner": "airbnb",
+            "repo": "knowledge-repo",
+            "stars": 5539
+          }
+        }
+      ],
+      "title": "Knowledge Repo (🥈21 · ⭐ 5.2K) - 下一代知识共享平台 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 91 · 🔀 490 · 📦 7 · 📋 570 - 28% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5303123,
+            "language": "Python",
+            "last_commit": "2026-07-06T21:47:32Z",
+            "owner": "jupyter",
+            "repo": "nbviewer",
+            "stars": 2281
+          }
+        }
+      ],
+      "title": "nbviewer (🥉19 · ⭐ 2K) - nbconvert作为Web服务：将Jupyter Notebooks渲染为静态Web。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 19 · 📦 11 · 📋 73 - 46% open · ⏱️ 09.12.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 153337860,
+            "language": "Python",
+            "last_commit": "2021-08-26T18:26:16Z",
+            "owner": "nteract",
+            "repo": "bookstore",
+            "stars": 200
+          }
+        }
+      ],
+      "title": "bookstore (🥉19 · ⭐ 180 · 💀) - 面向大众的笔记本存储和发布工作流程。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 84 · 🔀 320 · 📦 6 · 📋 630 - 28% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 89419368,
+            "language": "Python",
+            "last_commit": "2026-08-05T07:25:38Z",
+            "owner": "jupyterhub",
+            "repo": "binderhub",
+            "stars": 2669
+          }
+        }
+      ],
+      "title": "BinderHub (🥉18 · ⭐ 2.2K) - 在云端运行您的代码。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 91 · 📦 180 · 📋 68 - 57% open · ⏱️ 16.11.2017):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16920686,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-10-18T21:21:21Z",
+            "owner": "aaren",
+            "repo": "notedown",
+            "stars": 859
+          }
+        }
+      ],
+      "title": "notedown (🥉18 · ⭐ 830 · 💀) - Markdown = IPython Notebook. BSD-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 11 · 🔀 26 · 📦 150 · 📋 48 - 47% open · ⏱️ 13.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 154086399,
+            "language": "Python",
+            "last_commit": "2022-04-13T16:57:46Z",
+            "owner": "nteract",
+            "repo": "scrapbook",
+            "stars": 293
+          }
+        }
+      ],
+      "title": "scrapbook (🥉18 · ⭐ 250) - 一个用于在笔记本中记录和读取数据的库。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 26 · 🔀 57 · 📦 5 · 📋 150 - 42% open · ⏱️ 19.11.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 84945484,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-23T02:05:33Z",
+            "owner": "jupyter-book",
+            "repo": "thebe",
+            "stars": 442
+          }
+        }
+      ],
+      "title": "ThebeLab (🥉17 · ⭐ 300 · 💤) - ThebeLab：将静态HTML页面转换为实时文档。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 27 · 🔀 63 · 📦 3 · 📋 91 - 57% open · ⏱️ 28.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 77958451,
+            "language": "JavaScript",
+            "last_commit": "2026-05-14T14:55:36Z",
+            "owner": "nteract",
+            "repo": "commuter",
+            "stars": 504
+          }
+        }
+      ],
+      "title": "commuter (🥉16 · ⭐ 440) - 笔记本共享中心。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 20 · 📦 1 · 📋 70 - 41% open · ⏱️ 15.04.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 101940687,
+            "language": "HTML",
+            "last_commit": "2024-02-13T21:24:04Z",
+            "owner": "SamLau95",
+            "repo": "nbinteract",
+            "stars": 234
+          }
+        }
+      ],
+      "title": "nbinteract (🥉15 · ⭐ 220 · 💀) - 从Jupyter Notebooks创建交互式网页。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 13 · 🔀 21 · 📋 57 - 22% open · ⏱️ 04.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 228738520,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-17T15:11:48Z",
+            "owner": "danielfrg",
+            "repo": "mkdocs-jupyter",
+            "stars": 506
+          }
+        }
+      ],
+      "title": "mkdocs-jupyter (🥉15 · ⭐ 150 · 📈) - 在mkdocs中使用Jupyter Notebook。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 13 · 🔀 33 · 📋 88 - 35% open · ⏱️ 29.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 259650645,
+            "language": "Python",
+            "last_commit": "2024-08-15T16:17:28Z",
+            "owner": "ideonate",
+            "repo": "cdsdashboards",
+            "stars": 199
+          }
+        }
+      ],
+      "title": "cdsdashboards (🥉14 · ⭐ 170) - 用于ContainDS仪表板的JupyterHub扩展。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 6 · 📦 21 · ⏱️ 07.07.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 110680312,
+            "language": "Python",
+            "last_commit": "2020-07-07T15:27:20Z",
+            "owner": "elehcimd",
+            "repo": "pynb",
+            "stars": 249
+          }
+        }
+      ],
+      "title": "pynb (🥉13 · ⭐ 240 · 💀) - Jupyter Notebooks是带有嵌入式Markdown文本的纯Python代码。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 19 · 🔀 23 · 📋 380 - 18% open · ⏱️ 19.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78565565,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T14:58:02Z",
+            "owner": "nbgallery",
+            "repo": "nbgallery",
+            "stars": 150
+          }
+        }
+      ],
+      "title": "nbgallery (🥉13 · ⭐ 140) - 企业Jupyter笔记本共享和协作应用程序。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 46 · 📦 1 · 📋 56 - 21% open · ⏱️ 22.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 227915638,
+            "language": "JavaScript",
+            "last_commit": "2024-07-20T19:16:39Z",
+            "owner": "danielfrg",
+            "repo": "jupyter-flex",
+            "stars": 320
+          }
+        }
+      ],
+      "title": "jupyter-flex (🥉11 · ⭐ 260) - 使用Jupyter Notebook构建仪表板。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 15 · ⏱️ 01.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 308508311,
+            "language": "JavaScript",
+            "last_commit": "2022-12-06T05:30:25Z",
+            "owner": "line",
+            "repo": "jnotebook_reader",
+            "stars": 104
+          }
+        }
+      ],
+      "title": "jnotebook-reader (🥉11 · ⭐ 99) - 一款很棒的查看器，用于浏览和渲染Jupyter。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 33 · 🔀 45 · 📥 88 · 📦 67K · 📋 91 - 31% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 233653381,
+            "language": "Python",
+            "last_commit": "2026-06-05T07:52:32Z",
+            "owner": "jupyter",
+            "repo": "nbclient",
+            "stars": 186
+          }
+        }
+      ],
+      "title": "nbclient (🥇26 · ⭐ 100) - 用于执行笔记本的客户端库。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 33 · 🔀 160 · 📦 240 · 📋 420 - 38% open · ⏱️ 16.02.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 62409467,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-16T04:46:42Z",
+            "owner": "pixiedust",
+            "repo": "pixiedust",
+            "stars": 1040
+          }
+        }
+      ],
+      "title": "PixieDust (🥇25 · ⭐ 1K · 💀) - 适用于Jupyter Notebook的Python Helper库。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 360 · 📋 560 - 5% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 222507066,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-23T23:57:31Z",
+            "owner": "AnswerDotAI",
+            "repo": "nbdev",
+            "stars": 5308
+          }
+        }
+      ],
+      "title": "nbdev (🥇24 · ⭐ 3.6K) - 使用Jupyter Notebook创建python项目。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 29 · 🔀 42 · 📦 1.6K · 📋 98 - 36% open · ⏱️ 05.01.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33660979,
+            "language": "Python",
+            "last_commit": "2025-09-17T08:10:44Z",
+            "owner": "computationalmodelling",
+            "repo": "nbval",
+            "stars": 453
+          }
+        }
+      ],
+      "title": "nbval (🥈23 · ⭐ 390 · 💤) - 一个py.test插件，用于验证Jupyter笔记本。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 120 · 🔀 230 · 📥 320 · 📋 320 - 43% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33653575,
+            "language": "Python",
+            "last_commit": "2026-06-12T10:12:29Z",
+            "owner": "jupyter",
+            "repo": "jupyter_client",
+            "stars": 472
+          }
+        }
+      ],
+      "title": "Jupyter Client (🥈23 · ⭐ 280 · 📈) - Jupyter protocol client APIs. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 43 · 🔀 370 · 📥 31 · 📋 4.5K - 7% open · ⏱️ 21.01.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 14895592,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-04T02:04:59Z",
+            "owner": "twosigma",
+            "repo": "beakerx",
+            "stars": 2895
+          }
+        }
+      ],
+      "title": "BeakerX (🥈22 · ⭐ 2.7K · 💀) - Jupyter Notebook的Beaker扩展。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 25 · 🔀 50 · 📋 120 - 33% open · ⏱️ 25.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73843754,
+            "language": "Python",
+            "last_commit": "2026-08-03T02:22:57Z",
+            "owner": "jupyter",
+            "repo": "jupyter-sphinx",
+            "stars": 194
+          }
+        }
+      ],
+      "title": "Jupyter Sphinx (🥈22 · ⭐ 150) - Sphinx扩展，用于呈现Jupyter交互式小部件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 110 · 🔀 300 · 📦 160 · 📋 470 - 31% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 90722372,
+            "language": "Python",
+            "last_commit": "2026-08-21T20:07:47Z",
+            "owner": "jupyterhub",
+            "repo": "repo2docker",
+            "stars": 1732
+          }
+        }
+      ],
+      "title": "repo2docker (🥈21 · ⭐ 1.4K) - 将存储库转换为支持Jupyter的Docker映像。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 19 · 📦 200 · 📋 50 - 4% open · ⏱️ 20.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 51264625,
+            "language": "Python",
+            "last_commit": "2025-02-16T18:16:37Z",
+            "owner": "chmp",
+            "repo": "ipytest",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "ipytest (🥈20 · ⭐ 230 · 📈) - IPython笔记本中的Pytest。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 21 · 📦 55 · 📋 13 - 23% open · ⏱️ 04.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 178426444,
+            "language": "Python",
+            "last_commit": "2022-08-04T11:15:43Z",
+            "owner": "ReviewNB",
+            "repo": "treon",
+            "stars": 313
+          }
+        }
+      ],
+      "title": "treon (🥈19 · ⭐ 280) - Jupyter Notebooks易于使用的测试框架。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 67 · 🔀 130 · 📋 120 - 39% open · ⏱️ 19.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33640907,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:23:33Z",
+            "owner": "jupyter",
+            "repo": "nbformat",
+            "stars": 310
+          }
+        }
+      ],
+      "title": "nbformat (🥈19 · ⭐ 180 · 📉) - Jupyter Notebook格式的参考实现。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 110 · 🔀 870 · 📋 330 - 15% open · ⏱️ 16.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33655518,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-12T03:44:41Z",
+            "owner": "ipython",
+            "repo": "ipyparallel",
+            "stars": 2647
+          }
+        }
+      ],
+      "title": "ipyparallel (🥉18 · ⭐ 2.3K) - Python中的交互式并行计算。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 20 · 🔀 31 · 📋 250 - 0% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 278889378,
+            "language": "Python",
+            "last_commit": "2026-08-22T15:43:35Z",
+            "owner": "nbQA-dev",
+            "repo": "nbQA",
+            "stars": 1203
+          }
+        }
+      ],
+      "title": "nbQA (🥉17 · ⭐ 560) - 在Jupyter Notebook上运行任何标准的Python代码质量工具。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 13 · 🔀 23 · 📦 26 · 📋 180 - 48% open · ⏱️ 18.06.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 106642829,
+            "language": "Python",
+            "last_commit": "2026-06-09T23:23:04Z",
+            "owner": "QuantEcon",
+            "repo": "sphinxcontrib-jupyter",
+            "stars": 76
+          }
+        }
+      ],
+      "title": "sphinxcontrib.jupyter (🥉17 · ⭐ 72 · 💀) - 用于生成Jupyter笔记本的Sphinx扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 31 · 🔀 79 · 📋 110 - 9% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162268840,
+            "language": "Nix",
+            "last_commit": "2026-08-23T00:09:44Z",
+            "owner": "tweag",
+            "repo": "jupyenv",
+            "stars": 744
+          }
+        }
+      ],
+      "title": "JupyterWith (🥉14 · ⭐ 350) - 声明性和可复制的Jupyter环境-由Nix提供支持。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 30 · 📦 140 · 📋 87 - 47% open · ⏱️ 12.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 243350564,
+            "language": "Python",
+            "last_commit": "2024-08-25T01:24:05Z",
+            "owner": "nteract",
+            "repo": "testbook",
+            "stars": 434
+          }
+        }
+      ],
+      "title": "testbook (🥉14 · ⭐ 320) - 以正确的方式对Jupyter笔记本进行单元测试。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 6 · 📦 27 · ⏱️ 21.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 238724781,
+            "language": "TypeScript",
+            "last_commit": "2021-09-21T08:52:43Z",
+            "owner": "treebeardtech",
+            "repo": "nbmake-action",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "nbmake-action (🥉14 · ⭐ 160 · 💤) - GitHub用于测试笔记本的动作。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 53 · 📋 63 - 58% open · ⏱️ 25.04.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21637724,
+            "language": "Python",
+            "last_commit": "2023-09-08T12:57:22Z",
+            "owner": "takluyver",
+            "repo": "nbopen",
+            "stars": 309
+          }
+        }
+      ],
+      "title": "nbopen (🥉13 · ⭐ 280 · 💀) - Open a Jupyter notebook in the best available server. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 74 · 🔀 7 · 📥 17 · 📋 25 - 44% open · ⏱️ 29.01.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127667203,
+            "language": "Python",
+            "last_commit": "2020-08-27T01:11:14Z",
+            "owner": "takluyver",
+            "repo": "jupyter_kernel_mgmt",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Kernel Management (🥉12 · ⭐ 13 · 💀) - 针对Jupyter的实验性新内核管理框架。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(🔀 170 · 📋 15 - 73% open · ⏱️ 28.12.2018):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 64220129,
+            "language": "HTML",
+            "last_commit": "2019-09-03T14:54:44Z",
+            "owner": "datitran",
+            "repo": "jupyter2slides",
+            "stars": 792
+          }
+        }
+      ],
+      "title": "jupyter2slides (🥉11 · ⭐ 770 · 💀) - 使用Jupyter Notebook的Cloud Native演示幻灯片 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 11 · 📦 6 · ⏱️ 07.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 157633459,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-12-15T03:22:24Z",
+            "owner": "stas00",
+            "repo": "ipyexperiments",
+            "stars": 236
+          }
+        }
+      ],
+      "title": "ipyexperiments (🥉11 · ⭐ 150 · 💤) - 适用于GPU和一般设备的jupyter / ipython实验容器。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 3 · 📋 5 - 60% open · ⏱️ 31.07.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 176166989,
+            "language": "Python",
+            "last_commit": "2021-07-31T11:45:58Z",
+            "owner": "krassowski",
+            "repo": "jupyter-helpers",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "Jupyter Helpers (🥉11 · ⭐ 40 · 💀) - Jupyter/IPython的帮助程序集合。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 4 · ⏱️ 31.03.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 251789183,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-12-08T03:56:51Z",
+            "owner": "Invictify",
+            "repo": "Jupter-Notebook-REST-API",
+            "stars": 164
+          }
+        }
+      ],
+      "title": "Jupter-Notebook-REST-API (🥉7 · ⭐ 51 · 💀) - 将jupyter笔记本作为REST API端点运行。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 57 · 📦 260 · 📋 28 - 71% open · ⏱️ 19.05.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 156599813,
+            "language": "Python",
+            "last_commit": "2025-08-29T05:16:04Z",
+            "owner": "plotly",
+            "repo": "jupyterlab-dash",
+            "stars": 362
+          }
+        }
+      ],
+      "title": "JupyterLab Dash (🥇20 · ⭐ 360 · 💀) - An Extension for the Interactive development of Dash apps in.. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 15 · 🔀 63 · 📦 530 · 📋 65 - 61% open · ⏱️ 29.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 119714147,
+            "language": "JavaScript",
+            "last_commit": "2024-07-25T13:25:21Z",
+            "owner": "QuantStack",
+            "repo": "jupyterlab-drawio",
+            "stars": 623
+          }
+        }
+      ],
+      "title": "JupyterLab Drawio (🥈19 · ⭐ 540 · 💀) - FOSS drawio/mxgraph程序包的独立嵌入。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 22 · 🔀 59 · 📦 2 · 📋 82 - 32% open · ⏱️ 18.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 108065356,
+            "language": "TypeScript",
+            "last_commit": "2025-12-17T09:34:48Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-latex",
+            "stars": 686
+          }
+        }
+      ],
+      "title": "JupyterLab Latex (🥈18 · ⭐ 530) - JupyterLab扩展，用于实时编辑LaTeX文档。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 25 · 🔀 67 · 📦 1 · 📋 100 - 29% open · ⏱️ 08.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 93772766,
+            "language": "HTML",
+            "last_commit": "2026-03-04T00:15:50Z",
+            "owner": "jupyterlab",
+            "repo": "jupyter-renderers",
+            "stars": 517
+          }
+        }
+      ],
+      "title": "JupyterLab Renderers (🥉17 · ⭐ 440) - JupyterLab的渲染器和渲染器扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 14 · 📦 3 · 📋 23 - 21% open · ⏱️ 18.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 152920920,
+            "language": "TypeScript",
+            "last_commit": "2023-05-06T22:45:04Z",
+            "owner": "quigleyj97",
+            "repo": "jupyterlab-spreadsheet",
+            "stars": 201
+          }
+        }
+      ],
+      "title": "JupyterLab Spreadsheet (🥉16 · ⭐ 160) - JupyterLab插件，用于查看电子表格。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 32 · 📋 60 - 66% open · ⏱️ 14.08.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101495888,
+            "language": "TypeScript",
+            "last_commit": "2022-12-06T19:48:00Z",
+            "owner": "altair-viz",
+            "repo": "jupyterlab_voyager",
+            "stars": 303
+          }
+        }
+      ],
+      "title": "JupyterLab Voyager (🥉13 · ⭐ 270 · 💀) - JupyterLab extension visualize data with Voyager. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 22 · 📦 500 · 📋 23 - 30% open · ⏱️ 20.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 166749179,
+            "language": "CSS",
+            "last_commit": "2023-06-06T08:38:20Z",
+            "owner": "telamonian",
+            "repo": "theme-darcula",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "Darcula Theme (🥇19 · ⭐ 150) - A handsome Darcula theme for Jupyterlab. The first jlab theme to.. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 9 · 📋 3 - 33% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253227754,
+            "language": "SCSS",
+            "last_commit": "2026-04-15T13:15:49Z",
+            "owner": "AllanChain",
+            "repo": "jupyterlab-theme-solarized-dark",
+            "stars": 114
+          }
+        }
+      ],
+      "title": "jupyterlab-theme-solarized-dark (🥈14 · ⭐ 66) - JupyterLab 2.x Solarized Dark扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 9 · 📦 1 · 📋 12 - 16% open · ⏱️ 07.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211337656,
+            "language": "CSS",
+            "last_commit": "2023-03-14T15:24:31Z",
+            "owner": "yeebc",
+            "repo": "jupyterlab-neon-theme",
+            "stars": 162
+          }
+        }
+      ],
+      "title": "Neon Theme (🥈13 · ⭐ 120 · 💀) - JupyterLab的扁平，80年代霓虹灯启发主题。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 15 · 📦 4 · 📋 17 - 17% open · ⏱️ 31.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124306749,
+            "language": "CSS",
+            "last_commit": "2026-01-04T02:28:12Z",
+            "owner": "oriolmirosa",
+            "repo": "jupyterlab_materialdarker",
+            "stars": 170
+          }
+        }
+      ],
+      "title": "Material Darker Theme (🥉12 · ⭐ 130 · 💤) - JupyterLab的Material Darker主题。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(🔀 3 · 📋 5 - 20% open · ⏱️ 11.04.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190713704,
+            "language": "CSS",
+            "last_commit": "2024-04-11T13:05:14Z",
+            "owner": "mohirio",
+            "repo": "jupyterlab-horizon-theme",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "Horizon Theme (🥉12 · ⭐ 52 · 💀) - JupyterLab的VSCode Horizo​​n主题端口。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 3 · 📦 2 · 📋 3 - 66% open · ⏱️ 16.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 199139790,
+            "language": "TypeScript",
+            "last_commit": "2024-06-20T07:55:32Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-theme-toggle",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Theme Toggle (🥉10 · ⭐ 11 · 💀) - JupyterLab extension to toggle the theme in the Top Bar area. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 10 · ⏱️ 12.04.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 184817022,
+            "language": "CSS",
+            "last_commit": "2020-04-12T19:23:01Z",
+            "owner": "Rahlir",
+            "repo": "theme-gruvbox",
+            "stars": 51
+          }
+        }
+      ],
+      "title": "Gruvbox Theme (🥉9 · ⭐ 48 · 💀) - Jupyter Lab的Gruvbox黑暗主题。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(🔀 1 · 📋 5 - 20% open · ⏱️ 20.09.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191276284,
+            "language": "CSS",
+            "last_commit": "2020-09-20T09:11:33Z",
+            "owner": "kenshohara",
+            "repo": "theme-nord-extension",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Nord Theme (🥉6 · ⭐ 24 · 💀) - JupyterLab-Nord主题。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 76 · 🔀 230 · 📦 15 · 📋 530 - 15% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 94917848,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T06:16:54Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-git",
+            "stars": 1610
+          }
+        }
+      ],
+      "title": "JupyterLab Git (🥇27 · ⭐ 1.1K) - JupyterLab的Git扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 54 · 🔀 260 · 📦 32 · 📋 1.5K - 14% open · ⏱️ 24.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216914329,
+            "language": "Python",
+            "last_commit": "2026-08-19T16:36:12Z",
+            "owner": "elyra-ai",
+            "repo": "elyra",
+            "stars": 1996
+          }
+        }
+      ],
+      "title": "elyra (🥇22 · ⭐ 1.4K) - Elyra以AI为中心的方法对JupyterLab笔记本进行拓展。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 109291007,
+            "language": "Rust",
+            "last_commit": "2026-08-10T15:03:06Z",
+            "owner": "perspective-dev",
+            "repo": "perspective",
+            "stars": 11131
+          }
+        }
+      ],
+      "title": "Perspective (🥇21 · ⭐ 4.8K) - 通过WebAssembly进行流式透视显示。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 11 · 🔀 37 · 📋 260 - 6% open · ⏱️ 31.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 197822581,
+            "language": "TypeScript",
+            "last_commit": "2022-03-15T11:03:46Z",
+            "owner": "jupyterlab",
+            "repo": "debugger",
+            "stars": 551
+          }
+        }
+      ],
+      "title": "JupyterLab Debugger (🥇20 · ⭐ 540 · 💀) - 适用于Jupyter笔记本电脑，控制台等的可视调试器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 18 · 🔀 84 · 📦 3 · 📋 160 - 27% open · ⏱️ 01.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 137253934,
+            "language": "TypeScript",
+            "last_commit": "2026-04-17T17:30:53Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab-variableInspector",
+            "stars": 1168
+          }
+        }
+      ],
+      "title": "Variable Inspector (🥇19 · ⭐ 930) - Jupyterlab的变量查看器扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 100 · 📋 120 - 55% open · ⏱️ 10.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 124914240,
+            "language": "TypeScript",
+            "last_commit": "2022-07-07T04:18:47Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-toc",
+            "stars": 728
+          }
+        }
+      ],
+      "title": "JupyterLab TOC (🥇19 · ⭐ 720 · 💤) - Table of Contents extension for JupyterLab. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 29 · 📦 48 · 📋 42 - 52% open · ⏱️ 15.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 196719467,
+            "language": "TypeScript",
+            "last_commit": "2023-07-28T15:17:36Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-system-monitor",
+            "stars": 305
+          }
+        }
+      ],
+      "title": "JupyterLab System Monitor (🥇19 · ⭐ 250) - JupyterLab扩展以显示系统指标。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 37 · 🔀 49 · 📋 160 - 13% open · ⏱️ 11.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144499900,
+            "language": "Python",
+            "last_commit": "2026-08-07T07:11:43Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab_code_formatter",
+            "stars": 906
+          }
+        }
+      ],
+      "title": "Code Formatter (🥈18 · ⭐ 600) - JupyterLab的通用代码格式化工具。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 15 · 🔀 88 · 📦 2 · 📋 57 - 36% open · ⏱️ 10.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107032756,
+            "language": "TypeScript",
+            "last_commit": "2024-03-25T09:01:34Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-github",
+            "stars": 437
+          }
+        }
+      ],
+      "title": "JupyterLab GitHub (🥈18 · ⭐ 330 · 💤) - GitHub integration for JupyterLab. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 50 · 📦 4 · 📋 78 - 8% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 125671008,
+            "language": "JavaScript",
+            "last_commit": "2026-08-09T14:21:51Z",
+            "owner": "finos",
+            "repo": "jupyterlab_templates",
+            "stars": 414
+          }
+        }
+      ],
+      "title": "JupyterLab Templates (🥈18 · ⭐ 310) - 在jupyterlab的jupyter-Notebook各种模板。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 19 · 🔀 51 · 📋 130 - 28% open · ⏱️ 21.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69283044,
+            "language": "TypeScript",
+            "last_commit": "2025-06-02T12:58:34Z",
+            "owner": "dask",
+            "repo": "dask-labextension",
+            "stars": 329
+          }
+        }
+      ],
+      "title": "dask-labextension (🥈18 · ⭐ 270) - JupyterLab扩展，用于实时编辑LaTeX文档。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 73 · 📦 3 · 📋 97 - 56% open · ⏱️ 16.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112877413,
+            "language": "TypeScript",
+            "last_commit": "2023-04-05T12:21:41Z",
+            "owner": "jwkvam",
+            "repo": "jupyterlab-vim",
+            "stars": 981
+          }
+        }
+      ],
+      "title": "JupyterLab Vim (🥈17 · ⭐ 920 · 💀) - 用于JupyterLab的Vim笔记本cell绑定。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 17 · 🔀 59 · 📋 54 - 42% open · ⏱️ 23.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201956456,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T18:53:21Z",
+            "owner": "rapidsai",
+            "repo": "jupyterlab-nvdashboard",
+            "stars": 680
+          }
+        }
+      ],
+      "title": "GPU Dashboards (🥈17 · ⭐ 470) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 16 · 🔀 72 · 📦 2 · 📋 98 - 33% open · ⏱️ 28.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 76697406,
+            "language": "TypeScript",
+            "last_commit": "2023-08-03T16:55:22Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-google-drive",
+            "stars": 399
+          }
+        }
+      ],
+      "title": "JupyterLab Google Drive (🥈17 · ⭐ 370) - 使用Google云端硬盘的JupyterLab的云存储。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 13 · 🔀 36 · 📦 3 · 📋 32 - 68% open · ⏱️ 04.07.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126804833,
+            "language": "TypeScript",
+            "last_commit": "2026-04-15T18:56:36Z",
+            "owner": "jupyter-widgets",
+            "repo": "jupyterlab-sidecar",
+            "stars": 263
+          }
+        }
+      ],
+      "title": "JupyterLab SideCar (🥈17 · ⭐ 200 · 💀) - JupyterLab的sidecar输出小部件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 18 · 📦 1 · 📋 49 - 32% open · ⏱️ 22.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 127723043,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T01:51:47Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "spellchecker",
+            "stars": 212
+          }
+        }
+      ],
+      "title": "JupyterLab Spellchecker (🥈17 · ⭐ 160) - JupyterLab笔记本降价单元的拼写检查器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 8 · 📦 11 · 📋 23 - 43% open · ⏱️ 28.07.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 162771624,
+            "language": "TypeScript",
+            "last_commit": "2021-08-23T19:48:16Z",
+            "owner": "krassowski",
+            "repo": "jupyterlab-go-to-definition",
+            "stars": 226
+          }
+        }
+      ],
+      "title": "JupyterLab Go-To-Definition (🥈16 · ⭐ 220 · 💀) - 变量的定义查看器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 34 · 📦 10 · 📋 91 - 62% open · ⏱️ 24.05.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 164027082,
+            "language": "TypeScript",
+            "last_commit": "2023-08-08T06:45:57Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-data-explorer",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "JupyterLab Data Explorer (🥈16 · ⭐ 170 · 💀) - JupyterLab中的一流数据集。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 15 · 📦 3 · 📋 66 - 6% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 124823433,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T15:15:48Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-iframe",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "JupyterLab IFrame (🥈16 · ⭐ 81) - JupyterLab iframe小部件。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 20 · 📦 17 · 📋 200 - 5% open · ⏱️ 13.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97290549,
+            "language": "Python",
+            "last_commit": "2026-07-20T14:04:52Z",
+            "owner": "timkpaine",
+            "repo": "lantern",
+            "stars": 350
+          }
+        }
+      ],
+      "title": "Lantern (🥈15 · ⭐ 320) - 数据探索工具。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 32 · 📦 2 · 📋 27 - 62% open · ⏱️ 18.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 144718023,
+            "language": "TypeScript",
+            "last_commit": "2022-07-21T07:29:55Z",
+            "owner": "chesterli29",
+            "repo": "jupyterlab_tensorboard",
+            "stars": 312
+          }
+        }
+      ],
+      "title": "JupyterLab Tensorboard (🥈15 · ⭐ 300) - Jupyterlab的Tensorboard扩展。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 11 · 🔀 32 · 📋 34 - 11% open · ⏱️ 12.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 253926229,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-06-01T12:58:33Z",
+            "owner": "deshaw",
+            "repo": "jupyterlab-execute-time",
+            "stars": 403
+          }
+        }
+      ],
+      "title": "jupyterlab-execute-time (🥈15 · ⭐ 230) - 为Jupyter Lab执行时间插件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 17 · 🔀 41 · 📋 89 - 12% open · ⏱️ 12.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100316129,
+            "language": "TypeScript",
+            "last_commit": "2026-08-10T23:18:02Z",
+            "owner": "bokeh",
+            "repo": "jupyter_bokeh",
+            "stars": 261
+          }
+        }
+      ],
+      "title": "Jupyter Bokeh (🥈15 · ⭐ 200) - 用于在JupyterLab笔记本中呈现Bokeh内容的扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 7 · 📥 35 · 📋 30 - 36% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 221993119,
+            "language": "TypeScript",
+            "last_commit": "2025-06-26T06:39:04Z",
+            "owner": "jtpio",
+            "repo": "ipylab",
+            "stars": 219
+          }
+        }
+      ],
+      "title": "ipylab (🥈15 · ⭐ 110) - 使用Jupyter小部件从Python笔记本控制JupyterLab。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 3 · 📋 59 - 15% open · ⏱️ 02.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 126045432,
+            "language": "HTML",
+            "last_commit": "2026-02-07T16:32:11Z",
+            "owner": "vatlab",
+            "repo": "jupyterlab-sos",
+            "stars": 79
+          }
+        }
+      ],
+      "title": "jupyterlab-sos (🥈15 · ⭐ 54) - 适用于SoS Polyglot笔记本和工作流程的Jupyterlab扩展 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 12 · 🔀 29 · 📋 27 - 40% open · ⏱️ 14.02.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 152159816,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-03T23:29:38Z",
+            "owner": "microsoft",
+            "repo": "gather",
+            "stars": 534
+          }
+        }
+      ],
+      "title": "nbgather (🥉14 · ⭐ 450 · 💀) - Jupyter笔记本分割工具。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 44 · 📋 74 - 50% open · ⏱️ 04.01.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168674852,
+            "language": "TypeScript",
+            "last_commit": "2023-01-05T04:02:41Z",
+            "owner": "pbugnion",
+            "repo": "jupyterlab-sql",
+            "stars": 429
+          }
+        }
+      ],
+      "title": "JupyterLab SQL (🥉14 · ⭐ 380 · 💀) - JupyterLab的SQL GUI。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 7 · 📋 31 - 29% open · ⏱️ 22.05.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 199358548,
+            "language": "TypeScript",
+            "last_commit": "2023-01-04T21:56:45Z",
+            "owner": "aquirdTurtle",
+            "repo": "Collapsible_Headings",
+            "stars": 187
+          }
+        }
+      ],
+      "title": "Collapsible Headings (🥉14 · ⭐ 170 · 💀) - 为Jupyter实验室笔记本实现可折叠页眉。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 6 · 🔀 19 · 📋 44 - 25% open · ⏱️ 21.02.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151302172,
+            "language": "Jupyter Notebook",
+            "last_commit": "2023-10-11T06:47:49Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-hdf5",
+            "stars": 118
+          }
+        }
+      ],
+      "title": "JupyterLab HDF5 (🥉14 · ⭐ 95) - 在JupyterLab中打开和浏览HDF5文件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 8 · ⏱️ 12.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160274963,
+            "language": "TypeScript",
+            "last_commit": "2026-08-11T14:15:47Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab-quickopen",
+            "stars": 89
+          }
+        }
+      ],
+      "title": "JupyterLab Quickopen (🥉14 · ⭐ 75 · 💤) - 通过在JupyterLab中键入文件的一部分来快速打开文件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 9 · 📦 3 · 📋 13 - 15% open · ⏱️ 20.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130385831,
+            "language": "TypeScript",
+            "last_commit": "2026-02-07T06:19:23Z",
+            "owner": "jupyterlab-contrib",
+            "repo": "jupyterlab-kernelspy",
+            "stars": 85
+          }
+        }
+      ],
+      "title": "JupyterLab Kernelspy (🥉14 · ⭐ 68) - Jupyter Lab扩展，用于检查往返于邮件的信息。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 9 · 📋 32 - 9% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145919273,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:18:02Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-autoversion",
+            "stars": 83
+          }
+        }
+      ],
+      "title": "JupyterLab Autoversion (🥉14 · ⭐ 58) - 在JupyterLab中Jupyter笔记本的自动版本控制。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 14 · 📋 13 - 53% open · ⏱️ 17.01.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 137811661,
+            "language": "TypeScript",
+            "last_commit": "2023-08-08T06:52:04Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-shortcutui",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "JupyterLab Shortcutui (🥉14 · ⭐ 55 · 💀) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 20 · 📋 16 - 50% open · ⏱️ 01.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 246929828,
+            "language": "JavaScript",
+            "last_commit": "2022-12-27T15:34:10Z",
+            "owner": "itsjafer",
+            "repo": "jupyterlab-sparkmonitor",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "jupyterlab-sparkmonitor (🥉13 · ⭐ 78) - JupyterLab扩展，可启动监控。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 9 · 🔀 24 · 📋 55 - 23% open · ⏱️ 29.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 210663275,
+            "language": "TypeScript",
+            "last_commit": "2026-07-01T00:57:12Z",
+            "owner": "jpmorganchase",
+            "repo": "jupyter-fs",
+            "stars": 245
+          }
+        }
+      ],
+      "title": "jupyter-fs (🥉12 · ⭐ 120) - 类似文件系统的内容管理器，用于Jupyter中的多个后端。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 22 · 📋 34 - 70% open · ⏱️ 01.05.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 164026920,
+            "language": "Jupyter Notebook",
+            "last_commit": "2021-02-10T20:06:33Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-commenting",
+            "stars": 103
+          }
+        }
+      ],
+      "title": "JupyterLab Commenting (🥉12 · ⭐ 93 · 💀) - JupyterLab的注释和注释。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 16 · 📋 110 - 27% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145919397,
+            "language": "Python",
+            "last_commit": "2026-08-12T07:36:07Z",
+            "owner": "jpmorganchase",
+            "repo": "nbcelltests",
+            "stars": 97
+          }
+        }
+      ],
+      "title": "nbcelltests (🥉12 · ⭐ 64) - 用于Jupyter笔记本的逐个cell测试工具。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 10 · 📥 77 · 📋 9 - 11% open · ⏱️ 27.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 153530911,
+            "language": "Python",
+            "last_commit": "2025-02-03T07:49:32Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-python-file",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "JupyterLab Python Files (🥉12 · ⭐ 52 · 💤) - JupyterLab扩展来创建Python文件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143883226,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:15:49Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-email",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "JupyterLab Flake8 (🥉12 · ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 6 · 📦 2 · 📋 27 - 11% open · ⏱️ 13.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107341993,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:24:52Z",
+            "owner": "tkp-archive",
+            "repo": "knowledgelab",
+            "stars": 48
+          }
+        }
+      ],
+      "title": "KnowledgeLab (🥉12 · ⭐ 45) - KnowledgeRepo + JupyterLab. Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 5 · 📦 3 · 📋 24 - 8% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143177684,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T16:20:56Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-commands",
+            "stars": 63
+          }
+        }
+      ],
+      "title": "jupyterlab_commands (🥉12 · ⭐ 37) - Add arbitrary python commands to the jupyterlab.. Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 43 · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 527770702,
+            "language": "TypeScript",
+            "last_commit": "2026-04-01T14:12:56Z",
+            "owner": "krassowski",
+            "repo": "jupyterlab-lsp",
+            "stars": 133
+          }
+        }
+      ],
+      "title": "JupyterLab LSP (🥉12 · 📉) - JupyterLab的编码帮助（代码导航+悬停）。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 10 · 🔀 25 · 📋 18 - 61% open · ⏱️ 29.04.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 137811251,
+            "language": "TypeScript",
+            "last_commit": "2020-04-29T18:27:31Z",
+            "owner": "jupyterlab",
+            "repo": "jupyterlab-celltags",
+            "stars": 115
+          }
+        }
+      ],
+      "title": "jupyterlab-celltags (🥉11 · ⭐ 110 · 💀) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 143883226,
+            "language": "Python",
+            "last_commit": "2026-08-23T15:15:49Z",
+            "owner": "timkpaine",
+            "repo": "jupyterlab-email",
+            "stars": 61
+          }
+        }
+      ],
+      "title": "JupyterLab Email (🥉11 · ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 10 · 📋 39 - 15% open · ⏱️ 16.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 129121371,
+            "language": "TypeScript",
+            "last_commit": "2021-09-16T16:01:09Z",
+            "owner": "mlshapiro",
+            "repo": "jupyterlab-flake8",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "jupyterlab-flake8 (🥉10 · ⭐ 110 · 💤) - Jupyterlab用于笔记本和文本文件的python连接器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 7 · 📋 10 - 20% open · ⏱️ 06.08.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 245173968,
+            "language": "TypeScript",
+            "last_commit": "2024-06-25T09:17:04Z",
+            "owner": "ReviewNB",
+            "repo": "jupyterlab-gitplus",
+            "stars": 121
+          }
+        }
+      ],
+      "title": "jupyterlab-gitplus (🥉9 · ⭐ 94 · 💤) - JupyterLab扩展来创建Python文件。 ❗️AGPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 6 · 📋 5 - 40% open · ⏱️ 16.10.2020):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 150898312,
+            "language": "TypeScript",
+            "last_commit": "2023-01-03T15:16:54Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-python-bytecode",
+            "stars": 62
+          }
+        }
+      ],
+      "title": "JupyterLab Bytecode (🥉9 · ⭐ 59 · 💀) - JupyterLab扩展，以探索CPython字节码。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 2 · 📋 5 - 40% open · ⏱️ 05.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 182369714,
+            "language": "TypeScript",
+            "last_commit": "2021-09-05T13:13:14Z",
+            "owner": "manuzhang",
+            "repo": "jupyterlab_spark",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "JupyterLab Spark (🥉9 · ⭐ 9 · 💤) - JupyterLab的Spark应用程序UI扩展。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 1 · ⏱️ 07.12.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 372574371,
+            "language": "TypeScript",
+            "last_commit": "2024-02-23T12:48:27Z",
+            "owner": "jtpio",
+            "repo": "jupyterlab-topbar",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "JupyterLab Top Bar (🥉9 · ⭐ 3 · 💤) - JupyterLab顶部栏扩展。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 📥 3 · ⏱️ 24.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 325326897,
+            "language": "TypeScript",
+            "last_commit": "2023-09-10T20:15:25Z",
+            "owner": "gavincyi",
+            "repo": "jupyterlab-executor",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "jupyterlab-executor (🥉8 · ⭐ 5 · 💀) - JupyterLab扩展，以探索CPython字节码。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 110 · 🔀 310 · 📦 290 · 📋 230 - 13% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24390283,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:33Z",
+            "owner": "jupyterhub",
+            "repo": "oauthenticator",
+            "stars": 445
+          }
+        }
+      ],
+      "title": "OAuthenticator (🥇22 · ⭐ 340) - OAuth + JupyterHub Authenticator = OAuthenticator. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 31 · 🔀 150 · 📦 95 · 📋 140 - 41% open · ⏱️ 27.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49804028,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:34Z",
+            "owner": "jupyterhub",
+            "repo": "ldapauthenticator",
+            "stars": 214
+          }
+        }
+      ],
+      "title": "LDAP Authenticator (🥇22 · ⭐ 180 · 💀) - 用于Jupyter的LDAP Authenticator插件。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 15 · 🔀 42 · 📦 78 · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114320111,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:26Z",
+            "owner": "jupyterhub",
+            "repo": "ltiauthenticator",
+            "stars": 73
+          }
+        }
+      ],
+      "title": "LTI Authenticator (🥈18 · ⭐ 55) - 用于LTI的JupyterHub身份验证器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 21 · 🔀 52 · 📦 40 · 📋 93 - 25% open · ⏱️ 03.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 160229874,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:32Z",
+            "owner": "jupyterhub",
+            "repo": "nativeauthenticator",
+            "stars": 81
+          }
+        }
+      ],
+      "title": "Native Authenticator (🥈18 · ⭐ 53) - JupyterHub本地用户身份验证器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 12 · 🔀 21 · 📦 66 · 📋 23 - 26% open · ⏱️ 28.10.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 71854469,
+            "language": "Python",
+            "last_commit": "2026-08-01T05:03:46Z",
+            "owner": "jupyterhub",
+            "repo": "firstuseauthenticator",
+            "stars": 50
+          }
+        }
+      ],
+      "title": "First Use Authenticator (🥈16 · ⭐ 40 · 💤) - JupyterHub Authenticator，可以让用户进行设置。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(🔀 14 · 📦 100 · 📋 7 - 71% open · ⏱️ 12.02.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 51716140,
+            "language": "Python",
+            "last_commit": "2021-02-12T08:19:02Z",
+            "owner": "jupyterhub",
+            "repo": "dummyauthenticator",
+            "stars": 30
+          }
+        }
+      ],
+      "title": "dummyauthenticator (🥈14 · ⭐ 28 · 💀) - 虚拟的JupyterHub Authenticator使测试变得容易。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 37 · 📦 8 · 📋 17 - 52% open · ⏱️ 13.02.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95041784,
+            "language": "Python",
+            "last_commit": "2021-04-15T07:40:37Z",
+            "owner": "mogthesprog",
+            "repo": "jwtauthenticator",
+            "stars": 54
+          }
+        }
+      ],
+      "title": "JWT Authenticator (🥉13 · ⭐ 41 · 💀) - JupyterHub的令牌验证器。 Apache-2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 9 · 📦 83 · ⏱️ 17.05.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 101861579,
+            "language": "Python",
+            "last_commit": "2022-12-07T12:48:52Z",
+            "owner": "jupyterhub",
+            "repo": "nullauthenticator",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Null Authenticator (🥉13 · ⭐ 7) - Null Authenticator for JupyterHub instances that should have.. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 7 · 🔀 20 · 📥 13 · 📋 28 - 50% open · ⏱️ 21.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181971492,
+            "language": "Python",
+            "last_commit": "2025-01-25T07:13:22Z",
+            "owner": "HewlettPackard",
+            "repo": "jupyterhub-samlauthenticator",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "SAML Authenticator (🥉12 · ⭐ 33) - jupyterhub-samlauthenticator。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 25 · 📋 19 - 42% open · ⏱️ 16.04.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45512482,
+            "language": "Python",
+            "last_commit": "2022-03-31T20:04:45Z",
+            "owner": "cwaldbieser",
+            "repo": "jhub_remote_user_authenticator",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Remote User Auth (🥉11 · ⭐ 33 · 💀) - Jupyterhub的REMOTE_USER身份验证器。 ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 4 · 🔀 10 · 📋 12 - 16% open · ⏱️ 28.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 103855119,
+            "language": "Python",
+            "last_commit": "2023-03-17T18:54:21Z",
+            "owner": "cwaldbieser",
+            "repo": "jhub_cas_authenticator",
+            "stars": 23
+          }
+        }
+      ],
+      "title": "CAS Authenticator (🥉10 · ⭐ 18) - Jupyterhub的CAS验证器。 ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 3 · 🔀 3 · ⏱️ 09.03.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 100743195,
+            "language": "Python",
+            "last_commit": "2026-07-27T23:59:14Z",
+            "owner": "thedataincubator",
+            "repo": "jupyterhub-hashauthenticator",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Hash Authenticator (🥉9 · ⭐ 4 · 💀) - 使用从其生成的密码对用户进行身份验证。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 5 · 🔀 1 · 📦 1 · ⏱️ 15.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 114898245,
+            "language": "Python",
+            "last_commit": "2026-03-18T14:39:04Z",
+            "owner": "ucphhpc",
+            "repo": "jhub-authenticators",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Remote Authenticator (🥉9 · ⭐ 1) - JupyterHub Authenticators的集合。 ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 5 · 📋 5 - 60% open · ⏱️ 16.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 181943307,
+            "language": "Python",
+            "last_commit": "2026-08-01T11:54:05Z",
+            "owner": "jupyterhub",
+            "repo": "kerberosauthenticator",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Keberos Authenticator (🥉8 · ⭐ 10 · 💀) - 用于LTI的JupyterHub身份验证器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(🔀 1 · ⏱️ 03.09.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 206049975,
+            "language": "Python",
+            "last_commit": "2019-09-03T15:17:32Z",
+            "owner": "andreas-h",
+            "repo": "sshauthenticator",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "SSH Authenticator (🥉6 · ⭐ 6 · 💀) - JupyterHub的简单SSH身份验证器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 64 · 🔀 270 · 📦 130 · 📋 260 - 6% open · ⏱️ 05.07.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24513798,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:13Z",
+            "owner": "jupyterhub",
+            "repo": "dockerspawner",
+            "stars": 544
+          }
+        }
+      ],
+      "title": "DockerSpawner (🥇21 · ⭐ 430) - 在Docker容器中生成JupyterHub单用户服务器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 73 · 🔀 250 · 📦 110 · 📋 290 - 17% open · ⏱️ 13.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 46604988,
+            "language": "Python",
+            "last_commit": "2026-08-10T16:36:31Z",
+            "owner": "jupyterhub",
+            "repo": "kubespawner",
+            "stars": 607
+          }
+        }
+      ],
+      "title": "KubeSpawner (🥈20 · ⭐ 420) - Kubernetes spawner for JupyterHub. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 40 · 🔀 98 · 📦 21 · 📋 120 - 40% open · ⏱️ 14.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 45015693,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:30:10Z",
+            "owner": "jupyterhub",
+            "repo": "batchspawner",
+            "stars": 207
+          }
+        }
+      ],
+      "title": "BatchSpawner (🥈20 · ⭐ 140) - 用于Jupyterhub的自定义Spawner，可按计划批量启动服务器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 17 · 🔀 40 · 📦 21 · 📋 59 - 45% open · ⏱️ 22.04.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67483684,
+            "language": "Python",
+            "last_commit": "2026-08-01T05:02:37Z",
+            "owner": "jupyterhub",
+            "repo": "systemdspawner",
+            "stars": 100
+          }
+        }
+      ],
+      "title": "SystemdSpawner (🥉17 · ⭐ 79) - 使用Systemd生成JupyterHub单用户笔记本服务器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 16 · 🔀 49 · 📦 7 · 📋 31 - 54% open · ⏱️ 04.03.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68860416,
+            "language": "Python",
+            "last_commit": "2024-04-09T11:45:46Z",
+            "owner": "jupyterhub",
+            "repo": "wrapspawner",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "WrapSpawner (🥉14 · ⭐ 54) - JupyterHub的生成器的运行时配置机制。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 14 · 🔀 36 · 📦 40 · 📋 37 - 45% open · ⏱️ 10.09.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27099902,
+            "language": "Python",
+            "last_commit": "2026-08-05T20:02:53Z",
+            "owner": "jupyterhub",
+            "repo": "sudospawner",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "SudoSpawner (🥉14 · ⭐ 44 · 💤) - 使用Systemd生成JupyterHub单用户笔记本服务器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 2 · 🔀 9 · 📋 9 - 55% open · ⏱️ 16.07.2019):",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 162336326,
+            "language": "Python",
+            "last_commit": "2025-04-23T12:50:27Z",
+            "owner": "jupyterhub",
+            "repo": "yarnspawner",
+            "stars": 19
+          }
+        }
+      ],
+      "title": "YarnSpawner (🥉10 · ⭐ 19 · 💀) - 在Hadoop/YARN中生成JupyterHub单用户笔记本服务器。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 890 · 🔀 4.2K · 📥 320K · 📦 300K · 📋 7K - 20% open · ⏱️ 22.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 658518,
+            "language": "Python",
+            "last_commit": "2026-08-24T11:05:48Z",
+            "owner": "ipython",
+            "repo": "ipython",
+            "stars": 16774
+          }
+        }
+      ],
+      "title": "ipython (🥇34 · ⭐ 15K) - Official repository for IPython itself. Other repos in the IPython.. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 480 · 🔀 180 · 📥 420 · 📋 290 - 35% open · ⏱️ 23.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 68849978,
+            "language": "Python",
+            "last_commit": "2026-08-17T20:33:04Z",
+            "owner": "jupyter-server",
+            "repo": "jupyter_server",
+            "stars": 566
+          }
+        }
+      ],
+      "title": "jupyter_server (🥉21 · ⭐ 330) - The backendi.e. core services, APIs, and REST.. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 29 · 🔀 44 · 📥 28 · 📋 39 - 28% open · ⏱️ 09.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83919624,
+            "language": "Python",
+            "last_commit": "2026-08-03T21:52:32Z",
+            "owner": "jupyter",
+            "repo": "jupyter-packaging",
+            "stars": 65
+          }
+        }
+      ],
+      "title": "jupyter-packaging (🥉19 · ⭐ 58) - 帮助构建和安装Jupyter Python软件包的工具。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 100 · 🔀 270 · 📦 4K · 📋 1.9K - 28% open · ⏱️ 25.08.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 145848899,
+            "language": "Python",
+            "last_commit": "2026-08-24T14:39:47Z",
+            "owner": "holoviz",
+            "repo": "panel",
+            "stars": 5740
+          }
+        }
+      ],
+      "title": "panel (🥇31 · ⭐ 2.1K) - 适用于Python的高级应用程序和仪表板解决方案。 BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 120 · 🔀 170 · 📦 110K · 📋 310 - 30% open · ⏱️ 19.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33653652,
+            "language": "Python",
+            "last_commit": "2026-03-25T02:27:03Z",
+            "owner": "spyder-ide",
+            "repo": "qtconsole",
+            "stars": 439
+          }
+        }
+      ],
+      "title": "qtconsole (🥇31 · ⭐ 330) - Jupyter Qt Console. BSD-3"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 8 · 🔀 240 · 📦 78 · 📋 73 - 56% open · ⏱️ 11.06.2021):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 294074614,
+            "language": "Python",
+            "last_commit": "2024-09-14T16:08:49Z",
+            "owner": "abhishekkrthakur",
+            "repo": "colabcode",
+            "stars": 2158
+          }
+        }
+      ],
+      "title": "colabcode (🥉21 · ⭐ 1.8K · 💀) - 在Google Colab或Kaggle笔记本上运行VSCode（代码服务器）。 MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub",
+          "description": "(👨‍💻 59 · 🔀 130 · 📥 61 · 📋 140 - 38% open · ⏱️ 22.06.2022):",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33653639,
+            "language": "Python",
+            "last_commit": "2025-10-23T14:31:11Z",
+            "owner": "jupyter",
+            "repo": "jupyter_console",
+            "stars": 280
+          }
+        }
+      ],
+      "title": "jupyter-console (🥉20 · ⭐ 200) - Jupyter终端控制台。 ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "CV项目和资源大全",
           "description": "周更新的各种CV板块涉及的项目和工具资源汇集列表",
           "children": [],
@@ -83,7 +5732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:53:39.978Z",
+    "last_updated": "2026-08-24T14:43:26.383Z",
     "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
     "original_repository_id": 361363140,
     "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
