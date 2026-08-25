@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/notebook",
           "description": "(👨‍💻 610 · 🔀 3.8K · 📥 8.8K · 📦 10 · 📋 4.5K - 44% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13319
+            "stars": 13321
           }
         }
       ],
@@ -26,14 +26,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyterhub",
           "description": "(👨‍💻 280 · 🔀 1.7K · 📦 1.9K · 📋 2.1K - 5% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 20785986,
             "language": "Python",
-            "last_commit": "2026-08-24T17:24:08Z",
+            "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
             "stars": 8329
@@ -47,7 +47,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/nteract",
           "description": "(👨‍💻 180 · 🔀 530 · 📥 1.4M · 📋 1.7K - 9% open · ⏱️ 23.07.2022):",
           "children": [],
           "repo_info": {
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/docker-stacks",
           "description": "(👨‍💻 220 · 🔀 2.6K · 📋 770 - 5% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vatlab/sos",
           "description": "(👨‍💻 36 · 🔀 30 · 📦 2.7K · 📋 1.4K - 4% open · ⏱️ 21.06.2022):",
           "children": [],
           "repo_info": {
@@ -110,7 +110,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "googledatalab/datalab",
           "description": "(👨‍💻 52 · 🔀 250 · 📋 890 - 25% open · ⏱️ 16.08.2021):",
           "children": [],
           "repo_info": {
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/hydrogen",
           "description": "(👨‍💻 89 · 🔀 320 · 📋 1.3K - 13% open · ⏱️ 25.03.2022):",
           "children": [],
           "repo_info": {
@@ -152,7 +152,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Kaggle/docker-python",
           "description": "(👨‍💻 150 · 🔀 810 · 📋 300 - 4% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/ml-workspace",
           "description": "(👨‍💻 11 · 🔀 330 · 📋 87 - 9% open · ⏱️ 22.11.2021):",
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ml-tooling/ml-hub",
           "description": "(👨‍💻 7 · 🔀 54 · 📥 1.9K · 📋 26 - 57% open · ⏱️ 23.12.2021):",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/retrolab",
           "description": "(👨‍💻 17 · 🔀 43 · 📥 790 · 📦 80 · 📋 110 - 3% open · ⏱️ 04.05.2022):",
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/vscode-jupyter",
           "description": "(👨‍💻 250 · 🔀 150 · 📋 7.7K - 8% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -257,7 +257,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "iot-salzburg/gpu-jupyter",
           "description": "(👨‍💻 10 · 🔀 140 · 📋 56 - 21% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23728
+            "stars": 23730
           }
         }
       ],
@@ -299,7 +299,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/ipywidgets",
           "description": "(👨‍💻 200 · 🔀 830 · 📦 4.7K · 📋 1.8K - 31% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Data-Centric-AI-Community/fg-data-profiling",
           "description": "(👨‍💻 92 · 🔀 1.3K · 📦 8.8K · 📋 580 - 19% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13684
+            "stars": 13683
           }
         }
       ],
@@ -341,7 +341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/ipyleaflet",
           "description": "(👨‍💻 80 · 🔀 320 · 📦 2.6K · 📋 500 - 36% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -362,17 +362,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bokeh/bokeh",
           "description": "(👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-24T18:05:19Z",
+            "last_commit": "2026-08-25T05:32:10Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20434
+            "stars": 20433
           }
         }
       ],
@@ -383,7 +383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "man-group/dtale",
           "description": "(👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):",
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bqplot/bqplot",
           "description": "(👨‍💻 59 · 🔀 440 · 📦 34 · 📋 570 - 36% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "widgetti/ipyvolume",
           "description": "(👨‍💻 41 · 🔀 220 · 📦 840 · 📋 300 - 56% open · ⏱️ 26.07.2022):",
           "children": [],
           "repo_info": {
@@ -446,7 +446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "matplotlib/ipympl",
           "description": "(👨‍💻 28 · 🔀 190 · 📦 3.7K · 📋 260 - 44% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -467,7 +467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "plotly/jupyter-dash",
           "description": "(👨‍💻 10 · 🔀 210 · 📥 77 · 📦 1.8K · 📋 62 - 62% open · ⏱️ 28.06.2022):",
           "children": [],
           "repo_info": {
@@ -488,7 +488,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/papermill",
           "description": "(👨‍💻 100 · 🔀 360 · 📦 2.4K · 📋 340 - 30% open · ⏱️ 15.08.2022):",
           "children": [],
           "repo_info": {
@@ -509,7 +509,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PAIR-code/facets",
           "description": "(👨‍💻 28 · 🔀 850 · 📦 130 · 📋 150 - 50% open · ⏱️ 06.05.2021):",
           "children": [],
           "repo_info": {
@@ -530,7 +530,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/pythreejs",
           "description": "(👨‍💻 30 · 🔀 170 · 📦 21 · 📋 220 - 23% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -551,7 +551,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "martinRenou/ipycanvas",
           "description": "(👨‍💻 20 · 🔀 51 · 📦 780 · 📋 110 - 36% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -572,7 +572,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "quantopian/qgrid",
           "description": "(👨‍💻 30 · 🔀 390 · 📋 270 - 54% open · ⏱️ 07.04.2020):",
           "children": [],
           "repo_info": {
@@ -582,7 +582,7 @@
             "last_commit": "2024-01-12T07:28:07Z",
             "owner": "quantopian",
             "repo": "qgrid",
-            "stars": 3084
+            "stars": 3083
           }
         }
       ],
@@ -593,7 +593,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "maartenbreddels/ipywebrtc",
           "description": "(👨‍💻 9 · 🔀 33 · 📦 570 · 📋 51 - 60% open · ⏱️ 29.03.2021):",
           "children": [],
           "repo_info": {
@@ -614,7 +614,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cytoscape/ipycytoscape",
           "description": "(👨‍💻 32 · 🔀 55 · 📥 3 · 📦 78 · 📋 160 - 37% open · ⏱️ 20.05.2022):",
           "children": [],
           "repo_info": {
@@ -635,7 +635,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mapbox/mapboxgl-jupyter",
           "description": "(👨‍💻 21 · 🔀 130 · 📦 140 · 📋 99 - 32% open · ⏱️ 19.04.2021):",
           "children": [],
           "repo_info": {
@@ -656,7 +656,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mwouts/itables",
           "description": "(👨‍💻 4 · 🔀 29 · 📦 140 · 📋 49 - 10% open · ⏱️ 17.08.2022):",
           "children": [],
           "repo_info": {
@@ -677,7 +677,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "widgetti/ipyvuetify",
           "description": "(👨‍💻 10 · 🔀 44 · 📦 4 · 📋 170 - 26% open · ⏱️ 07.02.2022):",
           "children": [],
           "repo_info": {
@@ -698,7 +698,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vidartf/ipydatawidgets",
           "description": "(👨‍💻 5 · 🔀 8 · 📦 570 · 📋 10 - 20% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -719,7 +719,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "InsightSoftwareConsortium/itkwidgets",
           "description": "(👨‍💻 4 · 🔀 61 · 📥 66 · 📋 200 - 43% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -740,7 +740,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "evidentlyai/evidently",
           "description": "(👨‍💻 24 · 🔀 270 · 📦 550 · 📋 110 - 20% open · ⏱️ 16.08.2022):",
           "children": [],
           "repo_info": {
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7842
+            "stars": 7844
           }
         }
       ],
@@ -761,7 +761,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PAIR-code/what-if-tool",
           "description": "(👨‍💻 20 · 🔀 140 · 📋 110 - 52% open · ⏱️ 05.01.2022):",
           "children": [],
           "repo_info": {
@@ -782,7 +782,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets-contrib/ipysheet",
           "description": "(👨‍💻 10 · 🔀 62 · 📦 3 · 📋 120 - 51% open · ⏱️ 14.12.2021):",
           "children": [],
           "repo_info": {
@@ -803,7 +803,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nicolaskruchten/jupyter_pivottablejs",
           "description": "(👨‍💻 3 · 🔀 62 · 📦 260 · 📋 58 - 29% open · ⏱️ 04.12.2018):",
           "children": [],
           "repo_info": {
@@ -824,7 +824,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/ipydagred3",
           "description": "(👨‍💻 3 · 🔀 5 · 📦 11 · 📋 19 - 15% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -845,7 +845,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pbugnion/gmaps",
           "description": "(👨‍💻 16 · 🔀 140 · 📦 1 · 📋 200 - 32% open · ⏱️ 22.07.2019):",
           "children": [],
           "repo_info": {
@@ -866,7 +866,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vega/ipyvega",
           "description": "(👨‍💻 11 · 🔀 55 · 📋 95 - 13% open · ⏱️ 01.08.2022):",
           "children": [],
           "repo_info": {
@@ -887,7 +887,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets-contrib/ipytree",
           "description": "(👨‍💻 8 · 🔀 25 · 📋 31 - 48% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -908,7 +908,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "widgetti/ipyvue",
           "description": "(👨‍💻 3 · 🔀 11 · 📦 20 · 📋 7 - 28% open · ⏱️ 10.12.2021):",
           "children": [],
           "repo_info": {
@@ -929,7 +929,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "g2nb/igv-jupyter",
           "description": "(👨‍💻 5 · 🔀 15 · 📦 12 · ⏱️ 14.06.2022):",
           "children": [],
           "repo_info": {
@@ -950,7 +950,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "spacetelescope/jdaviz",
           "description": "(👨‍💻 29 · 🔀 35 · 📋 690 - 38% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -971,7 +971,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "altair-viz/altair_viewer",
           "description": "(👨‍💻 3 · 🔀 8 · 📋 7 - 42% open · ⏱️ 14.01.2022):",
           "children": [],
           "repo_info": {
@@ -992,7 +992,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "finos/ipyregulartable",
           "description": "(👨‍💻 5 · 🔀 13 · 📦 9 · 📋 25 - 40% open · ⏱️ 20.07.2022):",
           "children": [],
           "repo_info": {
@@ -1013,7 +1013,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vidartf/ipyscales",
           "description": "(👨‍💻 4 · 🔀 3 · 📦 53 · 📋 6 - 33% open · ⏱️ 05.01.2021):",
           "children": [],
           "repo_info": {
@@ -1034,7 +1034,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenGeoscience/geonotebook",
           "description": "(👨‍💻 9 · 🔀 140 · 📋 83 - 44% open · ⏱️ 21.01.2019):",
           "children": [],
           "repo_info": {
@@ -1055,7 +1055,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nipy/niwidgets",
           "description": "(👨‍💻 16 · 🔀 33 · 📦 28 · 📋 34 - 50% open · ⏱️ 24.03.2020):",
           "children": [],
           "repo_info": {
@@ -1076,7 +1076,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lgpage/nbtutor",
           "description": "(👨‍💻 3 · 🔀 38 · 📦 28 · 📋 34 - 29% open · ⏱️ 04.04.2022):",
           "children": [],
           "repo_info": {
@@ -1097,7 +1097,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "maartenbreddels/ipymaterialui",
           "description": "(👨‍💻 3 · 🔀 14 · 📦 5 · 📋 10 - 70% open · ⏱️ 29.10.2019):",
           "children": [],
           "repo_info": {
@@ -1118,7 +1118,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "medialab/ipysigma",
           "description": "(👨‍💻 3 · 🔀 6 · 📋 100 - 43% open · ⏱️ 10.06.2022):",
           "children": [],
           "repo_info": {
@@ -1139,7 +1139,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CermakM/jupyter-datatables",
           "description": "(👨‍💻 4 · 🔀 15 · 📋 28 - 46% open · ⏱️ 11.12.2019):",
           "children": [],
           "repo_info": {
@@ -1160,7 +1160,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "leifwalsh/perfume",
           "description": "(👨‍💻 3 · 🔀 4 · 📋 6 - 33% open · ⏱️ 31.10.2020):",
           "children": [],
           "repo_info": {
@@ -1181,7 +1181,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/ipyp5",
           "description": "(👨‍💻 2 · 🔀 5 · ⏱️ 16.10.2020):",
           "children": [],
           "repo_info": {
@@ -1202,7 +1202,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "1kbgz/tributary",
           "description": "(👨‍💻 7 · ⏱️ 05.07.2022):",
           "children": [],
           "repo_info": {
@@ -1223,7 +1223,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GianniBalistreri/easyexplore",
           "description": "(👨‍💻 4 · 🔀 2 · 📦 1 · 📋 24 - 33% open · ⏱️ 08.06.2022):",
           "children": [],
           "repo_info": {
@@ -1244,7 +1244,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "asvcode/Vision_UI",
           "description": "(👨‍💻 3 · 🔀 32 · 📋 3 - 33% open · ⏱️ 05.07.2020):",
           "children": [],
           "repo_info": {
@@ -1265,7 +1265,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipyannotate/ipyannotate",
           "description": "(👨‍💻 3 · 🔀 10 · ⏱️ 20.09.2020):",
           "children": [],
           "repo_info": {
@@ -1286,7 +1286,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "DGothrek/ipyaggrid",
           "description": "(👨‍💻 2 · ⏱️ 06.05.2019):",
           "children": [],
           "repo_info": {
@@ -1307,7 +1307,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython-contrib/jupyter_contrib_nbextensions",
           "description": "(👨‍💻 130 · 🔀 770 · 📋 770 - 41% open · ⏱️ 17.07.2022):",
           "children": [],
           "repo_info": {
@@ -1328,7 +1328,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/jupyter-resource-usage",
           "description": "(👨‍💻 24 · 🔀 73 · 📥 73 · 📋 58 - 53% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -1349,7 +1349,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/nbgitpuller",
           "description": "(👨‍💻 25 · 🔀 61 · 📦 500 · 📋 130 - 39% open · ⏱️ 22.06.2022):",
           "children": [],
           "repo_info": {
@@ -1370,7 +1370,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dunovank/jupyter-themes",
           "description": "(👨‍💻 43 · 🔀 1K · 📋 390 - 48% open · ⏱️ 03.02.2022):",
           "children": [],
           "repo_info": {
@@ -1391,7 +1391,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbgrader",
           "description": "(👨‍💻 97 · 🔀 290 · 📥 34 · 📋 810 - 24% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -1412,7 +1412,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oschuett/appmode",
           "description": "(👨‍💻 8 · 🔀 63 · 📦 320 · 📋 53 - 7% open · ⏱️ 26.04.2021):",
           "children": [],
           "repo_info": {
@@ -1433,7 +1433,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyter-server-proxy",
           "description": "(👨‍💻 64 · 🔀 110 · 📦 4 · 📋 160 - 39% open · ⏱️ 08.07.2022):",
           "children": [],
           "repo_info": {
@@ -1454,7 +1454,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Jupyter-contrib/jupyter_nbextensions_configurator",
           "description": "(👨‍💻 20 · 🔀 110 · 📋 82 - 60% open · ⏱️ 09.07.2022):",
           "children": [],
           "repo_info": {
@@ -1464,7 +1464,7 @@
             "last_commit": "2024-06-05T16:43:47Z",
             "owner": "Jupyter-contrib",
             "repo": "jupyter_nbextensions_configurator",
-            "stars": 980
+            "stars": 979
           }
         }
       ],
@@ -1475,7 +1475,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mamba-org/gator",
           "description": "(👨‍💻 25 · 🔀 23 · 📥 2 · 📦 1 · 📋 53 - 26% open · ⏱️ 25.07.2022):",
           "children": [],
           "repo_info": {
@@ -1496,7 +1496,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "8080labs/pyforest",
           "description": "(👨‍💻 13 · 🔀 180 · 📋 23 - 39% open · ⏱️ 14.06.2021):",
           "children": [],
           "repo_info": {
@@ -1517,7 +1517,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krishnan-r/sparkmonitor",
           "description": "(👨‍💻 3 · 🔀 50 · 📥 2.4K · 📋 22 - 68% open · ⏱️ 16.05.2022):",
           "children": [],
           "repo_info": {
@@ -1538,7 +1538,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/jupyter-rsession-proxy",
           "description": "(👨‍💻 20 · 🔀 68 · 📦 41 · 📋 71 - 36% open · ⏱️ 16.06.2022):",
           "children": [],
           "repo_info": {
@@ -1559,7 +1559,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "anaconda/nb_conda",
           "description": "(👨‍💻 14 · 🔀 29 · 📋 63 - 55% open · ⏱️ 11.09.2020):",
           "children": [],
           "repo_info": {
@@ -1580,7 +1580,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyter-archive",
           "description": "(👨‍💻 9 · 🔀 10 · 📥 3.3K · 📋 33 - 3% open · ⏱️ 20.07.2022):",
           "children": [],
           "repo_info": {
@@ -1601,7 +1601,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lspvic/jupyter_tensorboard",
           "description": "(👨‍💻 4 · 🔀 70 · 📋 69 - 57% open · ⏱️ 16.02.2020):",
           "children": [],
           "repo_info": {
@@ -1622,7 +1622,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "googlecolab/jupyter_http_over_ws",
           "description": "(👨‍💻 3 · 🔀 38 · 📋 29 - 72% open · ⏱️ 30.08.2021):",
           "children": [],
           "repo_info": {
@@ -1643,7 +1643,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mozilla/jupyter-spark",
           "description": "(👨‍💻 12 · 🔀 29 · 📦 16 · 📋 27 - 48% open · ⏱️ 01.12.2020):",
           "children": [],
           "repo_info": {
@@ -1664,7 +1664,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "berkeley-dsep-infra/nbzip",
           "description": "(👨‍💻 6 · 🔀 15 · 📦 290 · 📋 14 - 64% open · ⏱️ 22.11.2019):",
           "children": [],
           "repo_info": {
@@ -1685,7 +1685,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-incubator/contentmanagement",
           "description": "(👨‍💻 8 · 🔀 25 · 📋 27 - 25% open · ⏱️ 11.06.2018):",
           "children": [],
           "repo_info": {
@@ -1706,7 +1706,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "thoth-station/jupyter-nbrequirements",
           "description": "(👨‍💻 12 · 🔀 4 · ⏱️ 21.10.2021):",
           "children": [],
           "repo_info": {
@@ -1727,7 +1727,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "paypal/PPExtensions",
           "description": "(👨‍💻 9 · 🔀 27 · 📦 1 · 📋 38 - 42% open · ⏱️ 07.12.2018):",
           "children": [],
           "repo_info": {
@@ -1748,7 +1748,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "drillan/jupyter-black",
           "description": "(👨‍💻 2 · 🔀 20 · 📋 21 - 42% open · ⏱️ 01.02.2020):",
           "children": [],
           "repo_info": {
@@ -1769,7 +1769,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "willkessler/jupyterterminals",
           "description": "(👨‍💻 2 · 🔀 2 · 📦 1 · ⏱️ 17.05.2021):",
           "children": [],
           "repo_info": {
@@ -1790,7 +1790,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "catherinedevlin/ipython-sql",
           "description": "(👨‍💻 53 · 🔀 250 · 📦 3.4K · 📋 140 - 71% open · ⏱️ 12.06.2022):",
           "children": [],
           "repo_info": {
@@ -1811,7 +1811,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-incubator/sparkmagic",
           "description": "(👨‍💻 57 · 🔀 380 · 📦 250 · 📋 400 - 32% open · ⏱️ 02.05.2022):",
           "children": [],
           "repo_info": {
@@ -1832,7 +1832,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rasbt/watermark",
           "description": "(👨‍💻 19 · 🔀 81 · 📦 1.6K · 📋 44 - 36% open · ⏱️ 27.05.2022):",
           "children": [],
           "repo_info": {
@@ -1853,7 +1853,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "csurfer/pyheatmagic",
           "description": "(👨‍💻 3 · 🔀 22 · 📦 29 · 📋 5 - 40% open · ⏱️ 10.09.2021):",
           "children": [],
           "repo_info": {
@@ -1874,7 +1874,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "csurfer/blackcellmagic",
           "description": "(👨‍💻 3 · 🔀 12 · 📦 160 · 📋 9 - 44% open · ⏱️ 18.09.2021):",
           "children": [],
           "repo_info": {
@@ -1895,7 +1895,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ResidentMario/py_d3",
           "description": "(👨‍💻 4 · 🔀 39 · 📋 16 - 6% open · ⏱️ 20.02.2022):",
           "children": [],
           "repo_info": {
@@ -1916,7 +1916,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tmthyjames/SQLCell",
           "description": "(👨‍💻 14 · 🔀 10 · 📦 1 · 📋 84 - 71% open · ⏱️ 06.10.2020):",
           "children": [],
           "repo_info": {
@@ -1937,7 +1937,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/pick",
           "description": "(👨‍💻 5 · 🔀 7 · 📋 9 - 44% open · ⏱️ 04.11.2020):",
           "children": [],
           "repo_info": {
@@ -1958,7 +1958,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krassowski/jupyter-manim",
           "description": "(👨‍💻 5 · 🔀 11 · 📋 25 - 24% open · ⏱️ 02.01.2022):",
           "children": [],
           "repo_info": {
@@ -1979,7 +1979,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gopherdata/gophernotes",
           "description": "(👨‍💻 29 · 🔀 220 · 📥 40 · 📦 8 · 📋 170 - 28% open · ⏱️ 08.07.2022):",
           "children": [],
           "repo_info": {
@@ -2000,7 +2000,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython/ipykernel",
           "description": "(👨‍💻 160 · 🔀 300 · 📥 520 · 📋 420 - 51% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2021,7 +2021,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IRkernel/IRkernel",
           "description": "(👨‍💻 41 · 🔀 290 · 📋 570 - 9% open · ⏱️ 24.06.2022):",
           "children": [],
           "repo_info": {
@@ -2042,14 +2042,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/octave_kernel",
           "description": "(👨‍💻 18 · 🔀 60 · 📥 50 · 📋 170 - 16% open · ⏱️ 21.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 22452375,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T13:22:08Z",
+            "last_commit": "2026-08-25T06:08:18Z",
             "owner": "Calysto",
             "repo": "octave_kernel",
             "stars": 458
@@ -2063,7 +2063,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/metakernel",
           "description": "(👨‍💻 31 · 🔀 78 · 📥 42 · 📋 140 - 19% open · ⏱️ 09.08.2022):",
           "children": [],
           "repo_info": {
@@ -2084,7 +2084,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "JuliaLang/IJulia.jl",
           "description": "(👨‍💻 100 · 🔀 380 · 📋 790 - 12% open · ⏱️ 23.06.2022):",
           "children": [],
           "repo_info": {
@@ -2105,7 +2105,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-xeus/xeus-cling",
           "description": "(👨‍💻 20 · 🔀 240 · 📋 250 - 53% open · ⏱️ 17.01.2022):",
           "children": [],
           "repo_info": {
@@ -2126,7 +2126,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "n-riesco/ijavascript",
           "description": "(👨‍💻 15 · 🔀 150 · 📦 63 · 📋 230 - 23% open · ⏱️ 24.01.2022):",
           "children": [],
           "repo_info": {
@@ -2147,7 +2147,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "almond-sh/almond",
           "description": "(👨‍💻 36 · 🔀 220 · 📥 1.3K · 📋 300 - 32% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -2168,7 +2168,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apache/incubator-toree",
           "description": "(👨‍💻 100 · 🔀 210 · ⏱️ 15.03.2022):",
           "children": [],
           "repo_info": {
@@ -2189,7 +2189,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IHaskell/IHaskell",
           "description": "(👨‍💻 110 · 🔀 240 · 📦 4 · 📋 740 - 4% open · ⏱️ 22.07.2022):",
           "children": [],
           "repo_info": {
@@ -2210,7 +2210,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SciRuby/iruby",
           "description": "(👨‍💻 44 · 🔀 18 · 📥 15 · 📦 160 · 📋 190 - 24% open · ⏱️ 05.07.2022):",
           "children": [],
           "repo_info": {
@@ -2231,7 +2231,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "anaconda/nb_conda_kernels",
           "description": "(👨‍💻 14 · 🔀 56 · 📋 130 - 26% open · ⏱️ 30.11.2020):",
           "children": [],
           "repo_info": {
@@ -2252,7 +2252,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "akabe/ocaml-jupyter",
           "description": "(👨‍💻 18 · 🔀 29 · 📥 70K · 📋 71 - 4% open · ⏱️ 10.04.2022):",
           "children": [],
           "repo_info": {
@@ -2262,7 +2262,7 @@
             "last_commit": "2026-03-12T18:11:12Z",
             "owner": "akabe",
             "repo": "ocaml-jupyter",
-            "stars": 317
+            "stars": 318
           }
         }
       ],
@@ -2273,7 +2273,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sassoftware/sas_kernel",
           "description": "(👨‍💻 9 · 🔀 72 · 📋 57 - 5% open · ⏱️ 01.06.2022):",
           "children": [],
           "repo_info": {
@@ -2294,7 +2294,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "adtech-labs/spylon-kernel",
           "description": "(👨‍💻 6 · 🔀 28 · 📦 88 · 📋 35 - 48% open · ⏱️ 20.09.2018):",
           "children": [],
           "repo_info": {
@@ -2315,7 +2315,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SpencerPark/IJava",
           "description": "(👨‍💻 4 · 🔀 160 · 📥 89K · 📋 130 - 54% open · ⏱️ 08.12.2019):",
           "children": [],
           "repo_info": {
@@ -2336,7 +2336,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/kernel_gateway",
           "description": "(👨‍💻 44 · 🔀 110 · 📥 100 · 📋 180 - 7% open · ⏱️ 12.03.2022):",
           "children": [],
           "repo_info": {
@@ -2357,7 +2357,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "scijava/scijava-jupyter-kernel",
           "description": "(👨‍💻 9 · 🔀 42 · 📥 86 · ⏱️ 03.02.2022):",
           "children": [],
           "repo_info": {
@@ -2378,7 +2378,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "clojupyter/clojupyter",
           "description": "(👨‍💻 26 · 🔀 75 · 📋 97 - 18% open · ⏱️ 29.12.2021):",
           "children": [],
           "repo_info": {
@@ -2399,7 +2399,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/enterprise_gateway",
           "description": "(👨‍💻 100 · 🔀 180 · 📥 20K · 📋 520 - 9% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2420,7 +2420,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Calysto/matlab_kernel",
           "description": "(👨‍💻 18 · 🔀 73 · 📋 130 - 19% open · ⏱️ 09.05.2022):",
           "children": [],
           "repo_info": {
@@ -2441,7 +2441,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "WolframResearch/WolframLanguageForJupyter",
           "description": "(👨‍💻 7 · 🔀 91 · 📥 6.1K · 📋 96 - 31% open · ⏱️ 19.02.2022):",
           "children": [],
           "repo_info": {
@@ -2462,7 +2462,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "takluyver/bash_kernel",
           "description": "(👨‍💻 14 · 🔀 100 · 📋 94 - 37% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2483,7 +2483,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ansible/ansible-jupyter-kernel",
           "description": "(👨‍💻 10 · 🔀 54 · 📦 9 · 📋 44 - 34% open · ⏱️ 11.02.2022):",
           "children": [],
           "repo_info": {
@@ -2504,14 +2504,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lfortran/lfortran",
           "description": "(👨‍💻 38 · 🔀 38 · 📋 470 - 95% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 177417757,
             "language": "C++",
-            "last_commit": "2026-08-24T01:47:51Z",
+            "last_commit": "2026-08-24T22:16:49Z",
             "owner": "lfortran",
             "repo": "lfortran",
             "stars": 1226
@@ -2525,7 +2525,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pprzetacznik/IElixir",
           "description": "(👨‍💻 19 · 🔀 39 · 📋 30 - 33% open · ⏱️ 20.03.2021):",
           "children": [],
           "repo_info": {
@@ -2546,7 +2546,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Cadair/jupyter_environment_kernels",
           "description": "(👨‍💻 6 · 🔀 16 · 📋 29 - 24% open · ⏱️ 12.02.2018):",
           "children": [],
           "repo_info": {
@@ -2567,7 +2567,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "yunabe/lgo",
           "description": "(👨‍💻 9 · 🔀 110 · 📋 76 - 30% open · ⏱️ 09.07.2019):",
           "children": [],
           "repo_info": {
@@ -2588,7 +2588,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fsprojects/IfSharp",
           "description": "(👨‍💻 28 · 🔀 67 · 📥 5.4K · 📋 140 - 9% open · ⏱️ 17.03.2022):",
           "children": [],
           "repo_info": {
@@ -2609,7 +2609,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zabirauf/icsharp",
           "description": "(👨‍💻 10 · 🔀 57 · 📋 46 - 71% open · ⏱️ 23.09.2018):",
           "children": [],
           "repo_info": {
@@ -2630,7 +2630,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "NII-cloud-operation/sshkernel",
           "description": "(👨‍💻 4 · 🔀 12 · 📦 6 · 📋 8 - 25% open · ⏱️ 04.11.2021):",
           "children": [],
           "repo_info": {
@@ -2651,7 +2651,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-xeus/xeus-sqlite",
           "description": "(👨‍💻 12 · 🔀 21 · 📋 41 - 26% open · ⏱️ 15.03.2022):",
           "children": [],
           "repo_info": {
@@ -2672,7 +2672,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tdaff/remote_ikernel",
           "description": "(👨‍💻 7 · 🔀 11 · 📋 27 - 33% open · ⏱️ 08.11.2020):",
           "children": [],
           "repo_info": {
@@ -2693,7 +2693,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bernhard-42/ssh_ipykernel",
           "description": "(👨‍💻 2 · 🔀 2 · ⏱️ 28.06.2021):",
           "children": [],
           "repo_info": {
@@ -2714,7 +2714,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/kernel-relay",
           "description": "(👨‍💻 3 · 🔀 5 · 📋 12 - 83% open · ⏱️ 10.07.2019):",
           "children": [],
           "repo_info": {
@@ -2735,7 +2735,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbconvert",
           "description": "(👨‍💻 250 · 🔀 480 · 📦 160K · 📋 1K - 42% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2756,7 +2756,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "getnikola/nikola",
           "description": "(👨‍💻 230 · 🔀 350 · 📦 440 · 📋 2.1K - 2% open · ⏱️ 02.08.2022):",
           "children": [],
           "repo_info": {
@@ -2777,7 +2777,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupytext/jupytext",
           "description": "(👨‍💻 72 · 🔀 350 · 📦 3.2K · 📋 530 - 12% open · ⏱️ 29.07.2022):",
           "children": [],
           "repo_info": {
@@ -2798,7 +2798,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "voila-dashboards/voila",
           "description": "(👨‍💻 61 · 🔀 420 · 📥 290 · 📦 7.2K · 📋 610 - 40% open · ⏱️ 11.08.2022):",
           "children": [],
           "repo_info": {
@@ -2819,7 +2819,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "damianavila/RISE",
           "description": "(👨‍💻 41 · 🔀 380 · 📦 2K · 📋 430 - 33% open · ⏱️ 28.03.2022):",
           "children": [],
           "repo_info": {
@@ -2840,7 +2840,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-book/jupyter-book",
           "description": "(👨‍💻 110 · 🔀 500 · 📋 1.1K - 41% open · ⏱️ 21.08.2022):",
           "children": [],
           "repo_info": {
@@ -2861,7 +2861,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbdime",
           "description": "(👨‍💻 40 · 🔀 130 · 📦 79 · 📋 280 - 22% open · ⏱️ 05.07.2022):",
           "children": [],
           "repo_info": {
@@ -2882,7 +2882,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stencila/stencila",
           "description": "(👨‍💻 34 · 🔀 34 · 📥 3.1K · 📦 17 · 📋 560 - 11% open · ⏱️ 29.07.2022):",
           "children": [],
           "repo_info": {
@@ -2903,7 +2903,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "airbnb/knowledge-repo",
           "description": "(👨‍💻 68 · 🔀 650 · 📋 290 - 42% open · ⏱️ 17.08.2022):",
           "children": [],
           "repo_info": {
@@ -2924,7 +2924,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbviewer",
           "description": "(👨‍💻 91 · 🔀 490 · 📦 7 · 📋 570 - 28% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2945,7 +2945,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/bookstore",
           "description": "(👨‍💻 7 · 🔀 19 · 📦 11 · 📋 73 - 46% open · ⏱️ 09.12.2019):",
           "children": [],
           "repo_info": {
@@ -2966,7 +2966,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/binderhub",
           "description": "(👨‍💻 84 · 🔀 320 · 📦 6 · 📋 630 - 28% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -2987,7 +2987,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aaren/notedown",
           "description": "(👨‍💻 7 · 🔀 91 · 📦 180 · 📋 68 - 57% open · ⏱️ 16.11.2017):",
           "children": [],
           "repo_info": {
@@ -3008,7 +3008,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/scrapbook",
           "description": "(👨‍💻 11 · 🔀 26 · 📦 150 · 📋 48 - 47% open · ⏱️ 13.04.2022):",
           "children": [],
           "repo_info": {
@@ -3029,7 +3029,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-book/thebe",
           "description": "(👨‍💻 26 · 🔀 57 · 📦 5 · 📋 150 - 42% open · ⏱️ 19.11.2021):",
           "children": [],
           "repo_info": {
@@ -3050,7 +3050,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/commuter",
           "description": "(👨‍💻 27 · 🔀 63 · 📦 3 · 📋 91 - 57% open · ⏱️ 28.04.2022):",
           "children": [],
           "repo_info": {
@@ -3071,7 +3071,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SamLau95/nbinteract",
           "description": "(👨‍💻 8 · 🔀 20 · 📦 1 · 📋 70 - 41% open · ⏱️ 15.04.2021):",
           "children": [],
           "repo_info": {
@@ -3092,7 +3092,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "danielfrg/mkdocs-jupyter",
           "description": "(👨‍💻 13 · 🔀 21 · 📋 57 - 22% open · ⏱️ 04.05.2022):",
           "children": [],
           "repo_info": {
@@ -3113,7 +3113,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ideonate/cdsdashboards",
           "description": "(👨‍💻 13 · 🔀 33 · 📋 88 - 35% open · ⏱️ 29.04.2022):",
           "children": [],
           "repo_info": {
@@ -3134,7 +3134,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "elehcimd/pynb",
           "description": "(👨‍💻 8 · 🔀 6 · 📦 21 · ⏱️ 07.07.2020):",
           "children": [],
           "repo_info": {
@@ -3155,7 +3155,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nbgallery/nbgallery",
           "description": "(👨‍💻 19 · 🔀 23 · 📋 380 - 18% open · ⏱️ 19.08.2022):",
           "children": [],
           "repo_info": {
@@ -3176,7 +3176,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "danielfrg/jupyter-flex",
           "description": "(👨‍💻 4 · 🔀 46 · 📦 1 · 📋 56 - 21% open · ⏱️ 22.06.2022):",
           "children": [],
           "repo_info": {
@@ -3197,7 +3197,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "line/jnotebook_reader",
           "description": "(👨‍💻 6 · 🔀 15 · ⏱️ 01.07.2022):",
           "children": [],
           "repo_info": {
@@ -3218,7 +3218,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbclient",
           "description": "(👨‍💻 33 · 🔀 45 · 📥 88 · 📦 67K · 📋 91 - 31% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -3239,7 +3239,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pixiedust/pixiedust",
           "description": "(👨‍💻 33 · 🔀 160 · 📦 240 · 📋 420 - 38% open · ⏱️ 16.02.2021):",
           "children": [],
           "repo_info": {
@@ -3260,14 +3260,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AnswerDotAI/nbdev",
           "description": "(👨‍💻 20 · 🔀 360 · 📋 560 - 5% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 222507066,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-24T18:25:14Z",
+            "last_commit": "2026-08-25T01:26:45Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
             "stars": 5308
@@ -3281,7 +3281,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "computationalmodelling/nbval",
           "description": "(👨‍💻 29 · 🔀 42 · 📦 1.6K · 📋 98 - 36% open · ⏱️ 05.01.2022):",
           "children": [],
           "repo_info": {
@@ -3302,7 +3302,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/jupyter_client",
           "description": "(👨‍💻 120 · 🔀 230 · 📥 320 · 📋 320 - 43% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -3312,7 +3312,7 @@
             "last_commit": "2026-08-24T19:13:40Z",
             "owner": "jupyter",
             "repo": "jupyter_client",
-            "stars": 472
+            "stars": 473
           }
         }
       ],
@@ -3323,7 +3323,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "twosigma/beakerx",
           "description": "(👨‍💻 43 · 🔀 370 · 📥 31 · 📋 4.5K - 7% open · ⏱️ 21.01.2021):",
           "children": [],
           "repo_info": {
@@ -3344,7 +3344,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/jupyter-sphinx",
           "description": "(👨‍💻 25 · 🔀 50 · 📋 120 - 33% open · ⏱️ 25.06.2022):",
           "children": [],
           "repo_info": {
@@ -3365,7 +3365,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/repo2docker",
           "description": "(👨‍💻 110 · 🔀 300 · 📦 160 · 📋 470 - 31% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -3386,7 +3386,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chmp/ipytest",
           "description": "(👨‍💻 4 · 🔀 19 · 📦 200 · 📋 50 - 4% open · ⏱️ 20.02.2022):",
           "children": [],
           "repo_info": {
@@ -3407,7 +3407,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ReviewNB/treon",
           "description": "(👨‍💻 5 · 🔀 21 · 📦 55 · 📋 13 - 23% open · ⏱️ 04.08.2022):",
           "children": [],
           "repo_info": {
@@ -3428,7 +3428,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/nbformat",
           "description": "(👨‍💻 67 · 🔀 130 · 📋 120 - 39% open · ⏱️ 19.08.2022):",
           "children": [],
           "repo_info": {
@@ -3438,7 +3438,7 @@
             "last_commit": "2026-08-24T16:04:04Z",
             "owner": "jupyter",
             "repo": "nbformat",
-            "stars": 310
+            "stars": 311
           }
         }
       ],
@@ -3449,7 +3449,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython/ipyparallel",
           "description": "(👨‍💻 110 · 🔀 870 · 📋 330 - 15% open · ⏱️ 16.08.2022):",
           "children": [],
           "repo_info": {
@@ -3470,7 +3470,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nbQA-dev/nbQA",
           "description": "(👨‍💻 20 · 🔀 31 · 📋 250 - 0% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -3491,7 +3491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "QuantEcon/sphinxcontrib-jupyter",
           "description": "(👨‍💻 13 · 🔀 23 · 📦 26 · 📋 180 - 48% open · ⏱️ 18.06.2020):",
           "children": [],
           "repo_info": {
@@ -3512,7 +3512,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tweag/jupyenv",
           "description": "(👨‍💻 31 · 🔀 79 · 📋 110 - 9% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -3533,7 +3533,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nteract/testbook",
           "description": "(👨‍💻 14 · 🔀 30 · 📦 140 · 📋 87 - 47% open · ⏱️ 12.08.2022):",
           "children": [],
           "repo_info": {
@@ -3554,7 +3554,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "treebeardtech/nbmake-action",
           "description": "(👨‍💻 2 · 🔀 6 · 📦 27 · ⏱️ 21.09.2021):",
           "children": [],
           "repo_info": {
@@ -3575,7 +3575,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "takluyver/nbopen",
           "description": "(👨‍💻 10 · 🔀 53 · 📋 63 - 58% open · ⏱️ 25.04.2018):",
           "children": [],
           "repo_info": {
@@ -3596,7 +3596,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "takluyver/jupyter_kernel_mgmt",
           "description": "(👨‍💻 74 · 🔀 7 · 📥 17 · 📋 25 - 44% open · ⏱️ 29.01.2020):",
           "children": [],
           "repo_info": {
@@ -3617,7 +3617,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "datitran/jupyter2slides",
           "description": "(🔀 170 · 📋 15 - 73% open · ⏱️ 28.12.2018):",
           "children": [],
           "repo_info": {
@@ -3638,7 +3638,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stas00/ipyexperiments",
           "description": "(👨‍💻 3 · 🔀 11 · 📦 6 · ⏱️ 07.12.2021):",
           "children": [],
           "repo_info": {
@@ -3659,7 +3659,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krassowski/jupyter-helpers",
           "description": "(👨‍💻 2 · 🔀 3 · 📋 5 - 60% open · ⏱️ 31.07.2021):",
           "children": [],
           "repo_info": {
@@ -3680,7 +3680,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Invictify/Jupter-Notebook-REST-API",
           "description": "(👨‍💻 2 · 🔀 4 · ⏱️ 31.03.2020):",
           "children": [],
           "repo_info": {
@@ -3701,7 +3701,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "plotly/jupyterlab-dash",
           "description": "(👨‍💻 7 · 🔀 57 · 📦 260 · 📋 28 - 71% open · ⏱️ 19.05.2020):",
           "children": [],
           "repo_info": {
@@ -3722,7 +3722,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "QuantStack/jupyterlab-drawio",
           "description": "(👨‍💻 15 · 🔀 63 · 📦 530 · 📋 65 - 61% open · ⏱️ 29.06.2021):",
           "children": [],
           "repo_info": {
@@ -3743,7 +3743,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-latex",
           "description": "(👨‍💻 22 · 🔀 59 · 📦 2 · 📋 82 - 32% open · ⏱️ 18.08.2022):",
           "children": [],
           "repo_info": {
@@ -3764,7 +3764,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyter-renderers",
           "description": "(👨‍💻 25 · 🔀 67 · 📦 1 · 📋 100 - 29% open · ⏱️ 08.07.2022):",
           "children": [],
           "repo_info": {
@@ -3785,7 +3785,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "quigleyj97/jupyterlab-spreadsheet",
           "description": "(👨‍💻 4 · 🔀 14 · 📦 3 · 📋 23 - 21% open · ⏱️ 18.07.2022):",
           "children": [],
           "repo_info": {
@@ -3806,7 +3806,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "altair-viz/jupyterlab_voyager",
           "description": "(👨‍💻 6 · 🔀 32 · 📋 60 - 66% open · ⏱️ 14.08.2019):",
           "children": [],
           "repo_info": {
@@ -3827,7 +3827,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "telamonian/theme-darcula",
           "description": "(👨‍💻 7 · 🔀 22 · 📦 500 · 📋 23 - 30% open · ⏱️ 20.07.2022):",
           "children": [],
           "repo_info": {
@@ -3848,7 +3848,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AllanChain/jupyterlab-theme-solarized-dark",
           "description": "(👨‍💻 2 · 🔀 9 · 📋 3 - 33% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -3869,7 +3869,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "yeebc/jupyterlab-neon-theme",
           "description": "(👨‍💻 3 · 🔀 9 · 📦 1 · 📋 12 - 16% open · ⏱️ 07.03.2021):",
           "children": [],
           "repo_info": {
@@ -3890,7 +3890,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oriolmirosa/jupyterlab_materialdarker",
           "description": "(👨‍💻 2 · 🔀 15 · 📦 4 · 📋 17 - 17% open · ⏱️ 31.08.2021):",
           "children": [],
           "repo_info": {
@@ -3911,7 +3911,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mohirio/jupyterlab-horizon-theme",
           "description": "(🔀 3 · 📋 5 - 20% open · ⏱️ 11.04.2021):",
           "children": [],
           "repo_info": {
@@ -3932,7 +3932,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/jupyterlab-theme-toggle",
           "description": "(👨‍💻 2 · 🔀 3 · 📦 2 · 📋 3 - 66% open · ⏱️ 16.06.2021):",
           "children": [],
           "repo_info": {
@@ -3953,7 +3953,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Rahlir/theme-gruvbox",
           "description": "(👨‍💻 3 · 🔀 10 · ⏱️ 12.04.2020):",
           "children": [],
           "repo_info": {
@@ -3974,7 +3974,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kenshohara/theme-nord-extension",
           "description": "(🔀 1 · 📋 5 - 20% open · ⏱️ 20.09.2020):",
           "children": [],
           "repo_info": {
@@ -3995,7 +3995,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-git",
           "description": "(👨‍💻 76 · 🔀 230 · 📦 15 · 📋 530 - 15% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -4016,7 +4016,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "elyra-ai/elyra",
           "description": "(👨‍💻 54 · 🔀 260 · 📦 32 · 📋 1.5K - 14% open · ⏱️ 24.08.2022):",
           "children": [],
           "repo_info": {
@@ -4037,17 +4037,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "perspective-dev/perspective",
           "description": "(👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 109291007,
             "language": "Rust",
-            "last_commit": "2026-08-10T15:03:06Z",
+            "last_commit": "2026-08-25T06:03:53Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11131
+            "stars": 11132
           }
         }
       ],
@@ -4058,7 +4058,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/debugger",
           "description": "(👨‍💻 11 · 🔀 37 · 📋 260 - 6% open · ⏱️ 31.03.2021):",
           "children": [],
           "repo_info": {
@@ -4079,7 +4079,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyterlab-variableInspector",
           "description": "(👨‍💻 18 · 🔀 84 · 📦 3 · 📋 160 - 27% open · ⏱️ 01.08.2022):",
           "children": [],
           "repo_info": {
@@ -4100,7 +4100,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-toc",
           "description": "(👨‍💻 14 · 🔀 100 · 📋 120 - 55% open · ⏱️ 10.08.2021):",
           "children": [],
           "repo_info": {
@@ -4121,7 +4121,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/jupyterlab-system-monitor",
           "description": "(👨‍💻 7 · 🔀 29 · 📦 48 · 📋 42 - 52% open · ⏱️ 15.02.2022):",
           "children": [],
           "repo_info": {
@@ -4142,7 +4142,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyterlab_code_formatter",
           "description": "(👨‍💻 37 · 🔀 49 · 📋 160 - 13% open · ⏱️ 11.08.2022):",
           "children": [],
           "repo_info": {
@@ -4163,7 +4163,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-github",
           "description": "(👨‍💻 15 · 🔀 88 · 📦 2 · 📋 57 - 36% open · ⏱️ 10.12.2021):",
           "children": [],
           "repo_info": {
@@ -4184,7 +4184,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "finos/jupyterlab_templates",
           "description": "(👨‍💻 14 · 🔀 50 · 📦 4 · 📋 78 - 8% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -4205,7 +4205,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dask/dask-labextension",
           "description": "(👨‍💻 19 · 🔀 51 · 📋 130 - 28% open · ⏱️ 21.06.2022):",
           "children": [],
           "repo_info": {
@@ -4226,7 +4226,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jwkvam/jupyterlab-vim",
           "description": "(👨‍💻 8 · 🔀 73 · 📦 3 · 📋 97 - 56% open · ⏱️ 16.07.2019):",
           "children": [],
           "repo_info": {
@@ -4247,7 +4247,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rapidsai/jupyterlab-nvdashboard",
           "description": "(👨‍💻 17 · 🔀 59 · 📋 54 - 42% open · ⏱️ 23.06.2022):",
           "children": [],
           "repo_info": {
@@ -4268,7 +4268,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-google-drive",
           "description": "(👨‍💻 16 · 🔀 72 · 📦 2 · 📋 98 - 33% open · ⏱️ 28.04.2022):",
           "children": [],
           "repo_info": {
@@ -4289,7 +4289,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-widgets/jupyterlab-sidecar",
           "description": "(👨‍💻 13 · 🔀 36 · 📦 3 · 📋 32 - 68% open · ⏱️ 04.07.2021):",
           "children": [],
           "repo_info": {
@@ -4310,7 +4310,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/spellchecker",
           "description": "(👨‍💻 6 · 🔀 18 · 📦 1 · 📋 49 - 32% open · ⏱️ 22.02.2022):",
           "children": [],
           "repo_info": {
@@ -4331,7 +4331,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krassowski/jupyterlab-go-to-definition",
           "description": "(👨‍💻 2 · 🔀 8 · 📦 11 · 📋 23 - 43% open · ⏱️ 28.07.2021):",
           "children": [],
           "repo_info": {
@@ -4352,7 +4352,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-data-explorer",
           "description": "(👨‍💻 9 · 🔀 34 · 📦 10 · 📋 91 - 62% open · ⏱️ 24.05.2020):",
           "children": [],
           "repo_info": {
@@ -4373,7 +4373,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/jupyterlab-iframe",
           "description": "(👨‍💻 5 · 🔀 15 · 📦 3 · 📋 66 - 6% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -4394,7 +4394,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/lantern",
           "description": "(👨‍💻 3 · 🔀 20 · 📦 17 · 📋 200 - 5% open · ⏱️ 13.06.2022):",
           "children": [],
           "repo_info": {
@@ -4415,7 +4415,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chesterli29/jupyterlab_tensorboard",
           "description": "(👨‍💻 7 · 🔀 32 · 📦 2 · 📋 27 - 62% open · ⏱️ 18.07.2022):",
           "children": [],
           "repo_info": {
@@ -4436,7 +4436,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deshaw/jupyterlab-execute-time",
           "description": "(👨‍💻 11 · 🔀 32 · 📋 34 - 11% open · ⏱️ 12.08.2022):",
           "children": [],
           "repo_info": {
@@ -4457,7 +4457,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bokeh/jupyter_bokeh",
           "description": "(👨‍💻 17 · 🔀 41 · 📋 89 - 12% open · ⏱️ 12.08.2022):",
           "children": [],
           "repo_info": {
@@ -4478,7 +4478,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/ipylab",
           "description": "(👨‍💻 6 · 🔀 7 · 📥 35 · 📋 30 - 36% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -4499,7 +4499,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vatlab/jupyterlab-sos",
           "description": "(👨‍💻 4 · 🔀 3 · 📋 59 - 15% open · ⏱️ 02.08.2022):",
           "children": [],
           "repo_info": {
@@ -4520,7 +4520,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/gather",
           "description": "(👨‍💻 12 · 🔀 29 · 📋 27 - 40% open · ⏱️ 14.02.2020):",
           "children": [],
           "repo_info": {
@@ -4541,7 +4541,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pbugnion/jupyterlab-sql",
           "description": "(👨‍💻 2 · 🔀 44 · 📋 74 - 50% open · ⏱️ 04.01.2020):",
           "children": [],
           "repo_info": {
@@ -4562,7 +4562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aquirdTurtle/Collapsible_Headings",
           "description": "(👨‍💻 6 · 🔀 7 · 📋 31 - 29% open · ⏱️ 22.05.2021):",
           "children": [],
           "repo_info": {
@@ -4583,7 +4583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-hdf5",
           "description": "(👨‍💻 6 · 🔀 19 · 📋 44 - 25% open · ⏱️ 21.02.2022):",
           "children": [],
           "repo_info": {
@@ -4604,7 +4604,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyterlab-quickopen",
           "description": "(👨‍💻 5 · 🔀 8 · ⏱️ 12.12.2021):",
           "children": [],
           "repo_info": {
@@ -4625,7 +4625,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab-contrib/jupyterlab-kernelspy",
           "description": "(👨‍💻 4 · 🔀 9 · 📦 3 · 📋 13 - 15% open · ⏱️ 20.07.2022):",
           "children": [],
           "repo_info": {
@@ -4646,7 +4646,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/jupyterlab-autoversion",
           "description": "(👨‍💻 5 · 🔀 9 · 📋 32 - 9% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -4667,7 +4667,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-shortcutui",
           "description": "(👨‍💻 8 · 🔀 14 · 📋 13 - 53% open · ⏱️ 17.01.2020):",
           "children": [],
           "repo_info": {
@@ -4688,7 +4688,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "itsjafer/jupyterlab-sparkmonitor",
           "description": "(👨‍💻 10 · 🔀 20 · 📋 16 - 50% open · ⏱️ 01.04.2022):",
           "children": [],
           "repo_info": {
@@ -4709,7 +4709,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jpmorganchase/jupyter-fs",
           "description": "(👨‍💻 9 · 🔀 24 · 📋 55 - 23% open · ⏱️ 29.04.2022):",
           "children": [],
           "repo_info": {
@@ -4730,7 +4730,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-commenting",
           "description": "(👨‍💻 10 · 🔀 22 · 📋 34 - 70% open · ⏱️ 01.05.2020):",
           "children": [],
           "repo_info": {
@@ -4751,7 +4751,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jpmorganchase/nbcelltests",
           "description": "(👨‍💻 7 · 🔀 16 · 📋 110 - 27% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -4772,7 +4772,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/jupyterlab-python-file",
           "description": "(👨‍💻 4 · 🔀 10 · 📥 77 · 📋 9 - 11% open · ⏱️ 27.08.2021):",
           "children": [],
           "repo_info": {
@@ -4793,7 +4793,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/jupyterlab-email",
           "description": "(👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -4814,7 +4814,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tkp-archive/knowledgelab",
           "description": "(👨‍💻 3 · 🔀 6 · 📦 2 · 📋 27 - 11% open · ⏱️ 13.06.2022):",
           "children": [],
           "repo_info": {
@@ -4835,7 +4835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/jupyterlab-commands",
           "description": "(👨‍💻 2 · 🔀 5 · 📦 3 · 📋 24 - 8% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -4856,7 +4856,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "krassowski/jupyterlab-lsp",
           "description": "(👨‍💻 43 · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -4877,7 +4877,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterlab/jupyterlab-celltags",
           "description": "(👨‍💻 10 · 🔀 25 · 📋 18 - 61% open · ⏱️ 29.04.2020):",
           "children": [],
           "repo_info": {
@@ -4898,7 +4898,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "timkpaine/jupyterlab-email",
           "description": "(👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):",
           "children": [],
           "repo_info": {
@@ -4919,7 +4919,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mlshapiro/jupyterlab-flake8",
           "description": "(👨‍💻 5 · 🔀 10 · 📋 39 - 15% open · ⏱️ 16.09.2021):",
           "children": [],
           "repo_info": {
@@ -4940,7 +4940,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ReviewNB/jupyterlab-gitplus",
           "description": "(👨‍💻 2 · 🔀 7 · 📋 10 - 20% open · ⏱️ 06.08.2021):",
           "children": [],
           "repo_info": {
@@ -4961,7 +4961,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/jupyterlab-python-bytecode",
           "description": "(👨‍💻 2 · 🔀 6 · 📋 5 - 40% open · ⏱️ 16.10.2020):",
           "children": [],
           "repo_info": {
@@ -4982,7 +4982,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "manuzhang/jupyterlab_spark",
           "description": "(👨‍💻 2 · 🔀 2 · 📋 5 - 40% open · ⏱️ 05.09.2021):",
           "children": [],
           "repo_info": {
@@ -5003,7 +5003,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jtpio/jupyterlab-topbar",
           "description": "(👨‍💻 4 · 🔀 1 · ⏱️ 07.12.2021):",
           "children": [],
           "repo_info": {
@@ -5024,7 +5024,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gavincyi/jupyterlab-executor",
           "description": "(👨‍💻 2 · 📥 3 · ⏱️ 24.03.2021):",
           "children": [],
           "repo_info": {
@@ -5045,7 +5045,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/oauthenticator",
           "description": "(👨‍💻 110 · 🔀 310 · 📦 290 · 📋 230 - 13% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -5066,7 +5066,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/ldapauthenticator",
           "description": "(👨‍💻 31 · 🔀 150 · 📦 95 · 📋 140 - 41% open · ⏱️ 27.06.2021):",
           "children": [],
           "repo_info": {
@@ -5087,7 +5087,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/ltiauthenticator",
           "description": "(👨‍💻 15 · 🔀 42 · 📦 78 · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -5108,7 +5108,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/nativeauthenticator",
           "description": "(👨‍💻 21 · 🔀 52 · 📦 40 · 📋 93 - 25% open · ⏱️ 03.08.2022):",
           "children": [],
           "repo_info": {
@@ -5129,7 +5129,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/firstuseauthenticator",
           "description": "(👨‍💻 12 · 🔀 21 · 📦 66 · 📋 23 - 26% open · ⏱️ 28.10.2021):",
           "children": [],
           "repo_info": {
@@ -5150,7 +5150,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/dummyauthenticator",
           "description": "(🔀 14 · 📦 100 · 📋 7 - 71% open · ⏱️ 12.02.2021):",
           "children": [],
           "repo_info": {
@@ -5171,7 +5171,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mogthesprog/jwtauthenticator",
           "description": "(👨‍💻 7 · 🔀 37 · 📦 8 · 📋 17 - 52% open · ⏱️ 13.02.2019):",
           "children": [],
           "repo_info": {
@@ -5192,7 +5192,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/nullauthenticator",
           "description": "(👨‍💻 7 · 🔀 9 · 📦 83 · ⏱️ 17.05.2022):",
           "children": [],
           "repo_info": {
@@ -5213,7 +5213,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "HewlettPackard/jupyterhub-samlauthenticator",
           "description": "(👨‍💻 7 · 🔀 20 · 📥 13 · 📋 28 - 50% open · ⏱️ 21.03.2022):",
           "children": [],
           "repo_info": {
@@ -5234,7 +5234,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cwaldbieser/jhub_remote_user_authenticator",
           "description": "(👨‍💻 5 · 🔀 25 · 📋 19 - 42% open · ⏱️ 16.04.2019):",
           "children": [],
           "repo_info": {
@@ -5255,7 +5255,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cwaldbieser/jhub_cas_authenticator",
           "description": "(👨‍💻 4 · 🔀 10 · 📋 12 - 16% open · ⏱️ 28.07.2022):",
           "children": [],
           "repo_info": {
@@ -5276,7 +5276,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "thedataincubator/jupyterhub-hashauthenticator",
           "description": "(👨‍💻 3 · 🔀 3 · ⏱️ 09.03.2021):",
           "children": [],
           "repo_info": {
@@ -5297,7 +5297,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ucphhpc/jhub-authenticators",
           "description": "(👨‍💻 5 · 🔀 1 · 📦 1 · ⏱️ 15.04.2022):",
           "children": [],
           "repo_info": {
@@ -5318,7 +5318,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/kerberosauthenticator",
           "description": "(👨‍💻 2 · 🔀 5 · 📋 5 - 60% open · ⏱️ 16.07.2019):",
           "children": [],
           "repo_info": {
@@ -5339,7 +5339,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "andreas-h/sshauthenticator",
           "description": "(🔀 1 · ⏱️ 03.09.2019):",
           "children": [],
           "repo_info": {
@@ -5360,7 +5360,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/dockerspawner",
           "description": "(👨‍💻 64 · 🔀 270 · 📦 130 · 📋 260 - 6% open · ⏱️ 05.07.2022):",
           "children": [],
           "repo_info": {
@@ -5381,7 +5381,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/kubespawner",
           "description": "(👨‍💻 73 · 🔀 250 · 📦 110 · 📋 290 - 17% open · ⏱️ 13.08.2022):",
           "children": [],
           "repo_info": {
@@ -5391,7 +5391,7 @@
             "last_commit": "2026-08-10T16:36:31Z",
             "owner": "jupyterhub",
             "repo": "kubespawner",
-            "stars": 607
+            "stars": 608
           }
         }
       ],
@@ -5402,7 +5402,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/batchspawner",
           "description": "(👨‍💻 40 · 🔀 98 · 📦 21 · 📋 120 - 40% open · ⏱️ 14.04.2022):",
           "children": [],
           "repo_info": {
@@ -5423,7 +5423,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/systemdspawner",
           "description": "(👨‍💻 17 · 🔀 40 · 📦 21 · 📋 59 - 45% open · ⏱️ 22.04.2022):",
           "children": [],
           "repo_info": {
@@ -5444,7 +5444,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/wrapspawner",
           "description": "(👨‍💻 16 · 🔀 49 · 📦 7 · 📋 31 - 54% open · ⏱️ 04.03.2022):",
           "children": [],
           "repo_info": {
@@ -5465,7 +5465,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/sudospawner",
           "description": "(👨‍💻 14 · 🔀 36 · 📦 40 · 📋 37 - 45% open · ⏱️ 10.09.2021):",
           "children": [],
           "repo_info": {
@@ -5486,7 +5486,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyterhub/yarnspawner",
           "description": "(👨‍💻 2 · 🔀 9 · 📋 9 - 55% open · ⏱️ 16.07.2019):",
           "children": [],
           "repo_info": {
@@ -5507,7 +5507,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ipython/ipython",
           "description": "(👨‍💻 890 · 🔀 4.2K · 📥 320K · 📦 300K · 📋 7K - 20% open · ⏱️ 22.08.2022):",
           "children": [],
           "repo_info": {
@@ -5517,7 +5517,7 @@
             "last_commit": "2026-08-24T11:05:48Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
+            "stars": 16773
           }
         }
       ],
@@ -5528,7 +5528,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter-server/jupyter_server",
           "description": "(👨‍💻 480 · 🔀 180 · 📥 420 · 📋 290 - 35% open · ⏱️ 23.08.2022):",
           "children": [],
           "repo_info": {
@@ -5549,7 +5549,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/jupyter-packaging",
           "description": "(👨‍💻 29 · 🔀 44 · 📥 28 · 📋 39 - 28% open · ⏱️ 09.08.2022):",
           "children": [],
           "repo_info": {
@@ -5570,7 +5570,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "holoviz/panel",
           "description": "(👨‍💻 100 · 🔀 270 · 📦 4K · 📋 1.9K - 28% open · ⏱️ 25.08.2022):",
           "children": [],
           "repo_info": {
@@ -5591,7 +5591,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "spyder-ide/qtconsole",
           "description": "(👨‍💻 120 · 🔀 170 · 📦 110K · 📋 310 - 30% open · ⏱️ 19.06.2022):",
           "children": [],
           "repo_info": {
@@ -5612,7 +5612,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "abhishekkrthakur/colabcode",
           "description": "(👨‍💻 8 · 🔀 240 · 📦 78 · 📋 73 - 56% open · ⏱️ 11.06.2021):",
           "children": [],
           "repo_info": {
@@ -5633,7 +5633,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jupyter/jupyter_console",
           "description": "(👨‍💻 59 · 🔀 130 · 📥 61 · 📋 140 - 38% open · ⏱️ 22.06.2022):",
           "children": [],
           "repo_info": {
@@ -5732,7 +5732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T20:00:24.821Z",
+    "last_updated": "2026-08-25T06:33:34.789Z",
     "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
     "original_repository_id": 361363140,
     "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
