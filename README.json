@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13321
+            "stars": 13322
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8329
+            "stars": 8330
           }
         }
       ],
@@ -54,7 +54,7 @@
             "archived": false,
             "id": 1155631492,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T09:48:40Z",
+            "last_commit": "2026-08-25T19:45:43Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 162
@@ -162,7 +162,7 @@
             "last_commit": "2026-08-20T21:01:49Z",
             "owner": "Kaggle",
             "repo": "docker-python",
-            "stars": 2729
+            "stars": 2730
           }
         }
       ],
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 294546561,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T11:53:03Z",
+            "last_commit": "2026-08-25T12:43:10Z",
             "owner": "microsoft",
             "repo": "vscode-jupyter",
             "stars": 1528
@@ -288,7 +288,7 @@
             "last_commit": "2026-08-20T14:14:49Z",
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23730
+            "stars": 23729
           }
         }
       ],
@@ -330,7 +330,7 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13683
+            "stars": 13684
           }
         }
       ],
@@ -369,10 +369,10 @@
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-25T05:32:10Z",
+            "last_commit": "2026-08-25T18:42:19Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20433
+            "stars": 20435
           }
         }
       ],
@@ -393,7 +393,7 @@
             "last_commit": "2026-07-24T05:18:50Z",
             "owner": "man-group",
             "repo": "dtale",
-            "stars": 5215
+            "stars": 5213
           }
         }
       ],
@@ -498,7 +498,7 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6477
+            "stars": 6476
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2026-03-10T21:02:03Z",
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
-            "stars": 623
+            "stars": 624
           }
         }
       ],
@@ -750,7 +750,7 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7844
+            "stars": 7848
           }
         }
       ],
@@ -1083,7 +1083,7 @@
             "archived": false,
             "id": 73084481,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T22:13:46Z",
+            "last_commit": "2026-08-25T14:43:10Z",
             "owner": "lgpage",
             "repo": "nbtutor",
             "stars": 472
@@ -1863,7 +1863,7 @@
             "last_commit": "2024-07-14T18:30:54Z",
             "owner": "csurfer",
             "repo": "pyheatmagic",
-            "stars": 1030
+            "stars": 1029
           }
         }
       ],
@@ -2049,7 +2049,7 @@
             "archived": false,
             "id": 22452375,
             "language": "Jupyter Notebook",
-            "last_commit": "2026-08-25T06:08:18Z",
+            "last_commit": "2026-08-25T10:48:03Z",
             "owner": "Calysto",
             "repo": "octave_kernel",
             "stars": 458
@@ -2094,7 +2094,7 @@
             "last_commit": "2026-06-23T05:55:43Z",
             "owner": "JuliaLang",
             "repo": "IJulia.jl",
-            "stars": 2896
+            "stars": 2897
           }
         }
       ],
@@ -2136,7 +2136,7 @@
             "last_commit": "2024-07-03T23:29:02Z",
             "owner": "n-riesco",
             "repo": "ijavascript",
-            "stars": 2258
+            "stars": 2257
           }
         }
       ],
@@ -2511,7 +2511,7 @@
             "archived": false,
             "id": 177417757,
             "language": "C++",
-            "last_commit": "2026-08-24T22:16:49Z",
+            "last_commit": "2026-08-25T16:50:43Z",
             "owner": "lfortran",
             "repo": "lfortran",
             "stars": 1226
@@ -2766,7 +2766,7 @@
             "last_commit": "2026-06-21T08:16:46Z",
             "owner": "getnikola",
             "repo": "nikola",
-            "stars": 2740
+            "stars": 2742
           }
         }
       ],
@@ -2787,7 +2787,7 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7230
+            "stars": 7231
           }
         }
       ],
@@ -2889,7 +2889,7 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-24T19:05:46Z",
+            "last_commit": "2026-08-25T19:50:39Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 901
@@ -3270,7 +3270,7 @@
             "last_commit": "2026-08-25T01:26:45Z",
             "owner": "AnswerDotAI",
             "repo": "nbdev",
-            "stars": 5308
+            "stars": 5311
           }
         }
       ],
@@ -3333,7 +3333,7 @@
             "last_commit": "2023-12-04T02:04:59Z",
             "owner": "twosigma",
             "repo": "beakerx",
-            "stars": 2895
+            "stars": 2894
           }
         }
       ],
@@ -4044,7 +4044,7 @@
             "archived": false,
             "id": 109291007,
             "language": "Rust",
-            "last_commit": "2026-08-25T06:03:53Z",
+            "last_commit": "2026-08-25T18:35:31Z",
             "owner": "perspective-dev",
             "repo": "perspective",
             "stars": 11132
@@ -5514,7 +5514,7 @@
             "archived": false,
             "id": 658518,
             "language": "Python",
-            "last_commit": "2026-08-24T11:05:48Z",
+            "last_commit": "2026-08-25T16:25:34Z",
             "owner": "ipython",
             "repo": "ipython",
             "stars": 16773
@@ -5580,7 +5580,7 @@
             "last_commit": "2026-08-24T14:39:47Z",
             "owner": "holoviz",
             "repo": "panel",
-            "stars": 5740
+            "stars": 5744
           }
         }
       ],
@@ -5732,7 +5732,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:33:34.789Z",
+    "last_updated": "2026-08-25T19:59:34.430Z",
     "original_repository": "HanXinzi-AI/awesome-jupyter-resources",
     "original_repository_id": 361363140,
     "original_repository_sha": "b31547ebc0dbcf8cfcd692b1b0f3306e137de96f",
