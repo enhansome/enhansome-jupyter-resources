@@ -15,8 +15,9 @@
             "last_commit": "2026-08-24T07:26:18Z",
             "owner": "jupyter",
             "repo": "notebook",
-            "stars": 13326
-          }
+            "stars": 13327
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter (🥇27 · ⭐ 10K · 📉) - Jupyter Interactive Notebook. ❗Unlicensed"
@@ -36,8 +37,9 @@
             "last_commit": "2026-08-24T21:48:18Z",
             "owner": "jupyterhub",
             "repo": "jupyterhub",
-            "stars": 8332
-          }
+            "stars": 8333
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterHub (🥇25 · ⭐ 7.1K) - Jupyter笔记本电脑的多用户服务器。 ❗Unlicensed"
@@ -54,11 +56,12 @@
             "archived": false,
             "id": 1155631492,
             "language": "Rust",
-            "last_commit": "2026-08-28T00:09:28Z",
+            "last_commit": "2026-08-28T13:24:16Z",
             "owner": "nteract",
             "repo": "nteract",
             "stars": 163
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nteract (🥇25 · ⭐ 5.9K) - 交互式计算套件 BSD-3"
@@ -78,8 +81,9 @@
             "last_commit": "2026-08-24T11:05:23Z",
             "owner": "jupyter",
             "repo": "docker-stacks",
-            "stars": 8460
-          }
+            "stars": 8461
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Docker Stacks (🥈22 · ⭐ 7.2K) - 包含Jupyter应用程序的即可运行的Docker映像。 BSD-3"
@@ -100,7 +104,8 @@
             "owner": "vatlab",
             "repo": "sos",
             "stars": 287
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "sos (🥈22 · ⭐ 230) - 用于日常数据分析的SoS工作流系统。 BSD-3"
@@ -121,7 +126,8 @@
             "owner": "googledatalab",
             "repo": "datalab",
             "stars": 978
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "DataLab (🥈21 · ⭐ 980 · 💤) - 面向大数据的交互式工具和开发人员经验。 Apache-2"
@@ -142,7 +148,8 @@
             "owner": "nteract",
             "repo": "hydrogen",
             "stars": 4019
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Hydrogen (🥉19 · ⭐ 3.8K) - 交互运行代码，检查数据并作图。 MIT"
@@ -163,7 +170,8 @@
             "owner": "Kaggle",
             "repo": "docker-python",
             "stars": 2731
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "docker-python (🥉19 · ⭐ 2.2K) - Kaggle Python Docker映像。 Apache-2"
@@ -184,7 +192,8 @@
             "owner": "ml-tooling",
             "repo": "ml-workspace",
             "stars": 3544
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ML Workspace (🥉18 · ⭐ 2.7K · 💤) - 基于Web的多合一IDE，专门用于机器学习和数据任务。 Apache-2"
@@ -205,7 +214,8 @@
             "owner": "ml-tooling",
             "repo": "ml-hub",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ML Hub (🥉17 · ⭐ 250 · 💤) - 机器学习团队的多用户开发平台。 Apache-2"
@@ -226,7 +236,8 @@
             "owner": "jupyterlab",
             "repo": "retrolab",
             "stars": 282
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-classic (🥉17 · ⭐ 240) - 下一代老式笔记本用户UI界面。 BSD-3"
@@ -246,8 +257,9 @@
             "last_commit": "2026-08-25T12:43:10Z",
             "owner": "microsoft",
             "repo": "vscode-jupyter",
-            "stars": 1530
-          }
+            "stars": 1531
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "VSCode Jupyter (🥉16 · ⭐ 710) - VS Code Jupyter extension. MIT"
@@ -268,7 +280,8 @@
             "owner": "iot-salzburg",
             "repo": "gpu-jupyter",
             "stars": 767
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "gpu-jupyter (🥉14 · ⭐ 390) - 充分利用Jupyterlab的灵活性。 Apache-2"
@@ -289,7 +302,8 @@
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
             "stars": 23733
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "交互式小部件和可视化"
@@ -310,7 +324,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
             "stars": 3326
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipywidgets (🥇34 · ⭐ 2.6K) - Interactive Widgets for the Jupyter Notebook. BSD-3"
@@ -330,8 +345,9 @@
             "last_commit": "2026-04-22T23:26:39Z",
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13684
-          }
+            "stars": 13683
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pandas-profiling (🥇33 · ⭐ 9.4K) - 从pandas DataFrame创建HTML分析报告。 MIT"
@@ -352,7 +368,8 @@
             "owner": "jupyter-widgets",
             "repo": "ipyleaflet",
             "stars": 1538
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyleaflet (🥇30 · ⭐ 1.3K) - Jupyter-Leaflet.js桥接。 MIT"
@@ -369,11 +386,12 @@
             "archived": false,
             "id": 3834332,
             "language": "Python",
-            "last_commit": "2026-08-27T21:53:51Z",
+            "last_commit": "2026-08-29T01:09:56Z",
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20436
-          }
+            "stars": 20437
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "bokeh (🥇28 · ⭐ 17K) - 浏览器中的Python交互式数据可视化。 BSD-3"
@@ -394,7 +412,8 @@
             "owner": "man-group",
             "repo": "dtale",
             "stars": 5214
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "D-Tale (🥇27 · ⭐ 3.6K) - Visualizer for Pandas Data Structures. ❗️LGPL-2.1"
@@ -415,7 +434,8 @@
             "owner": "bqplot",
             "repo": "bqplot",
             "stars": 3693
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "bqplot (🥇27 · ⭐ 3.3K) - 用于IPython / Jupyter笔记本的绘图库。 Apache-2"
@@ -436,7 +456,8 @@
             "owner": "widgetti",
             "repo": "ipyvolume",
             "stars": 1963
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyvolume (🥇27 · ⭐ 1.8K) - 基于IPython的Jupyter笔记本中用于Python的3d绘图 MIT"
@@ -457,7 +478,8 @@
             "owner": "matplotlib",
             "repo": "ipympl",
             "stars": 1657
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-matplotlib (🥇27 · ⭐ 1.3K) - Matplotlib Jupyter集成。 BSD-3"
@@ -478,7 +500,8 @@
             "owner": "plotly",
             "repo": "jupyter-dash",
             "stars": 957
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-dash (🥇27 · ⭐ 800) - 在Jupyter Notebook和JupyterLab中开发Dash应用程序。 MIT"
@@ -498,8 +521,9 @@
             "last_commit": "2026-07-06T21:18:39Z",
             "owner": "nteract",
             "repo": "papermill",
-            "stars": 6476
-          }
+            "stars": 6478
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "papermill (🥈26 · ⭐ 4.8K) - 参数化，执行和分析笔记本。 BSD-3"
@@ -520,7 +544,8 @@
             "owner": "PAIR-code",
             "repo": "facets",
             "stars": 7336
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "facets-overview (🥈25 · ⭐ 7K · 💀) - 机器学习数据集的可视化。 Apache-2"
@@ -541,7 +566,8 @@
             "owner": "jupyter-widgets",
             "repo": "pythreejs",
             "stars": 989
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pythreejs (🥈24 · ⭐ 830) - Jupyter-Three.js桥接。 ❗Unlicensed"
@@ -562,7 +588,8 @@
             "owner": "martinRenou",
             "repo": "ipycanvas",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipycanvas (🥈24 · ⭐ 630) - Jupyter中的交互式画布。 BSD-3"
@@ -582,8 +609,9 @@
             "last_commit": "2024-01-12T07:28:07Z",
             "owner": "quantopian",
             "repo": "qgrid",
-            "stars": 3083
-          }
+            "stars": 3084
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "qgrid (🥈23 · ⭐ 2.9K · 💀) - 用于排序，过滤和编辑DataFrame的交互式工具。 Apache-2"
@@ -604,7 +632,8 @@
             "owner": "maartenbreddels",
             "repo": "ipywebrtc",
             "stars": 253
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipywebrtc (🥈23 · ⭐ 210 · 💀) - 适用于Jupyter笔记本/实验室的WebRTC。 MIT"
@@ -625,7 +654,8 @@
             "owner": "cytoscape",
             "repo": "ipycytoscape",
             "stars": 289
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipycytoscape (🥈23 · ⭐ 200) - Cytoscape Jupyter小部件。 BSD-3"
@@ -646,7 +676,8 @@
             "owner": "mapbox",
             "repo": "mapboxgl-jupyter",
             "stars": 679
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Mapbox GL (🥈22 · ⭐ 620 · 💀) - 使用Mapbox GL JS可视化Python Jupyter笔记本中的数据。 MIT"
@@ -667,7 +698,8 @@
             "owner": "mwouts",
             "repo": "itables",
             "stars": 972
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "itables (🥈21 · ⭐ 320) - Jupyter中的交互式表格。 MIT"
@@ -688,7 +720,8 @@
             "owner": "widgetti",
             "repo": "ipyvuetify",
             "stars": 355
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyvuetify (🥈21 · ⭐ 260) - 基于vuetify UI组件的Jupyter小部件。 MIT"
@@ -709,7 +742,8 @@
             "owner": "vidartf",
             "repo": "ipydatawidgets",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipydatawidgets (🥈21 · ⭐ 31) - 一组小部件，以帮助促进大型数据集的重用。 ❗Unlicensed"
@@ -730,7 +764,8 @@
             "owner": "InsightSoftwareConsortium",
             "repo": "itkwidgets",
             "stars": 624
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "itkwidgets (🥉20 · ⭐ 460) - 交互式Jupyter小部件，以可视化图像，点集等。 Apache-2"
@@ -750,8 +785,9 @@
             "last_commit": "2026-08-05T16:29:57Z",
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7856
-          }
+            "stars": 7861
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "evidently (🥉19 · ⭐ 2.6K) - 交互式报告，可在分析过程中分析机器学习模型。 Apache-2"
@@ -771,8 +807,9 @@
             "last_commit": "2026-06-21T19:46:04Z",
             "owner": "PAIR-code",
             "repo": "what-if-tool",
-            "stars": 1007
-          }
+            "stars": 1009
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "What-If Tool (🥉19 · ⭐ 740 · 💤) - What-If工具的源代码/网页/演示。 Apache-2"
@@ -793,7 +830,8 @@
             "owner": "jupyter-widgets-contrib",
             "repo": "ipysheet",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipysheet (🥉19 · ⭐ 500 · 💤) - Jupyter Handsontable集成。 MIT"
@@ -814,7 +852,8 @@
             "owner": "nicolaskruchten",
             "repo": "jupyter_pivottablejs",
             "stars": 708
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pivottablejs (🥉19 · ⭐ 470 · 💀) - Jupyter / IPython Notebook的Dragndrop数据透视表和图表。 ❗Unlicensed"
@@ -835,7 +874,8 @@
             "owner": "timkpaine",
             "repo": "ipydagred3",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipydagred3 (🥉19 · ⭐ 38) - ipywidgets库，用于在其中绘制有向无环图。 Apache-2"
@@ -856,7 +896,8 @@
             "owner": "pbugnion",
             "repo": "gmaps",
             "stars": 766
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "gmaps (🥉18 · ⭐ 740 · 💀) - Jupyter中的Google地图。 BSD-3"
@@ -877,7 +918,8 @@
             "owner": "vega",
             "repo": "ipyvega",
             "stars": 389
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "vega (🥉18 · ⭐ 330) - 适用于Vega和Vega-Lite的IPython / Jupyter笔记本模块。 BSD-3"
@@ -898,7 +940,8 @@
             "owner": "jupyter-widgets-contrib",
             "repo": "ipytree",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipytree (🥉18 · ⭐ 93) - 使用Jupyter-widgets协议和jsTree的Tree Widget。 MIT"
@@ -919,7 +962,8 @@
             "owner": "widgetti",
             "repo": "ipyvue",
             "stars": 72
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyvue (🥉18 · ⭐ 40 · 💤) - Vue库的Jupyter小部件基础。 MIT"
@@ -940,7 +984,8 @@
             "owner": "g2nb",
             "repo": "igv-jupyter",
             "stars": 154
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "igv.js widget (🥉17 · ⭐ 150) - 集成了igv.js的Jupyter Notebook扩展。 MIT"
@@ -957,11 +1002,12 @@
             "archived": false,
             "id": 185452341,
             "language": "Python",
-            "last_commit": "2026-08-27T19:56:52Z",
+            "last_commit": "2026-08-28T17:59:02Z",
             "owner": "spacetelescope",
             "repo": "jdaviz",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jdaviz (🥉17 · ⭐ 73) - Jupyter平台中的JWST天文数据分析工具。 BSD-3"
@@ -982,7 +1028,8 @@
             "owner": "altair-viz",
             "repo": "altair_viewer",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Altair Viewer (🥉17 · ⭐ 52 · 💤) - 用于Altair和Vega-Lite可视化的查看器。 BSD-3"
@@ -1003,7 +1050,8 @@
             "owner": "finos",
             "repo": "ipyregulartable",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyregulartable (🥉16 · ⭐ 66) - Jupyter中的高性能，可编辑，可样式化的数据表。 Apache-2"
@@ -1024,7 +1072,8 @@
             "owner": "vidartf",
             "repo": "ipyscales",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyscales (🥉16 · ⭐ 13 · 💀) - 用于度量的小部件库。 BSD-3"
@@ -1045,7 +1094,8 @@
             "owner": "OpenGeoscience",
             "repo": "geonotebook",
             "stars": 1086
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "geonotebook (🥉15 · ⭐ 1.1K · 💀) - Jupyter笔记本扩展，用于地理空间可视化。 Apache-2"
@@ -1066,7 +1116,8 @@
             "owner": "nipy",
             "repo": "niwidgets",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "niwidgets (🥉15 · ⭐ 76 · 💀) - 适用于Jupyter笔记本的Neuroimaging小部件。 Apache-2"
@@ -1087,7 +1138,8 @@
             "owner": "lgpage",
             "repo": "nbtutor",
             "stars": 472
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbtutor (🥉14 · ⭐ 400) - 可视化Jupyter Notebook单元中的Python代码执行（逐行）。 ❗Unlicensed"
@@ -1108,7 +1160,8 @@
             "owner": "maartenbreddels",
             "repo": "ipymaterialui",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipymaterialui (🥉13 · ⭐ 83 · 💀) - 基于React Material UI组件的Jupyter小部件。 MIT"
@@ -1129,7 +1182,8 @@
             "owner": "medialab",
             "repo": "ipysigma",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipysigma (🥉13 · ⭐ 38) - 一个自定义的Jupyter小部件库，用于使用sigma.js显示图形。 MIT"
@@ -1150,7 +1204,8 @@
             "owner": "CermakM",
             "repo": "jupyter-datatables",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter DataTables (🥉11 · ⭐ 140 · 💀) - 利用pandas DataFrames的Jupyter Notebook扩展。 MIT"
@@ -1171,7 +1226,8 @@
             "owner": "leifwalsh",
             "repo": "perfume",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "perfume (🥉11 · ⭐ 33 · 💀) - Jupyter中的交互式性能基准测试。 ❗Unlicensed"
@@ -1192,7 +1248,8 @@
             "owner": "jtpio",
             "repo": "ipyp5",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyp5 (🥉10 · ⭐ 33 · 💀) - p5.j​​s Jupyter小部件。 BSD-3"
@@ -1213,7 +1270,8 @@
             "owner": "1kbgz",
             "repo": "tributary",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "tributary (🥉10 · ⭐ 3) - 在Python中流式反应图和数据流图。 Apache-2"
@@ -1234,7 +1292,8 @@
             "owner": "GianniBalistreri",
             "repo": "easyexplore",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "easyexplore (🥉10 · ⭐ 3) - 用于在Python中轻松有效地进行数据探索的工具箱。 ❗️GPL-3.0"
@@ -1255,7 +1314,8 @@
             "owner": "asvcode",
             "repo": "Vision_UI",
             "stars": 248
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Vision UI (🥉9 · ⭐ 250 · 💀) - Fastai的UI视觉界面-现在与Google兼容。 ❗Unlicensed"
@@ -1276,7 +1336,8 @@
             "owner": "ipyannotate",
             "repo": "ipyannotate",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyannotate (🥉9 · ⭐ 120 · 💀) - Jupyter Widget，用于数据标注。 ❗Unlicensed"
@@ -1297,7 +1358,8 @@
             "owner": "DGothrek",
             "repo": "ipyaggrid",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyaggrid (🥉9 · ⭐ 10 · 💀) - Jupyter小部件-Notebook中的Ag-grid。 MIT"
@@ -1318,7 +1380,8 @@
             "owner": "ipython-contrib",
             "repo": "jupyter_contrib_nbextensions",
             "stars": 5276
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Contrib NBextensions (🥇21 · ⭐ 4.9K · 📈) - Jupyter的各种笔记本扩展的集合。 ❗Unlicensed"
@@ -1339,7 +1402,8 @@
             "owner": "jupyter-server",
             "repo": "jupyter-resource-usage",
             "stars": 538
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Resource Usage (🥇21 · ⭐ 330) - Jupyter Notebook Extension，用于监视您自己的资源。 BSD-2"
@@ -1360,7 +1424,8 @@
             "owner": "jupyterhub",
             "repo": "nbgitpuller",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbgitpuller (🥇21 · ⭐ 170) - Jupyter服务器扩展，可将git存储库单向同步。 BSD-3"
@@ -1381,7 +1446,8 @@
             "owner": "dunovank",
             "repo": "jupyter-themes",
             "stars": 9818
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Themes (🥈20 · ⭐ 9.2K) - Custom Jupyter Notebook Themes. MIT"
@@ -1402,7 +1468,8 @@
             "owner": "jupyter",
             "repo": "nbgrader",
             "stars": 1369
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbgrader (🥈20 · ⭐ 1.1K) - 用于在Notebook分配(任务/作业)和评分的系统。 BSD-3"
@@ -1423,7 +1490,8 @@
             "owner": "oschuett",
             "repo": "appmode",
             "stars": 465
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Appmode (🥈20 · ⭐ 400 · 💀) - Jupyter扩展，可将笔记本变成Web应用程序。 MIT"
@@ -1444,7 +1512,8 @@
             "owner": "jupyterhub",
             "repo": "jupyter-server-proxy",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-server-proxy (🥈20 · ⭐ 250) - Jupyter笔记本服务器扩展到代理Web服务。 BSD-3"
@@ -1464,8 +1533,9 @@
             "last_commit": "2024-06-05T16:43:47Z",
             "owner": "Jupyter-contrib",
             "repo": "jupyter_nbextensions_configurator",
-            "stars": 979
-          }
+            "stars": 980
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "NBextensions Configurator (🥈19 · ⭐ 910 · 📈) - A jupyter notebook serverextension providing config.. ❗Unlicensed"
@@ -1486,7 +1556,8 @@
             "owner": "mamba-org",
             "repo": "gator",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "gator (🥈18 · ⭐ 220) - Jupyter内部的Conda环境和包管理扩展。 BSD-3"
@@ -1507,7 +1578,8 @@
             "owner": "8080labs",
             "repo": "pyforest",
             "stars": 1119
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pyforest (🥉17 · ⭐ 980 · 💀) - pyforest-自动化导入工具。 MIT"
@@ -1528,7 +1600,8 @@
             "owner": "krishnan-r",
             "repo": "sparkmonitor",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Spark Monitor (🥉17 · ⭐ 170) - 从Jupyter Notebook监控Apache Spark。 Apache-2"
@@ -1549,7 +1622,8 @@
             "owner": "jupyterhub",
             "repo": "jupyter-rsession-proxy",
             "stars": 128
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Rsession Proxy (🥉17 · ⭐ 94) - 用于运行RStudio rsession代理的Jupyter扩展。 BSD-3"
@@ -1570,7 +1644,8 @@
             "owner": "anaconda-graveyard",
             "repo": "nb_conda",
             "stars": 145
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nb_conda (🥉16 · ⭐ 130 · 💀) - Jupyter内部的Conda环境和包管理扩展。 BSD-3"
@@ -1591,7 +1666,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyter-archive",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-archive (🥉16 · ⭐ 56) - Jupyter / Jupyterlab扩展，用于制作，下载和提取。 BSD-3"
@@ -1612,7 +1688,8 @@
             "owner": "lspvic",
             "repo": "jupyter_tensorboard",
             "stars": 461
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-tensorboard (🥉15 · ⭐ 460 · 💀) - 在Jupyter Notebook中启动Tensorboard。 MIT"
@@ -1633,7 +1710,8 @@
             "owner": "googlecolab",
             "repo": "jupyter_http_over_ws",
             "stars": 267
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "HTTP-over-WebSocket (🥉15 · ⭐ 230 · 💤) - Jupyter对ws-over-ws的支持。 Apache-2"
@@ -1654,7 +1732,8 @@
             "owner": "mozilla",
             "repo": "jupyter-spark",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Spark (🥉15 · ⭐ 190 · 💀) - 利用pandas DataFrames的Jupyter Notebook扩展。 MPL-2.0"
@@ -1675,7 +1754,8 @@
             "owner": "berkeley-dsep-infra",
             "repo": "nbzip",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbzip (🥉15 · ⭐ 80 · 💀) - 压缩并下载jupyter笔记本的所有内容。 Apache-2"
@@ -1696,7 +1776,8 @@
             "owner": "jupyter-incubator",
             "repo": "contentmanagement",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Content Management (🥉14 · ⭐ 76 · 💀) - Jupyter内容管理扩展。 BSD-3"
@@ -1717,7 +1798,8 @@
             "owner": "thoth-station",
             "repo": "jupyter-nbrequirements",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-nbrequirements (🥉12 · ⭐ 14 · 💤) - Jupyter中的依赖关系管理和优化。 MIT"
@@ -1738,7 +1820,8 @@
             "owner": "paypal",
             "repo": "PPExtensions",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "PPExtensions (🥉9 · ⭐ 48 · 💀) - 一组iPython和Jupyter扩展。 ❗Unlicensed"
@@ -1759,7 +1842,8 @@
             "owner": "drillan",
             "repo": "jupyter-black",
             "stars": 436
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Black (🥉8 · ⭐ 400 · 💀) - Jupyter Notebook的黑色格式化程序。 BSD-3"
@@ -1780,7 +1864,8 @@
             "owner": "willkessler",
             "repo": "jupyterterminals",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterterminals (🥉7 · ⭐ 8 · 💀) - Jupyter插件可支持嵌入式终端外壳。 MIT"
@@ -1801,7 +1886,8 @@
             "owner": "catherinedevlin",
             "repo": "ipython-sql",
             "stars": 1796
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipython-sql (🥇27 · ⭐ 1.6K) - %%sql magic for IPython, hopefully evolving into full SQL client. MIT"
@@ -1822,7 +1908,8 @@
             "owner": "jupyter-incubator",
             "repo": "sparkmagic",
             "stars": 1366
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "sparkmagic (🥇26 · ⭐ 1.2K) - Jupyter魔术和内核，可用于远程Spark集群。 ❗Unlicensed"
@@ -1843,7 +1930,8 @@
             "owner": "rasbt",
             "repo": "watermark",
             "stars": 941
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "watermark (🥈23 · ⭐ 710) - 一个IPython魔术扩展，用于打印日期和时间戳版本。 BSD-3"
@@ -1864,7 +1952,8 @@
             "owner": "csurfer",
             "repo": "pyheatmagic",
             "stars": 1029
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "heat (🥈16 · ⭐ 990 · 💤) - IPython魔术命令：格式化单元格中的python代码。 MIT"
@@ -1885,7 +1974,8 @@
             "owner": "csurfer",
             "repo": "blackcellmagic",
             "stars": 304
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "blackcellmagic (🥉15 · ⭐ 300 · 💤) - IPython魔术命令：格式化单元格中的python代码。 MIT"
@@ -1906,7 +1996,8 @@
             "owner": "ResidentMario",
             "repo": "py_d3",
             "stars": 450
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "py_d3 (🥉12 · ⭐ 440) - D3 block magic for Jupyter notebook. MIT"
@@ -1927,7 +2018,8 @@
             "owner": "tmthyjames",
             "repo": "SQLCell",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SQLCell (🥉12 · ⭐ 150 · 💀) - SQLCell：Jupyter Notebook的魔术函数。 MIT"
@@ -1948,7 +2040,8 @@
             "owner": "nteract",
             "repo": "pick",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pick (🥉12 · ⭐ 31 · 💀) - 在启动时自定义您的内核。 BSD-3"
@@ -1969,7 +2062,8 @@
             "owner": "krassowski",
             "repo": "jupyter-manim",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-manim (🥉11 · ⭐ 180 · 💤) - manim单元魔术，用于IPython / Jupyter显示输出视频。 MIT"
@@ -1990,7 +2084,8 @@
             "owner": "gopherdata",
             "repo": "gophernotes",
             "stars": 3967
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "gophernotes (🥇22 · ⭐ 3.4K) - 适用于Jupyter笔记本电脑和nteract的Go内核。 MIT"
@@ -2011,7 +2106,8 @@
             "owner": "ipython",
             "repo": "ipykernel",
             "stars": 734
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IPython Kernel (🥇22 · ⭐ 500 · 📉) - IPython Kernel for Jupyter. ❗Unlicensed"
@@ -2032,7 +2128,8 @@
             "owner": "IRkernel",
             "repo": "IRkernel",
             "stars": 1699
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IRkernel (🥇21 · ⭐ 1.6K) - Jupyter的R内核。 MIT"
@@ -2053,7 +2150,8 @@
             "owner": "Calysto",
             "repo": "octave_kernel",
             "stars": 458
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Octave Kernel (🥇20 · ⭐ 410) - 用于IPython的Octave内核。 BSD-3"
@@ -2074,7 +2172,8 @@
             "owner": "Calysto",
             "repo": "metakernel",
             "stars": 370
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Metakernel (🥇20 · ⭐ 290) - Jupyter/IPython内核工具。 BSD-3"
@@ -2095,7 +2194,8 @@
             "owner": "JuliaLang",
             "repo": "IJulia.jl",
             "stars": 2897
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IJulia.jl (🥈19 · ⭐ 2.5K) - Jupyter的Julia内核。 MIT"
@@ -2116,7 +2216,8 @@
             "owner": "jupyter-xeus",
             "repo": "xeus-cling",
             "stars": 3295
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "xeus-cling (🥈19 · ⭐ 2.3K · 💤) - 适用于C++编程语言的Jupyter内核。 BSD-3"
@@ -2137,7 +2238,8 @@
             "owner": "n-riesco",
             "repo": "ijavascript",
             "stars": 2257
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IJavascript (🥈19 · ⭐ 1.9K · 💤) - Jupyter笔记本的JavaScript内核。 ❗Unlicensed"
@@ -2154,11 +2256,12 @@
             "archived": false,
             "id": 31986032,
             "language": "Scala",
-            "last_commit": "2026-08-26T23:49:03Z",
+            "last_commit": "2026-08-28T20:30:28Z",
             "owner": "almond-sh",
             "repo": "almond",
             "stars": 1625
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "almond (🥈19 · ⭐ 1.5K) - Jupyter的Scala内核。 BSD-3"
@@ -2175,11 +2278,12 @@
             "archived": false,
             "id": 49190360,
             "language": "Scala",
-            "last_commit": "2026-08-14T21:43:30Z",
+            "last_commit": "2026-08-28T21:48:29Z",
             "owner": "apache",
             "repo": "incubator-toree",
             "stars": 750
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Apache Toree (🥈19 · ⭐ 700) - 适用于Apache Spark的Jupyter内核。 Apache-2"
@@ -2199,8 +2303,9 @@
             "last_commit": "2026-08-15T04:48:31Z",
             "owner": "IHaskell",
             "repo": "IHaskell",
-            "stars": 2649
-          }
+            "stars": 2654
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IHaskell (🥈18 · ⭐ 2.4K) - 用于IPython的Haskell内核。 MIT"
@@ -2221,7 +2326,8 @@
             "owner": "SciRuby",
             "repo": "iruby",
             "stars": 924
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IRuby (🥈18 · ⭐ 720) - 官方gem仓库：Jupyter/IPython Notebook的Ruby内核。 MIT"
@@ -2242,7 +2348,8 @@
             "owner": "anaconda",
             "repo": "nb_conda_kernels",
             "stars": 645
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nb_conda_kernels (🥈18 · ⭐ 470 · 💀) - Package for managing conda environment-based kernels.. BSD-3"
@@ -2263,7 +2370,8 @@
             "owner": "akabe",
             "repo": "ocaml-jupyter",
             "stars": 318
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "OCaml Kernel (🥈18 · ⭐ 230) - Jupyter（IPython）笔记本的OCaml内核。 MIT"
@@ -2284,7 +2392,8 @@
             "owner": "sassoftware",
             "repo": "sas_kernel",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SAS Kernel (🥈18 · ⭐ 190) - 用于SAS的Jupyter内核。 Apache-2"
@@ -2305,7 +2414,8 @@
             "owner": "adtech-labs",
             "repo": "spylon-kernel",
             "stars": 191
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Spylon Kernel (🥈18 · ⭐ 160 · 💀) - Jupyter kernel for scala and spark. ❗Unlicensed"
@@ -2326,7 +2436,8 @@
             "owner": "SpencerPark",
             "repo": "IJava",
             "stars": 1188
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IJava (🥉17 · ⭐ 820 · 💀) - 用于执行Java代码的Jupyter内核。 MIT"
@@ -2347,7 +2458,8 @@
             "owner": "jupyter-server",
             "repo": "kernel_gateway",
             "stars": 563
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Kernel Gateway (🥉17 · ⭐ 400) - Jupyter内核网关。 ❗Unlicensed"
@@ -2368,7 +2480,8 @@
             "owner": "scijava",
             "repo": "scijava-jupyter-kernel",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SciJava Kernel (🥉17 · ⭐ 180) - 在Jupyter笔记本中编写SciJava脚本。 Apache-2"
@@ -2389,7 +2502,8 @@
             "owner": "clojupyter",
             "repo": "clojupyter",
             "stars": 867
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "clojupyter (🥉16 · ⭐ 740 · 💤) - 用于Clojure的Jupyter内核。 MIT"
@@ -2410,7 +2524,8 @@
             "owner": "jupyter-server",
             "repo": "enterprise_gateway",
             "stars": 669
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Enterprise Gateway (🥉16 · ⭐ 520) - 轻量级，多租户，可扩展和安全的网关。 ❗Unlicensed"
@@ -2431,7 +2546,8 @@
             "owner": "Calysto",
             "repo": "matlab_kernel",
             "stars": 469
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Matlab Kernel (🥉16 · ⭐ 440) - Jupyter的Matlab内核。 ❗Unlicensed"
@@ -2452,7 +2568,8 @@
             "owner": "WolframResearch",
             "repo": "WolframLanguageForJupyter",
             "stars": 1214
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Wolfram Kernel (🥉15 · ⭐ 750) - 适用于Jupyter的Wolfram语言内核。 MIT"
@@ -2473,7 +2590,8 @@
             "owner": "takluyver",
             "repo": "bash_kernel",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Bash Kernel (🥉15 · ⭐ 600) - IPython的bash内核。 BSD-3"
@@ -2494,7 +2612,8 @@
             "owner": "ansible",
             "repo": "ansible-jupyter-kernel",
             "stars": 539
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Ansible Kernel (🥉15 · ⭐ 500) - Jupyter笔记本内核，用于运行Ansible任务。 ❗Unlicensed"
@@ -2511,11 +2630,12 @@
             "archived": false,
             "id": 177417757,
             "language": "C++",
-            "last_commit": "2026-08-28T01:13:32Z",
+            "last_commit": "2026-08-28T22:23:34Z",
             "owner": "lfortran",
             "repo": "lfortran",
-            "stars": 1226
-          }
+            "stars": 1227
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "LFortran (🥉14 · ⭐ 370) - https://gitlab.com/lfortran/lfortran的官方镜像。 ❗Unlicensed"
@@ -2536,7 +2656,8 @@
             "owner": "pprzetacznik",
             "repo": "IElixir",
             "stars": 369
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "IElixir (🥉14 · ⭐ 340 · 💀) - Jupyter的Elixir编程语言内核。 Apache-2"
@@ -2557,7 +2678,8 @@
             "owner": "Cadair",
             "repo": "jupyter_environment_kernels",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Kernel Detection (🥉14 · ⭐ 140 · 💀) - 一个Jupyter插件，用于自动检测。 BSD-2"
@@ -2578,7 +2700,8 @@
             "owner": "yunabe",
             "repo": "lgo",
             "stars": 2454
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "lgo (🥉13 · ⭐ 2.3K · 💀) - 使用Jupyter进行交互式Go编程。 BSD-3"
@@ -2599,7 +2722,8 @@
             "owner": "fsprojects",
             "repo": "IfSharp",
             "stars": 443
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "F# Kernel (🥉12 · ⭐ 430) - F# for Jupyter Notebooks. ❗Unlicensed"
@@ -2620,7 +2744,8 @@
             "owner": "zabirauf",
             "repo": "icsharp",
             "stars": 277
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ICSharp (🥉12 · ⭐ 270 · 💀) - Jupyter的C＃内核。 Apache-2"
@@ -2641,7 +2766,8 @@
             "owner": "NII-cloud-operation",
             "repo": "sshkernel",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SSH Kernel (🥉12 · ⭐ 53 · 💤) - Jupyter的SSH内核。 BSD-3"
@@ -2662,7 +2788,8 @@
             "owner": "jupyter-xeus",
             "repo": "xeus-sqlite",
             "stars": 172
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "xeus-sqlite (🥉11 · ⭐ 140) - 适用于SQLite的Jupyter内核。 BSD-3"
@@ -2683,7 +2810,8 @@
             "owner": "tdaff",
             "repo": "remote_ikernel",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "remote_ikernel (🥉10 · ⭐ 12 · 💀) - All your Jupyter kernels, on all your machines, in one place. BSD-2"
@@ -2704,7 +2832,8 @@
             "owner": "bernhard-42",
             "repo": "ssh_ipykernel",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ssh_ipykernel (🥉7 · ⭐ 8 · 💀) - A remote jupyter kernel via ssh. MIT"
@@ -2725,7 +2854,8 @@
             "owner": "nteract",
             "repo": "kernel-relay",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "kernel-relay (🥉6 · ⭐ 11 · 💀) - kernel-relay是与之接口的GraphQL服务。 ❗Unlicensed"
@@ -2746,7 +2876,8 @@
             "owner": "jupyter",
             "repo": "nbconvert",
             "stars": 1935
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbconvert (🥇31 · ⭐ 1.4K) - Jupyter Notebook Conversion. ❗Unlicensed"
@@ -2766,8 +2897,9 @@
             "last_commit": "2026-06-21T08:16:46Z",
             "owner": "getnikola",
             "repo": "nikola",
-            "stars": 2742
-          }
+            "stars": 2743
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nikola (🥇29 · ⭐ 2.3K) - 静态网站和博客生成器。 MIT"
@@ -2787,8 +2919,9 @@
             "last_commit": "2026-08-18T01:37:42Z",
             "owner": "jupytext",
             "repo": "jupytext",
-            "stars": 7234
-          }
+            "stars": 7235
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupytext (🥇27 · ⭐ 5.5K) - Jupyter Notebooks作为Markdown文档，Julia，Python或R脚本的工具。 MIT"
@@ -2808,8 +2941,9 @@
             "last_commit": "2026-08-03T19:33:25Z",
             "owner": "voila-dashboards",
             "repo": "voila",
-            "stars": 5938
-          }
+            "stars": 5939
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Voila (🥈26 · ⭐ 4.3K) - Voil将Jupyter笔记本变成独立的Web应用程序。 ❗Unlicensed"
@@ -2829,8 +2963,9 @@
             "last_commit": "2023-10-29T13:51:07Z",
             "owner": "damianavila",
             "repo": "RISE",
-            "stars": 3738
-          }
+            "stars": 3737
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "RISE (🥈24 · ⭐ 3.3K) - 实时Reveal.js Jupyter/IPython幻灯片扩展。 ❗Unlicensed"
@@ -2851,7 +2986,8 @@
             "owner": "jupyter-book",
             "repo": "jupyter-book",
             "stars": 4273
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Book (🥈24 · ⭐ 3K) - 从Jupyter构建交互式的，具有出版质量的文档。 BSD-3"
@@ -2872,7 +3008,8 @@
             "owner": "jupyter",
             "repo": "nbdime",
             "stars": 2841
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbdime (🥈23 · ⭐ 2.3K) - 区分和合并Jupyter笔记本的工具。 ❗Unlicensed"
@@ -2889,11 +3026,12 @@
             "archived": false,
             "id": 4503128,
             "language": "Rust",
-            "last_commit": "2026-08-27T14:02:43Z",
+            "last_commit": "2026-08-28T19:57:17Z",
             "owner": "stencila",
             "repo": "stencila",
             "stars": 900
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Stencila (🥈23 · ⭐ 650) - 用于可复制研究的在线文档。 Apache-2"
@@ -2914,7 +3052,8 @@
             "owner": "airbnb",
             "repo": "knowledge-repo",
             "stars": 5539
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Knowledge Repo (🥈21 · ⭐ 5.2K) - 下一代知识共享平台 Apache-2"
@@ -2935,7 +3074,8 @@
             "owner": "jupyter",
             "repo": "nbviewer",
             "stars": 2281
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbviewer (🥉19 · ⭐ 2K) - nbconvert作为Web服务：将Jupyter Notebooks渲染为静态Web。 BSD-3"
@@ -2956,7 +3096,8 @@
             "owner": "nteract",
             "repo": "bookstore",
             "stars": 200
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "bookstore (🥉19 · ⭐ 180 · 💀) - 面向大众的笔记本存储和发布工作流程。 BSD-3"
@@ -2977,7 +3118,8 @@
             "owner": "jupyterhub",
             "repo": "binderhub",
             "stars": 2669
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "BinderHub (🥉18 · ⭐ 2.2K) - 在云端运行您的代码。 BSD-3"
@@ -2998,7 +3140,8 @@
             "owner": "aaren",
             "repo": "notedown",
             "stars": 859
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "notedown (🥉18 · ⭐ 830 · 💀) - Markdown = IPython Notebook. BSD-2"
@@ -3018,8 +3161,9 @@
             "last_commit": "2022-04-13T16:57:46Z",
             "owner": "nteract",
             "repo": "scrapbook",
-            "stars": 292
-          }
+            "stars": 291
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "scrapbook (🥉18 · ⭐ 250) - 一个用于在笔记本中记录和读取数据的库。 BSD-3"
@@ -3040,7 +3184,8 @@
             "owner": "jupyter-book",
             "repo": "thebe",
             "stars": 442
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ThebeLab (🥉17 · ⭐ 300 · 💤) - ThebeLab：将静态HTML页面转换为实时文档。 BSD-3"
@@ -3061,7 +3206,8 @@
             "owner": "nteract",
             "repo": "commuter",
             "stars": 504
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "commuter (🥉16 · ⭐ 440) - 笔记本共享中心。 BSD-3"
@@ -3082,7 +3228,8 @@
             "owner": "SamLau95",
             "repo": "nbinteract",
             "stars": 234
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbinteract (🥉15 · ⭐ 220 · 💀) - 从Jupyter Notebooks创建交互式网页。 BSD-3"
@@ -3103,7 +3250,8 @@
             "owner": "danielfrg",
             "repo": "mkdocs-jupyter",
             "stars": 506
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "mkdocs-jupyter (🥉15 · ⭐ 150 · 📈) - 在mkdocs中使用Jupyter Notebook。 Apache-2"
@@ -3124,7 +3272,8 @@
             "owner": "ideonate",
             "repo": "cdsdashboards",
             "stars": 199
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "cdsdashboards (🥉14 · ⭐ 170) - 用于ContainDS仪表板的JupyterHub扩展。 ❗Unlicensed"
@@ -3145,7 +3294,8 @@
             "owner": "elehcimd",
             "repo": "pynb",
             "stars": 249
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "pynb (🥉13 · ⭐ 240 · 💀) - Jupyter Notebooks是带有嵌入式Markdown文本的纯Python代码。 MIT"
@@ -3166,7 +3316,8 @@
             "owner": "nbgallery",
             "repo": "nbgallery",
             "stars": 150
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbgallery (🥉13 · ⭐ 140) - 企业Jupyter笔记本共享和协作应用程序。 MIT"
@@ -3187,7 +3338,8 @@
             "owner": "danielfrg",
             "repo": "jupyter-flex",
             "stars": 320
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-flex (🥉11 · ⭐ 260) - 使用Jupyter Notebook构建仪表板。 Apache-2"
@@ -3208,7 +3360,8 @@
             "owner": "line",
             "repo": "jnotebook_reader",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jnotebook-reader (🥉11 · ⭐ 99) - 一款很棒的查看器，用于浏览和渲染Jupyter。 Apache-2"
@@ -3229,7 +3382,8 @@
             "owner": "jupyter",
             "repo": "nbclient",
             "stars": 186
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbclient (🥇26 · ⭐ 100) - 用于执行笔记本的客户端库。 ❗Unlicensed"
@@ -3250,7 +3404,8 @@
             "owner": "pixiedust",
             "repo": "pixiedust",
             "stars": 1040
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "PixieDust (🥇25 · ⭐ 1K · 💀) - 适用于Jupyter Notebook的Python Helper库。 Apache-2"
@@ -3271,7 +3426,8 @@
             "owner": "AnswerDotAI",
             "repo": "nbdev",
             "stars": 5314
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbdev (🥇24 · ⭐ 3.6K) - 使用Jupyter Notebook创建python项目。 Apache-2"
@@ -3292,7 +3448,8 @@
             "owner": "computationalmodelling",
             "repo": "nbval",
             "stars": 453
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbval (🥈23 · ⭐ 390 · 💤) - 一个py.test插件，用于验证Jupyter笔记本。 ❗Unlicensed"
@@ -3309,11 +3466,12 @@
             "archived": false,
             "id": 33653575,
             "language": "Python",
-            "last_commit": "2026-08-24T19:13:40Z",
+            "last_commit": "2026-08-28T12:17:00Z",
             "owner": "jupyter",
             "repo": "jupyter_client",
             "stars": 474
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Client (🥈23 · ⭐ 280 · 📈) - Jupyter protocol client APIs. BSD-3"
@@ -3334,7 +3492,8 @@
             "owner": "twosigma",
             "repo": "beakerx",
             "stars": 2894
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "BeakerX (🥈22 · ⭐ 2.7K · 💀) - Jupyter Notebook的Beaker扩展。 Apache-2"
@@ -3355,7 +3514,8 @@
             "owner": "jupyter",
             "repo": "jupyter-sphinx",
             "stars": 194
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Sphinx (🥈22 · ⭐ 150) - Sphinx扩展，用于呈现Jupyter交互式小部件。 BSD-3"
@@ -3376,7 +3536,8 @@
             "owner": "jupyterhub",
             "repo": "repo2docker",
             "stars": 1732
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "repo2docker (🥈21 · ⭐ 1.4K) - 将存储库转换为支持Jupyter的Docker映像。 BSD-3"
@@ -3397,7 +3558,8 @@
             "owner": "chmp",
             "repo": "ipytest",
             "stars": 336
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipytest (🥈20 · ⭐ 230 · 📈) - IPython笔记本中的Pytest。 MIT"
@@ -3418,7 +3580,8 @@
             "owner": "ReviewNB",
             "repo": "treon",
             "stars": 313
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "treon (🥈19 · ⭐ 280) - Jupyter Notebooks易于使用的测试框架。 MIT"
@@ -3439,7 +3602,8 @@
             "owner": "jupyter",
             "repo": "nbformat",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbformat (🥈19 · ⭐ 180 · 📉) - Jupyter Notebook格式的参考实现。 ❗Unlicensed"
@@ -3460,7 +3624,8 @@
             "owner": "ipython",
             "repo": "ipyparallel",
             "stars": 2647
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyparallel (🥉18 · ⭐ 2.3K) - Python中的交互式并行计算。 ❗Unlicensed"
@@ -3481,7 +3646,8 @@
             "owner": "nbQA-dev",
             "repo": "nbQA",
             "stars": 1204
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbQA (🥉17 · ⭐ 560) - 在Jupyter Notebook上运行任何标准的Python代码质量工具。 MIT"
@@ -3502,7 +3668,8 @@
             "owner": "QuantEcon",
             "repo": "sphinxcontrib-jupyter",
             "stars": 76
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "sphinxcontrib.jupyter (🥉17 · ⭐ 72 · 💀) - 用于生成Jupyter笔记本的Sphinx扩展。 BSD-3"
@@ -3523,7 +3690,8 @@
             "owner": "tweag",
             "repo": "jupyenv",
             "stars": 744
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterWith (🥉14 · ⭐ 350) - 声明性和可复制的Jupyter环境-由Nix提供支持。 MIT"
@@ -3544,7 +3712,8 @@
             "owner": "nteract",
             "repo": "testbook",
             "stars": 434
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "testbook (🥉14 · ⭐ 320) - 以正确的方式对Jupyter笔记本进行单元测试。 BSD-3"
@@ -3565,7 +3734,8 @@
             "owner": "treebeardtech",
             "repo": "nbmake-action",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbmake-action (🥉14 · ⭐ 160 · 💤) - GitHub用于测试笔记本的动作。 Apache-2"
@@ -3586,7 +3756,8 @@
             "owner": "takluyver",
             "repo": "nbopen",
             "stars": 309
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbopen (🥉13 · ⭐ 280 · 💀) - Open a Jupyter notebook in the best available server. BSD-3"
@@ -3607,7 +3778,8 @@
             "owner": "takluyver",
             "repo": "jupyter_kernel_mgmt",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Kernel Management (🥉12 · ⭐ 13 · 💀) - 针对Jupyter的实验性新内核管理框架。 ❗Unlicensed"
@@ -3628,7 +3800,8 @@
             "owner": "datitran",
             "repo": "jupyter2slides",
             "stars": 792
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter2slides (🥉11 · ⭐ 770 · 💀) - 使用Jupyter Notebook的Cloud Native演示幻灯片 MIT"
@@ -3649,7 +3822,8 @@
             "owner": "stas00",
             "repo": "ipyexperiments",
             "stars": 236
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipyexperiments (🥉11 · ⭐ 150 · 💤) - 适用于GPU和一般设备的jupyter / ipython实验容器。 ❗Unlicensed"
@@ -3670,7 +3844,8 @@
             "owner": "krassowski",
             "repo": "jupyter-helpers",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Helpers (🥉11 · ⭐ 40 · 💀) - Jupyter/IPython的帮助程序集合。 MIT"
@@ -3690,8 +3865,9 @@
             "last_commit": "2022-12-08T03:56:51Z",
             "owner": "Invictify",
             "repo": "Jupter-Notebook-REST-API",
-            "stars": 164
-          }
+            "stars": 163
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupter-Notebook-REST-API (🥉7 · ⭐ 51 · 💀) - 将jupyter笔记本作为REST API端点运行。 MIT"
@@ -3712,7 +3888,8 @@
             "owner": "plotly",
             "repo": "jupyterlab-dash",
             "stars": 362
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Dash (🥇20 · ⭐ 360 · 💀) - An Extension for the Interactive development of Dash apps in.. MIT"
@@ -3733,7 +3910,8 @@
             "owner": "QuantStack",
             "repo": "jupyterlab-drawio",
             "stars": 623
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Drawio (🥈19 · ⭐ 540 · 💀) - FOSS drawio/mxgraph程序包的独立嵌入。 BSD-3"
@@ -3754,7 +3932,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-latex",
             "stars": 686
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Latex (🥈18 · ⭐ 530) - JupyterLab扩展，用于实时编辑LaTeX文档。 BSD-3"
@@ -3775,7 +3954,8 @@
             "owner": "jupyterlab",
             "repo": "jupyter-renderers",
             "stars": 517
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Renderers (🥉17 · ⭐ 440) - JupyterLab的渲染器和渲染器扩展。 BSD-3"
@@ -3796,7 +3976,8 @@
             "owner": "quigleyj97",
             "repo": "jupyterlab-spreadsheet",
             "stars": 201
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Spreadsheet (🥉16 · ⭐ 160) - JupyterLab插件，用于查看电子表格。 BSD-3"
@@ -3817,7 +3998,8 @@
             "owner": "altair-viz",
             "repo": "jupyterlab_voyager",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Voyager (🥉13 · ⭐ 270 · 💀) - JupyterLab extension visualize data with Voyager. BSD-3"
@@ -3838,7 +4020,8 @@
             "owner": "telamonian",
             "repo": "theme-darcula",
             "stars": 219
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Darcula Theme (🥇19 · ⭐ 150) - A handsome Darcula theme for Jupyterlab. The first jlab theme to.. BSD-3"
@@ -3859,7 +4042,8 @@
             "owner": "AllanChain",
             "repo": "jupyterlab-theme-solarized-dark",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-theme-solarized-dark (🥈14 · ⭐ 66) - JupyterLab 2.x Solarized Dark扩展。 BSD-3"
@@ -3880,7 +4064,8 @@
             "owner": "yeebc",
             "repo": "jupyterlab-neon-theme",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Neon Theme (🥈13 · ⭐ 120 · 💀) - JupyterLab的扁平，80年代霓虹灯启发主题。 BSD-3"
@@ -3901,7 +4086,8 @@
             "owner": "oriolmirosa",
             "repo": "jupyterlab_materialdarker",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Material Darker Theme (🥉12 · ⭐ 130 · 💤) - JupyterLab的Material Darker主题。 BSD-3"
@@ -3922,7 +4108,8 @@
             "owner": "mohirio",
             "repo": "jupyterlab-horizon-theme",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Horizon Theme (🥉12 · ⭐ 52 · 💀) - JupyterLab的VSCode Horizo​​n主题端口。 BSD-3"
@@ -3943,7 +4130,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-theme-toggle",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Theme Toggle (🥉10 · ⭐ 11 · 💀) - JupyterLab extension to toggle the theme in the Top Bar area. BSD-3"
@@ -3964,7 +4152,8 @@
             "owner": "Rahlir",
             "repo": "theme-gruvbox",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Gruvbox Theme (🥉9 · ⭐ 48 · 💀) - Jupyter Lab的Gruvbox黑暗主题。 ❗Unlicensed"
@@ -3985,7 +4174,8 @@
             "owner": "kenshohara",
             "repo": "theme-nord-extension",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Nord Theme (🥉6 · ⭐ 24 · 💀) - JupyterLab-Nord主题。 ❗Unlicensed"
@@ -4006,7 +4196,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
             "stars": 1610
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Git (🥇27 · ⭐ 1.1K) - JupyterLab的Git扩展。 BSD-3"
@@ -4027,7 +4218,8 @@
             "owner": "elyra-ai",
             "repo": "elyra",
             "stars": 1996
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "elyra (🥇22 · ⭐ 1.4K) - Elyra以AI为中心的方法对JupyterLab笔记本进行拓展。 Apache-2"
@@ -4047,8 +4239,9 @@
             "last_commit": "2026-08-26T21:31:56Z",
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11137
-          }
+            "stars": 11140
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Perspective (🥇21 · ⭐ 4.8K) - 通过WebAssembly进行流式透视显示。 Apache-2"
@@ -4069,7 +4262,8 @@
             "owner": "jupyterlab",
             "repo": "debugger",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Debugger (🥇20 · ⭐ 540 · 💀) - 适用于Jupyter笔记本电脑，控制台等的可视调试器。 BSD-3"
@@ -4090,7 +4284,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-variableInspector",
             "stars": 1168
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Variable Inspector (🥇19 · ⭐ 930) - Jupyterlab的变量查看器扩展。 BSD-3"
@@ -4111,7 +4306,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-toc",
             "stars": 728
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab TOC (🥇19 · ⭐ 720 · 💤) - Table of Contents extension for JupyterLab. BSD-3"
@@ -4132,7 +4328,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-system-monitor",
             "stars": 305
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab System Monitor (🥇19 · ⭐ 250) - JupyterLab扩展以显示系统指标。 BSD-3"
@@ -4153,7 +4350,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab_code_formatter",
             "stars": 907
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Code Formatter (🥈18 · ⭐ 600) - JupyterLab的通用代码格式化工具。 MIT"
@@ -4174,7 +4372,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-github",
             "stars": 437
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab GitHub (🥈18 · ⭐ 330 · 💤) - GitHub integration for JupyterLab. BSD-3"
@@ -4195,7 +4394,8 @@
             "owner": "finos",
             "repo": "jupyterlab_templates",
             "stars": 414
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Templates (🥈18 · ⭐ 310) - 在jupyterlab的jupyter-Notebook各种模板。 Apache-2"
@@ -4216,7 +4416,8 @@
             "owner": "dask",
             "repo": "dask-labextension",
             "stars": 329
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "dask-labextension (🥈18 · ⭐ 270) - JupyterLab扩展，用于实时编辑LaTeX文档。 BSD-3"
@@ -4237,7 +4438,8 @@
             "owner": "jwkvam",
             "repo": "jupyterlab-vim",
             "stars": 981
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Vim (🥈17 · ⭐ 920 · 💀) - 用于JupyterLab的Vim笔记本cell绑定。 MIT"
@@ -4258,7 +4460,8 @@
             "owner": "rapidsai",
             "repo": "jupyterlab-nvdashboard",
             "stars": 680
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "GPU Dashboards (🥈17 · ⭐ 470) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
@@ -4279,7 +4482,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-google-drive",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Google Drive (🥈17 · ⭐ 370) - 使用Google云端硬盘的JupyterLab的云存储。 BSD-3"
@@ -4299,8 +4503,9 @@
             "last_commit": "2026-04-15T18:56:36Z",
             "owner": "jupyter-widgets",
             "repo": "jupyterlab-sidecar",
-            "stars": 263
-          }
+            "stars": 264
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab SideCar (🥈17 · ⭐ 200 · 💀) - JupyterLab的sidecar输出小部件。 BSD-3"
@@ -4321,7 +4526,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "spellchecker",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Spellchecker (🥈17 · ⭐ 160) - JupyterLab笔记本降价单元的拼写检查器。 BSD-3"
@@ -4342,7 +4548,8 @@
             "owner": "krassowski",
             "repo": "jupyterlab-go-to-definition",
             "stars": 226
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Go-To-Definition (🥈16 · ⭐ 220 · 💀) - 变量的定义查看器。 BSD-3"
@@ -4363,7 +4570,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-data-explorer",
             "stars": 177
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Data Explorer (🥈16 · ⭐ 170 · 💀) - JupyterLab中的一流数据集。 BSD-3"
@@ -4384,7 +4592,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-iframe",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab IFrame (🥈16 · ⭐ 81) - JupyterLab iframe小部件。 Apache-2"
@@ -4405,7 +4614,8 @@
             "owner": "timkpaine",
             "repo": "lantern",
             "stars": 350
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Lantern (🥈15 · ⭐ 320) - 数据探索工具。 Apache-2"
@@ -4426,7 +4636,8 @@
             "owner": "chesterli29",
             "repo": "jupyterlab_tensorboard",
             "stars": 312
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Tensorboard (🥈15 · ⭐ 300) - Jupyterlab的Tensorboard扩展。 MIT"
@@ -4447,7 +4658,8 @@
             "owner": "deshaw",
             "repo": "jupyterlab-execute-time",
             "stars": 403
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-execute-time (🥈15 · ⭐ 230) - 为Jupyter Lab执行时间插件。 BSD-3"
@@ -4468,7 +4680,8 @@
             "owner": "bokeh",
             "repo": "jupyter_bokeh",
             "stars": 261
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Jupyter Bokeh (🥈15 · ⭐ 200) - 用于在JupyterLab笔记本中呈现Bokeh内容的扩展。 BSD-3"
@@ -4488,8 +4701,9 @@
             "last_commit": "2025-06-26T06:39:04Z",
             "owner": "jtpio",
             "repo": "ipylab",
-            "stars": 219
-          }
+            "stars": 220
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipylab (🥈15 · ⭐ 110) - 使用Jupyter小部件从Python笔记本控制JupyterLab。 BSD-3"
@@ -4510,7 +4724,8 @@
             "owner": "vatlab",
             "repo": "jupyterlab-sos",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-sos (🥈15 · ⭐ 54) - 适用于SoS Polyglot笔记本和工作流程的Jupyterlab扩展 BSD-3"
@@ -4531,7 +4746,8 @@
             "owner": "microsoft",
             "repo": "gather",
             "stars": 534
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbgather (🥉14 · ⭐ 450 · 💀) - Jupyter笔记本分割工具。 MIT"
@@ -4552,7 +4768,8 @@
             "owner": "pbugnion",
             "repo": "jupyterlab-sql",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab SQL (🥉14 · ⭐ 380 · 💀) - JupyterLab的SQL GUI。 MIT"
@@ -4573,7 +4790,8 @@
             "owner": "aquirdTurtle",
             "repo": "Collapsible_Headings",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Collapsible Headings (🥉14 · ⭐ 170 · 💀) - 为Jupyter实验室笔记本实现可折叠页眉。 BSD-3"
@@ -4594,7 +4812,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-hdf5",
             "stars": 118
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab HDF5 (🥉14 · ⭐ 95) - 在JupyterLab中打开和浏览HDF5文件。 BSD-3"
@@ -4615,7 +4834,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-quickopen",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Quickopen (🥉14 · ⭐ 75 · 💤) - 通过在JupyterLab中键入文件的一部分来快速打开文件。 BSD-3"
@@ -4636,7 +4856,8 @@
             "owner": "jupyterlab-contrib",
             "repo": "jupyterlab-kernelspy",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Kernelspy (🥉14 · ⭐ 68) - Jupyter Lab扩展，用于检查往返于邮件的信息。 ❗Unlicensed"
@@ -4657,7 +4878,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-autoversion",
             "stars": 83
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Autoversion (🥉14 · ⭐ 58) - 在JupyterLab中Jupyter笔记本的自动版本控制。 Apache-2"
@@ -4678,7 +4900,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-shortcutui",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Shortcutui (🥉14 · ⭐ 55 · 💀) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
@@ -4699,7 +4922,8 @@
             "owner": "itsjafer",
             "repo": "jupyterlab-sparkmonitor",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-sparkmonitor (🥉13 · ⭐ 78) - JupyterLab扩展，可启动监控。 Apache-2"
@@ -4720,7 +4944,8 @@
             "owner": "jpmorganchase",
             "repo": "jupyter-fs",
             "stars": 245
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-fs (🥉12 · ⭐ 120) - 类似文件系统的内容管理器，用于Jupyter中的多个后端。 Apache-2"
@@ -4741,7 +4966,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-commenting",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Commenting (🥉12 · ⭐ 93 · 💀) - JupyterLab的注释和注释。 BSD-3"
@@ -4762,7 +4988,8 @@
             "owner": "jpmorganchase",
             "repo": "nbcelltests",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "nbcelltests (🥉12 · ⭐ 64) - 用于Jupyter笔记本的逐个cell测试工具。 Apache-2"
@@ -4783,7 +5010,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-python-file",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Python Files (🥉12 · ⭐ 52 · 💤) - JupyterLab扩展来创建Python文件。 BSD-3"
@@ -4804,7 +5032,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Flake8 (🥉12 · ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。 Apache-2"
@@ -4825,7 +5054,8 @@
             "owner": "tkp-archive",
             "repo": "knowledgelab",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "KnowledgeLab (🥉12 · ⭐ 45) - KnowledgeRepo + JupyterLab. Apache-2"
@@ -4846,7 +5076,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-commands",
             "stars": 63
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab_commands (🥉12 · ⭐ 37) - Add arbitrary python commands to the jupyterlab.. Apache-2"
@@ -4867,7 +5098,8 @@
             "owner": "krassowski",
             "repo": "jupyterlab-lsp",
             "stars": 133
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab LSP (🥉12 · 📉) - JupyterLab的编码帮助（代码导航+悬停）。 BSD-3"
@@ -4888,7 +5120,8 @@
             "owner": "jupyterlab",
             "repo": "jupyterlab-celltags",
             "stars": 115
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-celltags (🥉11 · ⭐ 110 · 💀) - 一个JupyterLab扩展，用于显示GPU的仪表板。 BSD-3"
@@ -4909,7 +5142,8 @@
             "owner": "timkpaine",
             "repo": "jupyterlab-email",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Email (🥉11 · ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。 Apache-2"
@@ -4930,7 +5164,8 @@
             "owner": "mlshapiro",
             "repo": "jupyterlab-flake8",
             "stars": 112
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-flake8 (🥉10 · ⭐ 110 · 💤) - Jupyterlab用于笔记本和文本文件的python连接器。 BSD-3"
@@ -4951,7 +5186,8 @@
             "owner": "ReviewNB",
             "repo": "jupyterlab-gitplus",
             "stars": 121
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-gitplus (🥉9 · ⭐ 94 · 💤) - JupyterLab扩展来创建Python文件。 ❗️AGPL-3.0"
@@ -4972,7 +5208,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-python-bytecode",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Bytecode (🥉9 · ⭐ 59 · 💀) - JupyterLab扩展，以探索CPython字节码。 BSD-3"
@@ -4993,7 +5230,8 @@
             "owner": "manuzhang",
             "repo": "jupyterlab_spark",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Spark (🥉9 · ⭐ 9 · 💤) - JupyterLab的Spark应用程序UI扩展。 Apache-2"
@@ -5014,7 +5252,8 @@
             "owner": "jtpio",
             "repo": "jupyterlab-topbar",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JupyterLab Top Bar (🥉9 · ⭐ 3 · 💤) - JupyterLab顶部栏扩展。 BSD-3"
@@ -5035,7 +5274,8 @@
             "owner": "gavincyi",
             "repo": "jupyterlab-executor",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyterlab-executor (🥉8 · ⭐ 5 · 💀) - JupyterLab扩展，以探索CPython字节码。 BSD-3"
@@ -5052,11 +5292,12 @@
             "archived": false,
             "id": 24390283,
             "language": "Python",
-            "last_commit": "2026-08-27T16:59:06Z",
+            "last_commit": "2026-08-28T20:20:25Z",
             "owner": "jupyterhub",
             "repo": "oauthenticator",
             "stars": 445
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "OAuthenticator (🥇22 · ⭐ 340) - OAuth + JupyterHub Authenticator = OAuthenticator. BSD-3"
@@ -5077,7 +5318,8 @@
             "owner": "jupyterhub",
             "repo": "ldapauthenticator",
             "stars": 214
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "LDAP Authenticator (🥇22 · ⭐ 180 · 💀) - 用于Jupyter的LDAP Authenticator插件。 BSD-3"
@@ -5098,7 +5340,8 @@
             "owner": "jupyterhub",
             "repo": "ltiauthenticator",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "LTI Authenticator (🥈18 · ⭐ 55) - 用于LTI的JupyterHub身份验证器。 BSD-3"
@@ -5119,7 +5362,8 @@
             "owner": "jupyterhub",
             "repo": "nativeauthenticator",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Native Authenticator (🥈18 · ⭐ 53) - JupyterHub本地用户身份验证器。 BSD-3"
@@ -5140,7 +5384,8 @@
             "owner": "jupyterhub",
             "repo": "firstuseauthenticator",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "First Use Authenticator (🥈16 · ⭐ 40 · 💤) - JupyterHub Authenticator，可以让用户进行设置。 BSD-3"
@@ -5161,7 +5406,8 @@
             "owner": "jupyterhub",
             "repo": "dummyauthenticator",
             "stars": 30
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "dummyauthenticator (🥈14 · ⭐ 28 · 💀) - 虚拟的JupyterHub Authenticator使测试变得容易。 BSD-3"
@@ -5182,7 +5428,8 @@
             "owner": "mogthesprog",
             "repo": "jwtauthenticator",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "JWT Authenticator (🥉13 · ⭐ 41 · 💀) - JupyterHub的令牌验证器。 Apache-2"
@@ -5203,7 +5450,8 @@
             "owner": "jupyterhub",
             "repo": "nullauthenticator",
             "stars": 10
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Null Authenticator (🥉13 · ⭐ 7) - Null Authenticator for JupyterHub instances that should have.. BSD-3"
@@ -5224,7 +5472,8 @@
             "owner": "HewlettPackard",
             "repo": "jupyterhub-samlauthenticator",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SAML Authenticator (🥉12 · ⭐ 33) - jupyterhub-samlauthenticator。 MIT"
@@ -5245,7 +5494,8 @@
             "owner": "cwaldbieser",
             "repo": "jhub_remote_user_authenticator",
             "stars": 43
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Remote User Auth (🥉11 · ⭐ 33 · 💀) - Jupyterhub的REMOTE_USER身份验证器。 ❗️GPL-3.0"
@@ -5266,7 +5516,8 @@
             "owner": "cwaldbieser",
             "repo": "jhub_cas_authenticator",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "CAS Authenticator (🥉10 · ⭐ 18) - Jupyterhub的CAS验证器。 ❗️GPL-3.0"
@@ -5287,7 +5538,8 @@
             "owner": "thedataincubator",
             "repo": "jupyterhub-hashauthenticator",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Hash Authenticator (🥉9 · ⭐ 4 · 💀) - 使用从其生成的密码对用户进行身份验证。 BSD-3"
@@ -5308,7 +5560,8 @@
             "owner": "ucphhpc",
             "repo": "jhub-authenticators",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Remote Authenticator (🥉9 · ⭐ 1) - JupyterHub Authenticators的集合。 ❗️GPL-3.0"
@@ -5329,7 +5582,8 @@
             "owner": "jupyterhub",
             "repo": "kerberosauthenticator",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "Keberos Authenticator (🥉8 · ⭐ 10 · 💀) - 用于LTI的JupyterHub身份验证器。 BSD-3"
@@ -5350,7 +5604,8 @@
             "owner": "andreas-h",
             "repo": "sshauthenticator",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SSH Authenticator (🥉6 · ⭐ 6 · 💀) - JupyterHub的简单SSH身份验证器。 BSD-3"
@@ -5371,7 +5626,8 @@
             "owner": "jupyterhub",
             "repo": "dockerspawner",
             "stars": 544
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "DockerSpawner (🥇21 · ⭐ 430) - 在Docker容器中生成JupyterHub单用户服务器。 BSD-3"
@@ -5392,7 +5648,8 @@
             "owner": "jupyterhub",
             "repo": "kubespawner",
             "stars": 608
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "KubeSpawner (🥈20 · ⭐ 420) - Kubernetes spawner for JupyterHub. BSD-3"
@@ -5413,7 +5670,8 @@
             "owner": "jupyterhub",
             "repo": "batchspawner",
             "stars": 207
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "BatchSpawner (🥈20 · ⭐ 140) - 用于Jupyterhub的自定义Spawner，可按计划批量启动服务器。 BSD-3"
@@ -5434,7 +5692,8 @@
             "owner": "jupyterhub",
             "repo": "systemdspawner",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SystemdSpawner (🥉17 · ⭐ 79) - 使用Systemd生成JupyterHub单用户笔记本服务器。 BSD-3"
@@ -5455,7 +5714,8 @@
             "owner": "jupyterhub",
             "repo": "wrapspawner",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "WrapSpawner (🥉14 · ⭐ 54) - JupyterHub的生成器的运行时配置机制。 BSD-3"
@@ -5476,7 +5736,8 @@
             "owner": "jupyterhub",
             "repo": "sudospawner",
             "stars": 52
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "SudoSpawner (🥉14 · ⭐ 44 · 💤) - 使用Systemd生成JupyterHub单用户笔记本服务器。 BSD-3"
@@ -5497,7 +5758,8 @@
             "owner": "jupyterhub",
             "repo": "yarnspawner",
             "stars": 19
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "YarnSpawner (🥉10 · ⭐ 19 · 💀) - 在Hadoop/YARN中生成JupyterHub单用户笔记本服务器。 BSD-3"
@@ -5514,11 +5776,12 @@
             "archived": false,
             "id": 658518,
             "language": "Python",
-            "last_commit": "2026-08-26T12:05:21Z",
+            "last_commit": "2026-08-28T09:00:30Z",
             "owner": "ipython",
             "repo": "ipython",
-            "stars": 16774
-          }
+            "stars": 16773
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "ipython (🥇34 · ⭐ 15K) - Official repository for IPython itself. Other repos in the IPython.. BSD-3"
@@ -5539,7 +5802,8 @@
             "owner": "jupyter-server",
             "repo": "jupyter_server",
             "stars": 567
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter_server (🥉21 · ⭐ 330) - The backendi.e. core services, APIs, and REST.. ❗Unlicensed"
@@ -5560,7 +5824,8 @@
             "owner": "jupyter",
             "repo": "jupyter-packaging",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-packaging (🥉19 · ⭐ 58) - 帮助构建和安装Jupyter Python软件包的工具。 BSD-3"
@@ -5577,11 +5842,12 @@
             "archived": false,
             "id": 145848899,
             "language": "Python",
-            "last_commit": "2026-08-26T16:25:35Z",
+            "last_commit": "2026-08-28T21:42:51Z",
             "owner": "holoviz",
             "repo": "panel",
             "stars": 5763
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "panel (🥇31 · ⭐ 2.1K) - 适用于Python的高级应用程序和仪表板解决方案。 BSD-3"
@@ -5602,7 +5868,8 @@
             "owner": "spyder-ide",
             "repo": "qtconsole",
             "stars": 439
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "qtconsole (🥇31 · ⭐ 330) - Jupyter Qt Console. BSD-3"
@@ -5623,7 +5890,8 @@
             "owner": "abhishekkrthakur",
             "repo": "colabcode",
             "stars": 2158
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "colabcode (🥉21 · ⭐ 1.8K · 💀) - 在Google Colab或Kaggle笔记本上运行VSCode（代码服务器）。 MIT"
@@ -5644,7 +5912,8 @@
             "owner": "jupyter",
             "repo": "jupyter_console",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "jupyter-console (🥉20 · ⭐ 200) - Jupyter终端控制台。 ❗Unlicensed"
@@ -5665,7 +5934,8 @@
             "owner": "HanXinzi-AI",
             "repo": "awesome-computer-vision-resources",
             "stars": 359
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         },
         {
           "node_type": "item",
@@ -5680,7 +5950,8 @@
             "owner": "HanXinzi-AI",
             "repo": "awesome-NLP-resources",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         },
         {
           "node_type": "item",
@@ -5695,7 +5966,8 @@
             "owner": "HanXinzi-AI",
             "repo": "awesome-python-machine-learning-resources",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         },
         {
           "node_type": "item",
@@ -5710,7 +5982,8 @@
             "owner": "HanXinzi-AI",
             "repo": "awesome-python-resources",
             "stars": 181
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         },
         {
           "node_type": "item",
@@ -5725,14 +5998,15 @@
             "owner": "HanXinzi-AI",
             "repo": "awesome-jupyter-resources",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-29T02:26:32.517Z"
         }
       ],
       "title": "相关资源"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T03:51:27.401Z",
+    "last_updated": "2026-08-29T02:26:32.517Z",
     "original_repository_info": {
       "archived": false,
       "id": 361363140,
