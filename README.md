@@ -17,7 +17,7 @@
     <a href="https://github.com/HanXinzi-AI/awesome-jupyter-resources/releases" title="最近更新"><img src="https://img.shields.io/github/release-date/HanXinzi-AI/awesome-jupyter-resources?color=green&label=updated"></a>
 </p>
 
-本资源清单包含270个jupyter相关的开源工具资源，这些热门工具总共分成13个不同的子板块，这些项目目前在github上已经收到260K个点赞。所有的工具资源每周会自动从GitHub和工具维护平台采集信息，并更新排行展示。本清单参考[best-of模板](https://github.com/best-of-lists/best-of) ⭐ 1,892 | 🐛 22 | 📅 2026-08-28完成，内容参考了[awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,663 | 🐛 17 | 📅 2026-08-28，欢迎大家提PR丰富本清单。
+本资源清单包含270个jupyter相关的开源工具资源，这些热门工具总共分成13个不同的子板块，这些项目目前在github上已经收到260K个点赞。所有的工具资源每周会自动从GitHub和工具维护平台采集信息，并更新排行展示。本清单参考[best-of模板](https://github.com/best-of-lists/best-of) ⭐ 1,893 | 🐛 22 | 📅 2026-08-28完成，内容参考了[awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) ⭐ 4,663 | 🐛 18 | 📅 2026-08-28，欢迎大家提PR丰富本清单。
 
 ## 目录
 
@@ -84,7 +84,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jupyterhub/jupyterhub">JupyterHub</a></b> (🥇25 ·  ⭐ 7.1K) - Jupyter笔记本电脑的多用户服务器。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,332 | 🐛 194 | 🌐 Python | 📅 2026-08-24 (👨‍💻 280 · 🔀 1.7K · 📦 1.9K · 📋 2.1K - 5% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/jupyterhub/jupyterhub) ⭐ 8,331 | 🐛 194 | 🌐 Python | 📅 2026-08-24 (👨‍💻 280 · 🔀 1.7K · 📦 1.9K · 📋 2.1K - 5% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/jupyterhub/jupyterhub
@@ -105,7 +105,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nteract/nteract">nteract</a></b> (🥇25 ·  ⭐ 5.9K) - 交互式计算套件<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nteract/nteract) ⭐ 164 | 🐛 32 | 🌐 Rust | 📅 2026-08-29 (👨‍💻 180 · 🔀 530 · 📥 1.4M · 📋 1.7K - 9% open · ⏱️ 23.07.2022):
+* [GitHub](https://github.com/nteract/nteract) ⭐ 164 | 🐛 32 | 🌐 Rust | 📅 2026-08-30 (👨‍💻 180 · 🔀 530 · 📥 1.4M · 📋 1.7K - 9% open · ⏱️ 23.07.2022):
 
   ```
   git clone https://github.com/nteract/nteract
@@ -118,7 +118,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jupyter/docker-stacks">Docker Stacks</a></b> (🥈22 ·  ⭐ 7.2K) - 包含Jupyter应用程序的即可运行的Docker映像。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/docker-stacks) ⭐ 8,463 | 🐛 8 | 🌐 Python | 📅 2026-08-24 (👨‍💻 220 · 🔀 2.6K · 📋 770 - 5% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/jupyter/docker-stacks) ⭐ 8,463 | 🐛 11 | 🌐 Python | 📅 2026-08-30 (👨‍💻 220 · 🔀 2.6K · 📋 770 - 5% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/jupyter/docker-stacks
@@ -153,7 +153,7 @@
 </details>
 <details><summary><b><a href="https://github.com/nteract/hydrogen">Hydrogen</a></b> (🥉19 ·  ⭐ 3.8K) - 交互运行代码，检查数据并作图。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nteract/hydrogen) ⭐ 4,019 | 🐛 180 | 🌐 TypeScript | 📅 2026-07-19 (👨‍💻 89 · 🔀 320 · 📋 1.3K - 13% open · ⏱️ 25.03.2022):
+* [GitHub](https://github.com/nteract/hydrogen) ⭐ 4,020 | 🐛 180 | 🌐 TypeScript | 📅 2026-07-19 (👨‍💻 89 · 🔀 320 · 📋 1.3K - 13% open · ⏱️ 25.03.2022):
 
   ```
   git clone https://github.com/nteract/hydrogen
@@ -214,7 +214,7 @@
 </details>
 <details><summary><b><a href="https://github.com/microsoft/vscode-jupyter">VSCode Jupyter</a></b> (🥉16 ·  ⭐ 710) - VS Code Jupyter extension. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/vscode-jupyter) ⭐ 1,532 | 🐛 260 | 🌐 TypeScript | 📅 2026-08-25 (👨‍💻 250 · 🔀 150 · 📋 7.7K - 8% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/microsoft/vscode-jupyter) ⭐ 1,533 | 🐛 260 | 🌐 TypeScript | 📅 2026-08-25 (👨‍💻 250 · 🔀 150 · 📋 7.7K - 8% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/microsoft/vscode-jupyter
@@ -238,11 +238,11 @@
 
 *提供交互式UI小部件和可视化工具的扩展。*
 
-🔗 <b>[best-of-ml-python - Data Visualization](https://github.com/ml-tooling/best-of-ml-python#data-visualization) ⭐ 23,738 | 🐛 55 | 📅 2026-08-27</b>  - Python-based data visualization libraries.
+🔗 <b>[best-of-ml-python - Data Visualization](https://github.com/ml-tooling/best-of-ml-python#data-visualization) ⭐ 23,742 | 🐛 55 | 📅 2026-08-27</b>  - Python-based data visualization libraries.
 
 <details><summary><b><a href="https://github.com/jupyter-widgets/ipywidgets">ipywidgets</a></b> (🥇34 ·  ⭐ 2.6K) - Interactive Widgets for the Jupyter Notebook. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,326 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 200 · 🔀 830 · 📦 4.7K · 📋 1.8K - 31% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/jupyter-widgets/ipywidgets) ⭐ 3,327 | 🐛 798 | 🌐 TypeScript | 📅 2026-08-19 (👨‍💻 200 · 🔀 830 · 📦 4.7K · 📋 1.8K - 31% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/jupyter-widgets/ipywidgets
@@ -301,7 +301,7 @@
 </details>
 <details><summary><b><a href="https://github.com/bokeh/bokeh">bokeh</a></b> (🥇28 ·  ⭐ 17K) - 浏览器中的Python交互式数据可视化。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,437 | 🐛 847 | 🌐 Python | 📅 2026-08-29 (👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/bokeh/bokeh) ⭐ 20,436 | 🐛 853 | 🌐 Python | 📅 2026-08-30 (👨‍💻 610 · 🔀 3.9K · 📦 150 · 📋 7K - 9% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/bokeh/bokeh
@@ -318,7 +318,7 @@
 </details>
 <details><summary><b><a href="https://github.com/man-group/dtale">D-Tale</a></b> (🥇27 ·  ⭐ 3.6K) - Visualizer for Pandas Data Structures. <code><a href="https://tldrlegal.com/search?q=LGPL-2.1">❗️LGPL-2.1</a></code></summary>
 
-* [GitHub](https://github.com/man-group/dtale) ⭐ 5,214 | 🐛 70 | 🌐 TypeScript | 📅 2026-07-24 (👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):
+* [GitHub](https://github.com/man-group/dtale) ⭐ 5,215 | 🐛 70 | 🌐 TypeScript | 📅 2026-07-24 (👨‍💻 27 · 🔀 290 · 📦 460 · 📋 470 - 8% open · ⏱️ 07.08.2022):
 
   ```
   git clone https://github.com/man-group/dtale
@@ -1069,7 +1069,7 @@
 </details>
 <details><summary><b><a href="https://github.com/dunovank/jupyter-themes">Jupyter Themes</a></b> (🥈20 ·  ⭐ 9.2K) - Custom Jupyter Notebook Themes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/dunovank/jupyter-themes) ⭐ 9,818 | 🐛 205 | 🌐 CSS | 📅 2025-06-22 (👨‍💻 43 · 🔀 1K · 📋 390 - 48% open · ⏱️ 03.02.2022):
+* [GitHub](https://github.com/dunovank/jupyter-themes) ⭐ 9,820 | 🐛 205 | 🌐 CSS | 📅 2025-06-22 (👨‍💻 43 · 🔀 1K · 📋 390 - 48% open · ⏱️ 03.02.2022):
 
   ```
   git clone https://github.com/dunovank/jupyter-themes
@@ -1082,7 +1082,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jupyter/nbgrader">nbgrader</a></b> (🥈20 ·  ⭐ 1.1K) - 用于在Notebook分配(任务/作业)和评分的系统。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter/nbgrader) ⭐ 1,369 | 🐛 297 | 🌐 Python | 📅 2026-08-11 (👨‍💻 97 · 🔀 290 · 📥 34 · 📋 810 - 24% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/jupyter/nbgrader) ⭐ 1,370 | 🐛 297 | 🌐 Python | 📅 2026-08-11 (👨‍💻 97 · 🔀 290 · 📥 34 · 📋 810 - 24% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/jupyter/nbgrader
@@ -1572,7 +1572,7 @@
 </details>
 <details><summary><b><a href="https://github.com/JuliaLang/IJulia.jl">IJulia.jl</a></b> (🥈19 ·  ⭐ 2.5K) - Jupyter的Julia内核。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/JuliaLang/IJulia.jl) ⭐ 2,897 | 🐛 36 | 🌐 Julia | 📅 2026-06-23 (👨‍💻 100 · 🔀 380 · 📋 790 - 12% open · ⏱️ 23.06.2022):
+* [GitHub](https://github.com/JuliaLang/IJulia.jl) ⭐ 2,899 | 🐛 36 | 🌐 Julia | 📅 2026-06-23 (👨‍💻 100 · 🔀 380 · 📋 790 - 12% open · ⏱️ 23.06.2022):
 
   ```
   git clone https://github.com/JuliaLang/IJulia.jl
@@ -1581,7 +1581,7 @@
 </details>
 <details><summary><b><a href="https://github.com/jupyter-xeus/xeus-cling">xeus-cling</a></b> (🥈19 ·  ⭐ 2.3K · 💤) - 适用于C++编程语言的Jupyter内核。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyter-xeus/xeus-cling) ⭐ 3,295 | 🐛 179 | 🌐 C++ | 📅 2025-10-27 (👨‍💻 20 · 🔀 240 · 📋 250 - 53% open · ⏱️ 17.01.2022):
+* [GitHub](https://github.com/jupyter-xeus/xeus-cling) ⭐ 3,293 | 🐛 179 | 🌐 C++ | 📅 2025-10-27 (👨‍💻 20 · 🔀 240 · 📋 250 - 53% open · ⏱️ 17.01.2022):
 
   ```
   git clone https://github.com/jupyter-xeus/xeus-cling
@@ -1607,7 +1607,7 @@
 </details>
 <details><summary><b><a href="https://github.com/almond-sh/almond">almond</a></b> (🥈19 ·  ⭐ 1.5K) - Jupyter的Scala内核。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/almond-sh/almond) ⭐ 1,625 | 🐛 140 | 🌐 Scala | 📅 2026-08-28 (👨‍💻 36 · 🔀 220 · 📥 1.3K · 📋 300 - 32% open · ⏱️ 24.08.2022):
+* [GitHub](https://github.com/almond-sh/almond) ⭐ 1,625 | 🐛 138 | 🌐 Scala | 📅 2026-08-30 (👨‍💻 36 · 🔀 220 · 📥 1.3K · 📋 300 - 32% open · ⏱️ 24.08.2022):
 
   ```
   git clone https://github.com/almond-sh/almond
@@ -1633,7 +1633,7 @@
 </details>
 <details><summary><b><a href="https://github.com/IHaskell/IHaskell">IHaskell</a></b> (🥈18 ·  ⭐ 2.4K) - 用于IPython的Haskell内核。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/IHaskell/IHaskell) ⭐ 2,655 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-15 (👨‍💻 110 · 🔀 240 · 📦 4 · 📋 740 - 4% open · ⏱️ 22.07.2022):
+* [GitHub](https://github.com/IHaskell/IHaskell) ⭐ 2,656 | 🐛 51 | 🌐 Jupyter Notebook | 📅 2026-08-15 (👨‍💻 110 · 🔀 240 · 📦 4 · 📋 740 - 4% open · ⏱️ 22.07.2022):
 
   ```
   git clone https://github.com/gibiansky/IHaskell
@@ -1832,7 +1832,7 @@
 </details>
 <details><summary><b><a href="https://github.com/lfortran/lfortran">LFortran</a></b> (🥉14 ·  ⭐ 370) - https://gitlab.com/lfortran/lfortran的官方镜像。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,227 | 🐛 2,371 | 🌐 C++ | 📅 2026-08-29 (👨‍💻 38 · 🔀 38 · 📋 470 - 95% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/lfortran/lfortran) ⭐ 1,227 | 🐛 2,377 | 🌐 C++ | 📅 2026-08-30 (👨‍💻 38 · 🔀 38 · 📋 470 - 95% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/lfortran/lfortran
@@ -1967,7 +1967,7 @@
 
 <details><summary><b><a href="https://github.com/jupyter/nbconvert">nbconvert</a></b> (🥇31 ·  ⭐ 1.4K) - Jupyter Notebook Conversion. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/jupyter/nbconvert) ⭐ 1,935 | 🐛 613 | 🌐 Python | 📅 2026-08-03 (👨‍💻 250 · 🔀 480 · 📦 160K · 📋 1K - 42% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/jupyter/nbconvert) ⭐ 1,935 | 🐛 614 | 🌐 Python | 📅 2026-08-03 (👨‍💻 250 · 🔀 480 · 📦 160K · 📋 1K - 42% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/jupyter/nbconvert
@@ -1997,7 +1997,7 @@
 </details>
 <details><summary><b><a href="https://github.com/mwouts/jupytext">Jupytext</a></b> (🥇27 ·  ⭐ 5.5K) - Jupyter Notebooks作为Markdown文档，Julia，Python或R脚本的工具。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mwouts/jupytext) ⭐ 7,235 | 🐛 171 | 🌐 Python | 📅 2026-08-18 (👨‍💻 72 · 🔀 350 · 📦 3.2K · 📋 530 - 12% open · ⏱️ 29.07.2022):
+* [GitHub](https://github.com/mwouts/jupytext) ⭐ 7,237 | 🐛 171 | 🌐 Python | 📅 2026-08-18 (👨‍💻 72 · 🔀 350 · 📦 3.2K · 📋 530 - 12% open · ⏱️ 29.07.2022):
 
   ```
   git clone https://github.com/mwouts/jupytext
@@ -2018,7 +2018,7 @@
 </details>
 <details><summary><b><a href="https://github.com/voila-dashboards/voila">Voila</a></b> (🥈26 ·  ⭐ 4.3K) - Voil将Jupyter笔记本变成独立的Web应用程序。<code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/voila-dashboards/voila) ⭐ 5,939 | 🐛 328 | 🌐 Python | 📅 2026-08-03 (👨‍💻 61 · 🔀 420 · 📥 290 · 📦 7.2K · 📋 610 - 40% open · ⏱️ 11.08.2022):
+* [GitHub](https://github.com/voila-dashboards/voila) ⭐ 5,940 | 🐛 328 | 🌐 Python | 📅 2026-08-03 (👨‍💻 61 · 🔀 420 · 📥 290 · 📦 7.2K · 📋 610 - 40% open · ⏱️ 11.08.2022):
 
   ```
   git clone https://github.com/voila-dashboards/voila
@@ -2090,7 +2090,7 @@
 </details>
 <details><summary><b><a href="https://github.com/stencila/stencila">Stencila</a></b> (🥈23 ·  ⭐ 650) - 用于可复制研究的在线文档。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/stencila/stencila) ⭐ 900 | 🐛 140 | 🌐 Rust | 📅 2026-08-28 (👨‍💻 34 · 🔀 34 · 📥 3.1K · 📦 17 · 📋 560 - 11% open · ⏱️ 29.07.2022):
+* [GitHub](https://github.com/stencila/stencila) ⭐ 900 | 🐛 140 | 🌐 Rust | 📅 2026-08-30 (👨‍💻 34 · 🔀 34 · 📥 3.1K · 📦 17 · 📋 560 - 11% open · ⏱️ 29.07.2022):
 
   ```
   git clone https://github.com/stencila/stencila
@@ -2107,7 +2107,7 @@
 </details>
 <details><summary><b><a href="https://github.com/airbnb/knowledge-repo">Knowledge Repo</a></b> (🥈21 ·  ⭐ 5.2K) - 下一代知识共享平台<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/airbnb/knowledge-repo) ⭐ 5,539 | 🐛 137 | 🌐 Python | 📅 2024-09-04 (👨‍💻 68 · 🔀 650 · 📋 290 - 42% open · ⏱️ 17.08.2022):
+* [GitHub](https://github.com/airbnb/knowledge-repo) ⭐ 5,538 | 🐛 137 | 🌐 Python | 📅 2024-09-04 (👨‍💻 68 · 🔀 650 · 📋 290 - 42% open · ⏱️ 17.08.2022):
 
   ```
   git clone https://github.com/airbnb/knowledge-repo
@@ -2220,7 +2220,7 @@
 </details>
 <details><summary><b><a href="https://github.com/danielfrg/mkdocs-jupyter">mkdocs-jupyter</a></b> (🥉15 ·  ⭐ 150 · 📈) - 在mkdocs中使用Jupyter Notebook。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/danielfrg/mkdocs-jupyter) ⭐ 506 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-04-17 (👨‍💻 13 · 🔀 21 · 📋 57 - 22% open · ⏱️ 04.05.2022):
+* [GitHub](https://github.com/danielfrg/mkdocs-jupyter) ⭐ 507 | 🐛 48 | 🌐 Jupyter Notebook | 📅 2026-04-17 (👨‍💻 13 · 🔀 21 · 📋 57 - 22% open · ⏱️ 04.05.2022):
 
   ```
   git clone https://github.com/danielfrg/mkdocs-jupyter
@@ -2512,7 +2512,7 @@
 </details>
 <details><summary><b><a href="https://github.com/tweag/jupyterWith">JupyterWith</a></b> (🥉14 ·  ⭐ 350) - 声明性和可复制的Jupyter环境-由Nix提供支持。<code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tweag/jupyterWith) ⭐ 744 | 🐛 56 | 🌐 Nix | 📅 2026-08-23 (👨‍💻 31 · 🔀 79 · 📋 110 - 9% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/tweag/jupyterWith) ⭐ 744 | 🐛 56 | 🌐 Nix | 📅 2026-08-30 (👨‍💻 31 · 🔀 79 · 📋 110 - 9% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/tweag/jupyterWith
@@ -2853,7 +2853,7 @@
 
 <details><summary><b><a href="https://github.com/jupyterlab/jupyterlab-git">JupyterLab Git</a></b> (🥇27 ·  ⭐ 1.1K) - JupyterLab的Git扩展。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,610 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 76 · 🔀 230 · 📦 15 · 📋 530 - 15% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/jupyterlab/jupyterlab-git) ⭐ 1,611 | 🐛 145 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 76 · 🔀 230 · 📦 15 · 📋 530 - 15% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/jupyterlab/jupyterlab-git
@@ -2887,7 +2887,7 @@
 </details>
 <details><summary><b><a href="https://github.com/finos/perspective">Perspective</a></b> (🥇21 ·  ⭐ 4.8K) - 通过WebAssembly进行流式透视显示。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/finos/perspective) ⭐ 11,146 | 🐛 56 | 🌐 Rust | 📅 2026-08-29 (👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 23.08.2022):
+* [GitHub](https://github.com/finos/perspective) ⭐ 11,148 | 🐛 56 | 🌐 Rust | 📅 2026-08-29 (👨‍💻 72 · 🔀 490 · 📦 4 · 📋 540 - 14% open · ⏱️ 23.08.2022):
 
   ```
   git clone https://github.com/finos/perspective
@@ -3127,7 +3127,7 @@
 </details>
 <details><summary><b><a href="https://github.com/timkpaine/jupyterlab_iframe">JupyterLab IFrame</a></b> (🥈16 ·  ⭐ 81) - JupyterLab iframe小部件。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/timkpaine/jupyterlab_iframe) ⭐ 118 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-23 (👨‍💻 5 · 🔀 15 · 📦 3 · 📋 66 - 6% open · ⏱️ 21.07.2022):
+* [GitHub](https://github.com/timkpaine/jupyterlab_iframe) ⭐ 118 | 🐛 4 | 🌐 JavaScript | 📅 2026-08-30 (👨‍💻 5 · 🔀 15 · 📦 3 · 📋 66 - 6% open · ⏱️ 21.07.2022):
 
   ```
   git clone https://github.com/timkpaine/jupyterlab_iframe
@@ -3320,7 +3320,7 @@
 </details>
 <details><summary><b><a href="https://github.com/timkpaine/jupyterlab_autoversion">JupyterLab Autoversion</a></b> (🥉14 ·  ⭐ 58) - 在JupyterLab中Jupyter笔记本的自动版本控制。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-08-23 (👨‍💻 5 · 🔀 9 · 📋 32 - 9% open · ⏱️ 21.07.2022):
+* [GitHub](https://github.com/timkpaine/jupyterlab_autoversion) ⭐ 83 | 🐛 5 | 🌐 Python | 📅 2026-08-30 (👨‍💻 5 · 🔀 9 · 📋 32 - 9% open · ⏱️ 21.07.2022):
 
   ```
   git clone https://github.com/timkpaine/jupyterlab_autoversion
@@ -3427,7 +3427,7 @@
 </details>
 <details><summary><b><a href="https://github.com/timkpaine/jupyterlab_email">JupyterLab Flake8</a></b> (🥉12 ·  ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-08-23 (👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):
+* [GitHub](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-08-30 (👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):
 
   ```
   git clone https://github.com/timkpaine/jupyterlab_email
@@ -3457,7 +3457,7 @@
 </details>
 <details><summary><b><a href="https://github.com/timkpaine/jupyterlab_commands">jupyterlab_commands</a></b> (🥉12 ·  ⭐ 37) - Add arbitrary python commands to the jupyterlab.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-23 (👨‍💻 2 · 🔀 5 · 📦 3 · 📋 24 - 8% open · ⏱️ 21.07.2022):
+* [GitHub](https://github.com/timkpaine/jupyterlab_commands) ⭐ 63 | 🐛 1 | 🌐 JavaScript | 📅 2026-08-30 (👨‍💻 2 · 🔀 5 · 📦 3 · 📋 24 - 8% open · ⏱️ 21.07.2022):
 
   ```
   git clone https://github.com/timkpaine/jupyterlab_commands
@@ -3488,7 +3488,7 @@
 </details>
 <details><summary><b><a href="https://github.com/timkpaine/jupyterlab_email">JupyterLab Email</a></b> (🥉11 ·  ⭐ 51) - 一个jupyterlab扩展，可以直接从中发送电子邮件笔记本。<code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-08-23 (👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):
+* [GitHub](https://github.com/timkpaine/jupyterlab_email) ⭐ 61 | 🐛 2 | 🌐 Python | 📅 2026-08-30 (👨‍💻 2 · 🔀 2 · 📋 36 - 11% open · ⏱️ 21.07.2022):
 
   ```
   git clone https://github.com/timkpaine/jupyterlab_email
@@ -3922,7 +3922,7 @@
 
 <details><summary><b><a href="https://github.com/ipython/ipython">ipython</a></b> (🥇34 ·  ⭐ 15K) - Official repository for IPython itself. Other repos in the IPython.. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/ipython/ipython) ⭐ 16,773 | 🐛 1,279 | 🌐 Python | 📅 2026-08-28 (👨‍💻 890 · 🔀 4.2K · 📥 320K · 📦 300K · 📋 7K - 20% open · ⏱️ 22.08.2022):
+* [GitHub](https://github.com/ipython/ipython) ⭐ 16,775 | 🐛 1,279 | 🌐 Python | 📅 2026-08-28 (👨‍💻 890 · 🔀 4.2K · 📥 320K · 📦 300K · 📋 7K - 20% open · ⏱️ 22.08.2022):
 
   ```
   git clone https://github.com/ipython/ipython
@@ -3979,7 +3979,7 @@
 
 <details><summary><b><a href="https://github.com/holoviz/panel">panel</a></b> (🥇31 ·  ⭐ 2.1K) - 适用于Python的高级应用程序和仪表板解决方案。<code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/holoviz/panel) ⭐ 5,763 | 🐛 1,114 | 🌐 Python | 📅 2026-08-29 (👨‍💻 100 · 🔀 270 · 📦 4K · 📋 1.9K - 28% open · ⏱️ 25.08.2022):
+* [GitHub](https://github.com/holoviz/panel) ⭐ 5,764 | 🐛 1,114 | 🌐 Python | 📅 2026-08-30 (👨‍💻 100 · 🔀 270 · 📦 4K · 📋 1.9K - 28% open · ⏱️ 25.08.2022):
 
   ```
   git clone https://github.com/holoviz/panel
@@ -4050,4 +4050,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
