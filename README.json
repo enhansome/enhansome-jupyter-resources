@@ -15,7 +15,7 @@
             "language": "Jupyter Notebook",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-28T07:44:10Z",
-            "open_issues": 1890,
+            "open_issues": 1893,
             "owner": "jupyter",
             "repo": "notebook",
             "stars": 13409,
@@ -41,7 +41,7 @@
             "language": "Python",
             "license": "BSD-3-Clause",
             "last_commit": "2026-10-01T17:25:58Z",
-            "open_issues": 201,
+            "open_issues": 202,
             "owner": "jupyterhub",
             "repo": "jupyterhub",
             "stars": 8348,
@@ -67,8 +67,8 @@
             "id": 1155631492,
             "language": "Rust",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T20:21:11Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-03T21:25:56Z",
+            "open_issues": 50,
             "owner": "nteract",
             "repo": "nteract",
             "stars": 177,
@@ -314,7 +314,7 @@
             "open_issues": 277,
             "owner": "microsoft",
             "repo": "vscode-jupyter",
-            "stars": 1536,
+            "stars": 1537,
             "topics": [
               "datascience",
               "jupyter",
@@ -380,7 +380,7 @@
             "open_issues": 58,
             "owner": "lukasmasuch",
             "repo": "best-of-ml-python",
-            "stars": 23840,
+            "stars": 23841,
             "topics": [
               "automl",
               "chatgpt",
@@ -420,7 +420,7 @@
             "open_issues": 805,
             "owner": "jupyter-widgets",
             "repo": "ipywidgets",
-            "stars": 3332,
+            "stars": 3333,
             "topics": [
               "jupyter-notebooks",
               "jupyterlab-extension"
@@ -444,7 +444,7 @@
             "open_issues": 338,
             "owner": "Data-Centric-AI-Community",
             "repo": "fg-data-profiling",
-            "stars": 13718,
+            "stars": 13719,
             "topics": [
               "big-data-analytics",
               "data-analysis",
@@ -508,11 +508,11 @@
             "id": 3834332,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T03:50:07Z",
-            "open_issues": 846,
+            "last_commit": "2026-10-03T18:49:00Z",
+            "open_issues": 845,
             "owner": "bokeh",
             "repo": "bokeh",
-            "stars": 20455,
+            "stars": 20454,
             "topics": [
               "bokeh",
               "data-visualisation",
@@ -582,7 +582,7 @@
             "open_issues": 279,
             "owner": "bqplot",
             "repo": "bqplot",
-            "stars": 3692,
+            "stars": 3693,
             "topics": [
               "ipython",
               "jupyter",
@@ -753,7 +753,7 @@
             "open_issues": 76,
             "owner": "jupyter-widgets",
             "repo": "pythreejs",
-            "stars": 989,
+            "stars": 990,
             "topics": []
           },
           "title": "pythreejs",
@@ -1004,7 +1004,7 @@
             "open_issues": 323,
             "owner": "evidentlyai",
             "repo": "evidently",
-            "stars": 7962,
+            "stars": 7966,
             "topics": [
               "data-drift",
               "data-quality",
@@ -1684,7 +1684,7 @@
             "open_issues": 387,
             "owner": "ipython-contrib",
             "repo": "jupyter_contrib_nbextensions",
-            "stars": 5273,
+            "stars": 5272,
             "topics": []
           },
           "title": "Contrib NBextensions",
@@ -3103,11 +3103,11 @@
             "id": 177417757,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T04:37:55Z",
-            "open_issues": 3002,
+            "last_commit": "2026-10-03T20:53:39Z",
+            "open_issues": 3017,
             "owner": "lfortran",
             "repo": "lfortran",
-            "stars": 1247,
+            "stars": 1248,
             "topics": [
               "compiler",
               "fortran",
@@ -3510,7 +3510,7 @@
             "open_issues": 670,
             "owner": "jupyter-book",
             "repo": "jupyter-book",
-            "stars": 4280,
+            "stars": 4281,
             "topics": [
               "documentation-generator",
               "jupyter",
@@ -3597,7 +3597,7 @@
             "open_issues": 137,
             "owner": "airbnb",
             "repo": "knowledge-repo",
-            "stars": 5539,
+            "stars": 5538,
             "topics": [
               "data",
               "data-analysis",
@@ -4991,7 +4991,7 @@
             "id": 94917848,
             "language": "TypeScript",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T06:37:06Z",
+            "last_commit": "2026-10-03T15:42:39Z",
             "open_issues": 147,
             "owner": "jupyterlab",
             "repo": "jupyterlab-git",
@@ -5062,7 +5062,7 @@
             "open_issues": 37,
             "owner": "perspective-dev",
             "repo": "perspective",
-            "stars": 11268,
+            "stars": 11266,
             "topics": [
               "analytics",
               "apache-arrow",
@@ -5672,7 +5672,7 @@
             "open_issues": 38,
             "owner": "microsoft",
             "repo": "gather",
-            "stars": 532,
+            "stars": 533,
             "topics": [
               "jupyterlab-extension"
             ]
@@ -6869,7 +6869,7 @@
             "open_issues": 239,
             "owner": "jupyter-server",
             "repo": "jupyter_server",
-            "stars": 570,
+            "stars": 571,
             "topics": [
               "jupyter",
               "server"
@@ -6922,8 +6922,8 @@
             "id": 145848899,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-03T00:34:52Z",
-            "open_issues": 1120,
+            "last_commit": "2026-10-03T18:07:46Z",
+            "open_issues": 1074,
             "owner": "holoviz",
             "repo": "panel",
             "stars": 5782,
@@ -7181,7 +7181,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:52:45.237Z",
+    "last_updated": "2026-10-03T22:25:36.792Z",
     "original_repository_info": {
       "archived": false,
       "description": "a collection of awesome Jupyter Notebook, Hub and Lab projects (extensions, kernels, tools). 热门实用的Jupyter Notebook、Hub和Lab项目（扩展、内核、工具等）集合",
